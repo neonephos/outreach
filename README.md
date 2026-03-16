@@ -15,4 +15,4 @@ We currently have the following members:
 | Christina Sandmark| Elastix AB General Member Rep. |
 | Jürgen Bolz| BWI Premier Member Rep. |
 | Philip Haas| x-cellent Technologies General Member Rep. |
-| Roberto Vanoni| CLYSO |
+| Roberto Vanoni| CLYSO General Member Rep. |
