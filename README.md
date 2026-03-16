@@ -13,6 +13,5 @@ We currently have the following members:
 | Annika Opitz | STACK-IT Premier Member Rep.  |
 | [Ango Abubakar](https://github.com/abuango)  | Kubermatic General Member Rep.  |
 | Christina Sandmark| Elastix AB General Member Rep. |
-| Jürgen Bolz| BWI Premier Member Rep. |
 | Philip Haas| x-cellent Technologies General Member Rep. |
 | Roberto Vanoni| CLYSO General Member Rep. |
