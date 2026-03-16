@@ -1,0 +1,27 @@
+name: Outreach Topic
+description: Topic that the Outreach Committee should discuss or vote on.
+title: "[Outreach Topic]: <your topic here>"
+labels: ["outreach-topic"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to propose a topic for discussion or a vote in the Outreach Committee.
+        All submitted topics will be reviewed. Urgent topics are added to the agenda.
+  - type: textarea
+    id: topic-text
+    attributes:
+      label: Topic Description
+      description: Please describe the topic you would like to have discussed.
+    validations:
+      required: true
+  - type: dropdown
+    id: importance
+    attributes:
+      label: Importance
+      description: How urgent or important is this topic?
+      options:
+        - "Must be discussed in the next Outreach Committee meeting."
+        - "Can be discussed in a future Outreach Committee meeting, but is not urgent."
+    validations:
+      required: true
