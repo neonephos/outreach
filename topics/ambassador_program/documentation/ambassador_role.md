@@ -24,11 +24,11 @@ During the second quarter of 2026, the requirements to be an Ambassador are rela
 
 #### Requirements
 
--   Approval by Outreach Committee to be included into the Ambassador program
+-   Approval by the Outreach Committee via vote to be included into the Ambassador program
     
 ### Community Ambassador Q3 2026 (duration: 1 year)
 
-Starting in Q3 2026, the rules for becoming an Ambassador are strengthened, as now enough time has passed to establish the program.
+Starting in Q3 2026, the rules for becoming an Ambassador are strengthened, as now enough time has passed to establish the program. Applicants are evaluated against these criteria and voted on by the NeoNephos Ambassador working group within the Outreach Committee.
 
 #### Requirements
 
