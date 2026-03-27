@@ -8,7 +8,7 @@ NeoNephos Ambassadors promote our foundation and its projects through participat
 The NeoNephos Ambassador program is overseen by the NeoNephos Outreach Committee. The Outreach Committee may delegate responsibility of overseeing this program to a member of the committee.
 
 ## Who can be an Ambassador?
-Every Ambassador must be at least 18 years old. Additionally, while not stringent, because our foundation focuses on cloud native projects, an ideal Ambassador is well versed in these topics.
+Every Ambassador must be at least 18 years old. If the Ambassador wants to receive NeoNephos merchandise, then being within the European Union or United Kingdom is required. Additionally, while not stringent, because our foundation focuses on cloud native projects, an ideal Ambassador is well versed in these topics.
 
 ## Who approves an Ambassador?
 
@@ -45,6 +45,10 @@ At least one the activities related to the following requirements must have occu
 -   Has otherwise contributed in a manner seen as sufficient by the Outreach Committee.
     
 ## Benefits
+
+### Credly Badge
+
+The Ambassador receives a [NeoNephos Ambassador Credly badge](https://www.credly.com/org/the-linux-foundation/badge/risc-v-ambassador).
 
 ### Discounts on some events
 
