@@ -1,0 +1,61 @@
+name: Apply to become Ambassador
+description: Here you apply to become a NeoNephos Ambassador.
+title: "[Ambassador Application]: <your name here>"
+labels: ["outreach-topic"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to apply to become a NeoNephos Ambassador.
+        All submitted applications will be reviewed by the Outreach Committee.
+  - type: textarea
+    id: ambassador-name
+    attributes:
+      label: Name
+      description: What is your name? Please use a real identifier in lieu of nicknames.
+    validations:
+      required: true
+  - type: textarea
+    id: ambassador-company-affiliations
+    attributes:
+      label: Company
+      description: If you are affiliated with a company, please name it here.
+    validations:
+      required: false
+  - type: textarea
+    id: ambassador-contact
+    attributes:
+      label: Contact
+      description: How can we get in touch with you? List your e-mail and other preferred communication.
+    validations:
+      required: true
+  - type: dropdown
+    id: location
+    attributes:
+      label: Location
+      description: Where do you live? This is important for us to know if we want to send you merchandise or invite you to events.
+      options:
+        - "Within the European Union or United Kingdom."
+        - "North America."
+        - "Other"
+  - type: textarea
+    id: ambassador-reasoning
+    attributes:
+      label: Why do you want to be an Ambassador?
+      description: List the reasons on why do you want to be a NeoNehos Ambassador?
+    validations:
+      required: true
+  - type: textarea
+    id: ambassador-achievements
+    attributes:
+      label: Prior work for NeoNephos
+      description: List all the things you have done for NeoNephos in the past (e.g. organizing events, holding talks).
+    validations:
+      required: true
+  - type: textarea
+    id: ambassador-future-achievements
+    attributes:
+      label: Future work for NeoNephos
+      description: List all the things you intend to do for NeoNephos in the past (e.g. organizing events, holding talks).
+    validations:
+      required: true
