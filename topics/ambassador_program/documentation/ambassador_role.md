@@ -74,4 +74,14 @@ The Outreach Committee liaises with the Ambassador on the exact requirements, ta
 
 ## Application
 
-To become an Ambassador, apply through our Ambassador topic in the NeoNephos Zulip channel.
+To become an Ambassador, apply through our Ambassador topic in the NeoNephos Zulip [channel](https://linuxfoundation.zulipchat.com/#narrow/channel/581518-neonephos-wg-outreach-committee/topic/Ambassador.20Program/with/582210630) with the following details:
+
+- Full Name
+- Company/Affiliation
+- Role
+- Country of Residence
+- Blog or Website
+- LinkedIn
+- YouTube & other social link
+- Why do you want to join the Ambassador Program?
+- Have you participated in any event recent? Kindly list the event and your role in them
