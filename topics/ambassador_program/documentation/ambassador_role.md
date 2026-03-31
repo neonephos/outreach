@@ -38,7 +38,7 @@ At least one the activities related to the following requirements must have occu
 
 -   Held at least 1 NeoNephos focused talk at an event of significance in the eyes of the Outreach Committee.
     
--   Made contributions of significant size to our projects in the eyes of the TAC.
+-   Made contributions of significant size to our projects in the eyes of the Outreach Committee.
     
 -   Created NeoNephos focused content such as videos or blogs to an audience of significant size in the eyes of the Outreach Committee.
     
@@ -74,7 +74,7 @@ The Outreach Committee liaises with the Ambassador on the exact requirements, ta
 
 ## Application
 
-To become an Ambassador, apply through our Ambassador topic in the NeoNephos Zulip [channel](https://linuxfoundation.zulipchat.com/#narrow/channel/581518-neonephos-wg-outreach-committee/topic/Ambassador.20Program/with/582210630) with the following details:
+To become an Ambassador, apply through our [intake form]() with the following details:
 
 - Full Name
 - Company/Affiliation
