@@ -43,6 +43,8 @@ At least one the activities related to the following requirements must have occu
 -   Created NeoNephos focused content such as videos or blogs to an audience of significant size in the eyes of the Outreach Committee.
     
 -   Has otherwise contributed in a manner seen as sufficient by the Outreach Committee.
+
+Fulfillment of these criteria does not guarantee Ambassadorship.
     
 ## Benefits
 
