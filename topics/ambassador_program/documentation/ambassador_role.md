@@ -50,7 +50,7 @@ Fulfillment of these criteria does not guarantee Ambassadorship.
 
 ### Credly Badge
 
-The Ambassador receives a [NeoNephos Ambassador Credly badge](https://www.credly.com/org/the-linux-foundation/badge/risc-v-ambassador).
+The Ambassador receives a NeoNephos Ambassador Credly badge.
 
 ### Discounts on some events
 
