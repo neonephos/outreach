@@ -5,7 +5,7 @@ NeoNephos Ambassadors promote our foundation and its projects through participat
 
 ## Who runs the NeoNephos Ambassador Program?
 
-The NeoNephos Ambassador program is overseen by the NeoNephos Outreach Committee. The Outreach Committee may delegate responsibility of overseeing this program to a member of the committee.
+The NeoNephos Ambassador program is overseen by the NeoNephos Outreach Committee. The Outreach Committee may delegate responsibility of overseeing this program to a member or working group of the committee.
 
 ## Who can be an Ambassador?
 Every Ambassador must be at least 18 years old. If the Ambassador wants to receive NeoNephos merchandise, then being within the European Union or United Kingdom is required. Additionally, while not stringent, because our foundation focuses on cloud native projects, an ideal Ambassador is well versed in these topics.
