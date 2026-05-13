@@ -1,5 +1,5 @@
 
-# NeoNephos Ambassador Program Proposal
+# NeoNephos Ambassador Program Overview
 
 NeoNephos Ambassadors promote our foundation and its projects through participation in events, hosting workshops, creating tutorials or contributing other content. They are a point of contact and knowledge for people interested in NeoNephos and play a fundamental part in our community outreach strategy.
 
