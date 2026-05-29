@@ -14,7 +14,11 @@ Project throughout the ecosystem.
 
 Explicit work items derived from this abstract definition are:
 
-- Proposing
+- Proposing events to the Governing Board
+- Managing the NeoNephos Ambassador Program
+- Managing Merchandise
+- Designing and implementing a marketing and PR strategy
+- Managing Social Media accounts
 
 ## Members
 Our current chairperson is [Annika Opitz](https://github.com/kub3anni) who also has an observer seat at the [NeoNephos Governing Board](https://neonephos.org/governing_board).
