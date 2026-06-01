@@ -44,51 +44,17 @@ body:
         - "North America."
         - "Other"
         - "I pick it up myself."
-  - type: dropdown
-    id: item-1
-    attributes:
-      label: Merchandise Item #1
-      description: Select the first item you want.
-      options:
-        - "T-Shirt"
-        - "Baseball Cap"
-        - "Sticker"
-        - "None"
 
   - type: dropdown
-    id: item-1-qty
+    id: requested-items
     attributes:
-      label: Quantity for Item #1
+      label: Requested Merchandise
+      description: Select all items you want to request.
+      multiple: true
       options:
-        - "0"
-        - "1"
-        - "2"
-        - "3"
-        - "4"
-        - "5"
-
-  - type: dropdown
-    id: item-2
-    attributes:
-      label: Merchandise Item #2
-      description: Select the second item you want.
-      options:
-        - "T-Shirt"
-        - "Baseball Cap"
-        - "Sticker"
-        - "None"
-
-  - type: dropdown
-    id: item-2-qty
-    attributes:
-      label: Quantity for Item #2
-      options:
-        - "0"
-        - "1"
-        - "2"
-        - "3"
-        - "4"
-        - "5"
+        - T-Shirt
+        - Baseball Cap
+        - Sticker
   - type: textarea
     id: requestor-merchandise-reasoning
     attributes:
