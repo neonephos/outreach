@@ -42,14 +42,14 @@ body:
   - type: textarea
     id: requestor-items
     attributes:
-      label: items
+      label: Requested Merchandise
       description: What do you need? See list list of available items here.
     validations:
       required: true
   - type: textarea
     id: requestor-merchandise-reasoning
     attributes:
-      label: Merchandise Reasoning
+      label: Purpose
       description: Why do you need the merchandise (e.g. for a specific event).
     validations:
       required: true
