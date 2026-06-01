@@ -33,7 +33,7 @@ body:
     id: location
     attributes:
       label: Shipping Location
-      description: Where should the merchandise be sent to? Note: The location for self pickup is in Walldorf, Germany.
+      description: Where should the merchandise be sent to? The location for self pickup is in Walldorf, Germany.
         - "Within the European Union or United Kingdom."
         - "North America."
         - "Other"
