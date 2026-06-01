@@ -6,7 +6,7 @@ on:
 
 jobs:
   move-issue-to-pr:
-    if: startsWith(github.event.issue.title, '[request]: merchandise')
+    if: ${{ startsWith(github.event.issue.title, '[request]: merchandise') }}
     runs-on: ubuntu-latest
     permissions:
       issues: write
@@ -14,24 +14,21 @@ jobs:
       pull-requests: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Create local file with content
+      - name: Prepare request file
         uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
             const path = require('path');
-            
-            const dir = './requests';
-            if (!fs.existsSync(dir)){
-                fs.mkdirSync(dir, { recursive: true });
-            }
-            
+
+            const dir = 'requests';
+            if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+
             const issueBody = context.payload.issue.body || '';
             const content = `Your request has been noted. An Outreach Committee team member will get in touch with you.\n\n${issueBody}`;
-            
+
             fs.writeFileSync(path.join(dir, `request-${context.issue.number}.md`), content);
 
       - name: Create Pull Request
@@ -42,8 +39,9 @@ jobs:
           branch: merch-request-${{ github.event.issue.number }}
           commit-message: "Add merchandise request from Issue #${{ github.event.issue.number }}"
           title: "Merchandise Request from #${{ github.event.issue.number }}"
-          body: "This PR automatically captures the merchandise request from issue #${{ github.event.issue.number }}."
+          body: "Automatically generated merchandise request from issue #${{ github.event.issue.number }}."
           base: main
+          delete-branch: false
 
       - name: Comment and close issue
         uses: actions/github-script@v7
@@ -51,16 +49,14 @@ jobs:
           script: |
             const prUrl = "${{ steps.cpr.outputs.pull-request-url }}";
             const issueNumber = context.issue.number;
-            
-            // 1. Comment on the issue
+
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: issueNumber,
               body: `Your request has been moved to [this PR](${prUrl}).`
             });
-            
-            // 2. Close the issue correctly
+
             await github.rest.issues.update({
               owner: context.repo.owner,
               repo: context.repo.repo,
