@@ -39,7 +39,7 @@ jobs:
           branch: "merch-request-${{ github.event.issue.number }}"
           commit-message: "Add merchandise request from Issue #${{ github.event.issue.number }}"
           title: "Merchandise Request from #${{ github.event.issue.number }}"
-          body: "Automatically generated merchandise request from issue #${{ github.event.issue.number }}."
+          body: "This PR has been created from the merchandise request from issue #${{ github.event.issue.number }}. Requestor: An Outreach Committee team member will get in touch with you."
           base: main
 
       - name: Comment and close issue
