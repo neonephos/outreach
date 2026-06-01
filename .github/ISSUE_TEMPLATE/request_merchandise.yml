@@ -2,12 +2,14 @@ name: Request Merchandise
 description: Here you request NeoNephos merchandise.
 title: "[Request]: Merchandise"
 labels: ["outreach-topic"]
+
 body:
   - type: markdown
     attributes:
       value: |
         Use this form to request NeoNephos Merchandise.
         All submitted requests will be reviewed by the Outreach Committee.
+
   - type: textarea
     id: requestor-name
     attributes:
@@ -15,6 +17,7 @@ body:
       description: What is your name? Please use a real identifier in lieu of nicknames.
     validations:
       required: true
+
   - type: textarea
     id: requestor-contact
     attributes:
@@ -22,6 +25,7 @@ body:
       description: How can we get in touch with you? List your e-mail and other preferred communication.
     validations:
       required: true
+
   - type: textarea
     id: requestor-affiliations
     attributes:
@@ -29,6 +33,7 @@ body:
       description: If you are affiliated with one of our projects, please name it here.
     validations:
       required: false
+
   - type: dropdown
     id: location
     attributes:
@@ -39,13 +44,51 @@ body:
         - "North America."
         - "Other"
         - "I pick it up myself."
-  - type: textarea
-    id: requestor-items
+  - type: dropdown
+    id: item-1
     attributes:
-      label: Requested Merchandise
-      description: "What do you need? Write in the format: Item, Quantity. [See list of available items]()."
-    validations:
-      required: true
+      label: Merchandise Item #1
+      description: Select the first item you want.
+      options:
+        - "T-Shirt"
+        - "Baseball Cap"
+        - "Sticker"
+        - "None"
+
+  - type: dropdown
+    id: item-1-qty
+    attributes:
+      label: Quantity for Item #1
+      options:
+        - "0"
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
+
+  - type: dropdown
+    id: item-2
+    attributes:
+      label: Merchandise Item #2
+      description: Select the second item you want.
+      options:
+        - "T-Shirt"
+        - "Baseball Cap"
+        - "Sticker"
+        - "None"
+
+  - type: dropdown
+    id: item-2-qty
+    attributes:
+      label: Quantity for Item #2
+      options:
+        - "0"
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "5"
   - type: textarea
     id: requestor-merchandise-reasoning
     attributes:
