@@ -21,18 +21,18 @@ jobs:
         run: echo "BRANCH_NAME=merch-request-${{ github.event.issue.number }}" >> $GITHUB_ENV
 
       - name: Create local file with content
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
         run: |
           mkdir -p requests
-          cat << 'EOF' > requests/request-${{ github.event.issue.number }}.md
-          Your request has been noted. An Outreach Committee team member will get in touch with you.
-
-          ${{ github.event.issue.body }}
-          EOF
+          echo "Your request has been noted. An Outreach Committee team member will get in touch with you." > requests/request-${{ github.event.issue.number }}.md
+          echo "" >> requests/request-${{ github.event.issue.number }}.md
+          echo "$ISSUE_BODY" >> requests/request-${{ github.event.issue.number }}.md
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@://github.com"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b $BRANCH_NAME
           git add requests/
           git commit -m "Add merchandise request from Issue #${{ github.event.issue.number }}"
