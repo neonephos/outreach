@@ -2,7 +2,8 @@ name: Request Merchandise
 description: Here you request NeoNephos merchandise.
 title: "[Request]: Merchandise"
 labels: ["outreach-topic"]
-
+assignees:
+  - banannadreams
 body:
   - type: markdown
     attributes:
@@ -44,17 +45,18 @@ body:
         - "North America."
         - "Other"
         - "I pick it up myself."
-
   - type: dropdown
     id: requested-items
     attributes:
       label: Requested Merchandise
-      description: Select all items you want to request.
+      description: "Select all items you want to request. Multi-select possible. See more details about the items [here](../../topics/merch/inventory/inventory.csv)."
       multiple: true
       options:
-        - T-Shirt
-        - Baseball Cap
-        - Sticker
+        - NeoNephos T-Shirts
+        - NeoNephos Hoodies
+        - NeoNephos Stickers
+        - Platform Mesh Stickers
+        
   - type: textarea
     id: requestor-merchandise-reasoning
     attributes:
