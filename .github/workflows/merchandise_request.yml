@@ -6,7 +6,7 @@ on:
 
 jobs:
   move-issue-to-pr:
-    if: startsWith(github.event.issue.title, '[request]: merchandise') || startsWith(github.event.issue.title, '[Request]: Merchandise')
+    if: startsWith(github.event.issue.title, '[request]: merchandise')
     runs-on: ubuntu-latest
     permissions:
       issues: write
@@ -17,33 +17,30 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create unique branch name
-        run: echo "BRANCH_NAME=merch-request-${{ github.event.issue.number }}" >> $GITHUB_ENV
-
       - name: Create local file with content
-        env:
-          ISSUE_BODY: ${{ github.event.issue.body }}
-        run: |
-          mkdir -p requests
-          echo "Your request has been noted. An Outreach Committee team member will get in touch with you." > requests/request-${{ github.event.issue.number }}.md
-          echo "" >> requests/request-${{ github.event.issue.number }}.md
-          echo "$ISSUE_BODY" >> requests/request-${{ github.event.issue.number }}.md
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -b $BRANCH_NAME
-          git add requests/
-          git commit -m "Add merchandise request from Issue #${{ github.event.issue.number }}"
-          git push origin $BRANCH_NAME
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            
+            const dir = './requests';
+            if (!fs.existsSync(dir)){
+                fs.mkdirSync(dir, { recursive: true });
+            }
+            
+            const issueBody = context.payload.issue.body || '';
+            const content = `Your request has been noted. An Outreach Committee team member will get in touch with you.\n\n${issueBody}`;
+            
+            fs.writeFileSync(path.join(dir, `request-${context.issue.number}.md`), content);
 
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ env.BRANCH_NAME }}
+          branch: merch-request-${{ github.event.issue.number }}
+          commit-message: "Add merchandise request from Issue #${{ github.event.issue.number }}"
           title: "Merchandise Request from #${{ github.event.issue.number }}"
           body: "This PR automatically captures the merchandise request from issue #${{ github.event.issue.number }}."
           base: main
@@ -63,11 +60,11 @@ jobs:
               body: `Your request has been moved to [this PR](${prUrl}).`
             });
             
-            // 2. Close the issue
+            // 2. Close the issue correctly
             await github.rest.issues.update({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: issueNumber,
-              status: 'completed',
-              state: 'closed'
+              state: 'closed',
+              state_reason: 'completed'
             });
