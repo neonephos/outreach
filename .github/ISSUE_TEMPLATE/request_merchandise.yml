@@ -43,7 +43,7 @@ body:
     id: requestor-items
     attributes:
       label: Requested Merchandise
-      description: What do you need? See list list of available items here.
+      description: What do you need? Write in the format: Item, Quantity. See list of available items here.
     validations:
       required: true
   - type: textarea
