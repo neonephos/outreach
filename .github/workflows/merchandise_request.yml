@@ -6,7 +6,7 @@ on:
 
 jobs:
   move-issue-to-pr:
-    if: ${{ startsWith(github.event.issue.title, '[request]: merchandise') }}
+    if: "${{ startsWith(github.event.issue.title, '[request]: merchandise') }}"
     runs-on: ubuntu-latest
     permissions:
       issues: write
@@ -36,12 +36,11 @@ jobs:
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: merch-request-${{ github.event.issue.number }}
+          branch: "merch-request-${{ github.event.issue.number }}"
           commit-message: "Add merchandise request from Issue #${{ github.event.issue.number }}"
           title: "Merchandise Request from #${{ github.event.issue.number }}"
           body: "Automatically generated merchandise request from issue #${{ github.event.issue.number }}."
           base: main
-          delete-branch: false
 
       - name: Comment and close issue
         uses: actions/github-script@v7
