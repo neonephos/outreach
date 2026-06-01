@@ -1,0 +1,73 @@
+name: Handle Merchandise Request
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  move-issue-to-pr:
+    if: startsWith(github.event.issue.title, '[request]: merchandise') || startsWith(github.event.issue.title, '[Request]: Merchandise')
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create unique branch name
+        run: echo "BRANCH_NAME=merch-request-${{ github.event.issue.number }}" >> $GITHUB_ENV
+
+      - name: Create local file with content
+        run: |
+          mkdir -p requests
+          cat << 'EOF' > requests/request-${{ github.event.issue.number }}.md
+          Your request has been noted. An Outreach Committee team member will get in touch with you.
+
+          ${{ github.event.issue.body }}
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@://github.com"
+          git checkout -b $BRANCH_NAME
+          git add requests/
+          git commit -m "Add merchandise request from Issue #${{ github.event.issue.number }}"
+          git push origin $BRANCH_NAME
+
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ env.BRANCH_NAME }}
+          title: "Merchandise Request from #${{ github.event.issue.number }}"
+          body: "This PR automatically captures the merchandise request from issue #${{ github.event.issue.number }}."
+          base: main
+
+      - name: Comment and close issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const prUrl = "${{ steps.cpr.outputs.pull-request-url }}";
+            const issueNumber = context.issue.number;
+            
+            // 1. Comment on the issue
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issueNumber,
+              body: `Your request has been moved to [this PR](${prUrl}).`
+            });
+            
+            // 2. Close the issue
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issueNumber,
+              status: 'completed',
+              state: 'closed'
+            });
