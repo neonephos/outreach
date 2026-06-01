@@ -1,0 +1,54 @@
+name: Request Merchandise
+description: Here you request NeoNephos merchandise.
+title: "[Request]: Merchandise"
+labels: ["outreach-topic"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to request NeoNephos Merchandise.
+        All submitted requests will be reviewed by the Outreach Committee.
+  - type: textarea
+    id: requestor-name
+    attributes:
+      label: Name
+      description: What is your name? Please use a real identifier in lieu of nicknames.
+    validations:
+      required: true
+  - type: textarea
+    id: requestor-contact
+    attributes:
+      label: Contact
+      description: How can we get in touch with you? List your e-mail and other preferred communication.
+    validations:
+      required: true
+  - type: textarea
+    id: requestor-affiliations
+    attributes:
+      label: Project Affiliations
+      description: If you are affiliated with one of our projects, please name it here.
+    validations:
+      required: false
+  - type: dropdown
+    id: location
+    attributes:
+      label: Shipping Location
+      description: Where should the merchandise be sent to? Note: The location for self pickup is in Walldorf, Germany.
+        - "Within the European Union or United Kingdom."
+        - "North America."
+        - "Other"
+        - "I pick it up myself."
+  - type: textarea
+    id: requestor-items
+    attributes:
+      label: items
+      description: What do you need? See list list of available items here.
+    validations:
+      required: true
+  - type: textarea
+    id: requestor-merchandise-reasoning
+    attributes:
+      label: Merchandise Reasoning
+      description: Why do you need the merchandise (e.g. for a specific event).
+    validations:
+      required: true
