@@ -60,7 +60,7 @@ body:
         - NeoNephos Flyers
         - Platform Mesh Stickers
   - type: dropdown
-    id: requested-items
+    id: requested-items-amount
     attributes:
       label: How many do you need?
       description: "How many items do you need per category? Note: For items with
