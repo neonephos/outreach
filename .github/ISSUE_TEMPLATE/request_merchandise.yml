@@ -1,7 +1,9 @@
+---
 name: Request Merchandise
 description: Here you request NeoNephos merchandise.
 title: "[Request]: Merchandise"
-labels: ["outreach-topic"]
+labels:
+  - outreach-topic
 assignees:
   - banannadreams
 body:
@@ -10,7 +12,6 @@ body:
       value: |
         Use this form to request NeoNephos Merchandise.
         All submitted requests will be reviewed by the Outreach Committee.
-
   - type: textarea
     id: requestor-name
     attributes:
@@ -18,15 +19,14 @@ body:
       description: What is your name? Please use a real identifier in lieu of nicknames.
     validations:
       required: true
-
   - type: textarea
     id: requestor-contact
     attributes:
       label: Contact
-      description: How can we get in touch with you? List your e-mail and other preferred communication.
+      description: How can we get in touch with you? List your e-mail and other
+        preferred communication.
     validations:
       required: true
-
   - type: textarea
     id: requestor-affiliations
     attributes:
@@ -34,22 +34,24 @@ body:
       description: If you are affiliated with one of our projects, please name it here.
     validations:
       required: false
-
   - type: dropdown
     id: location
     attributes:
       label: Shipping Location
-      description: Where should the merchandise be sent to? The location for self pickup is in Walldorf, Germany.
+      description: Where should the merchandise be sent to? The location for self
+        pickup is in Walldorf, Germany.
       options:
-        - "Within the European Union or United Kingdom."
-        - "North America."
-        - "Other"
-        - "I pick it up myself."
+        - Within the European Union or United Kingdom.
+        - North America.
+        - Other
+        - I pick it up myself.
   - type: dropdown
     id: requested-items
     attributes:
       label: Requested Merchandise
-      description: "Select all items you want to request. Multi-select possible. See more details about the items [here](../../topics/merch/inventory/inventory.csv)."
+      description: Select all items you want to request. Multi-select possible. See
+        more details about the items
+        [here](../../topics/merch/inventory/inventory.csv).
       multiple: true
       options:
         - NeoNephos T-Shirts
@@ -57,18 +59,20 @@ body:
         - NeoNephos Stickers
         - NeoNephos Flyers
         - Platform Mesh Stickers
-   - type: dropdown
-     id: requested-items
-     attributes:
-       label: How many do you need?
-       description: "How many items do you need per category? Note: For items with various sizes like T-Shirts, you will be asked to specify which sizes you need later."
-       multiple: true
-       options:
-         - 10 per selected item
-         - 20 per selected item
-         - 50 per selected item
-         - 100 per selected item
-         - Other     
+  - type: dropdown
+    id: requested-items
+    attributes:
+      label: How many do you need?
+      description: "How many items do you need per category? Note: For items with
+        various sizes like T-Shirts, you will be asked to specify which sizes
+        you need later."
+      multiple: true
+      options:
+        - 10 per selected item
+        - 20 per selected item
+        - 50 per selected item
+        - 100 per selected item
+        - Other
   - type: textarea
     id: requestor-merchandise-reasoning
     attributes:
