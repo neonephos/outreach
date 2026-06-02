@@ -58,17 +58,17 @@ body:
         - NeoNephos Flyers
         - Platform Mesh Stickers
    - type: dropdown
-    id: requested-items
-    attributes:
-      label: How many do you need?
-      description: "How many items do you need per category? Note: For items with various sizes like T-Shirts, you will be asked to specify which sizes you need later."
-      multiple: true
-      options:
-        - 10 per selected item
-        - 20 per selected item
-        - 50 per selected item
-        - 100 per selected item
-        - Other     
+     id: requested-items
+     attributes:
+       label: How many do you need?
+       description: "How many items do you need per category? Note: For items with various sizes like T-Shirts, you will be asked to specify which sizes you need later."
+       multiple: true
+       options:
+         - 10 per selected item
+         - 20 per selected item
+         - 50 per selected item
+         - 100 per selected item
+         - Other     
   - type: textarea
     id: requestor-merchandise-reasoning
     attributes:
