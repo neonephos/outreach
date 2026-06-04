@@ -20,6 +20,12 @@ Explicit work items derived from this abstract definition are:
 - Designing and implementing a marketing and PR strategy
 - Managing Social Media accounts
 
+## Meetings
+
+Monthly on Wednesdays @3PM CET/CEST.
+
+All meetings are managed by the Linux Foundation Project Control Center.
+
 ## Members
 Our current chairperson is [Annika Opitz](https://github.com/kub3anni) who also has an observer seat at the [NeoNephos Governing Board](https://neonephos.org/governing_board).
 All our current members and their voting statuses are kept up-to-date [here](https://neonephos.org/outreach_committee).
