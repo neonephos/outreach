@@ -27,13 +27,9 @@ This is currently being fleshed out. But you can expect the usual goodies, such 
 
 The best way to get in touch is to [raise an issue in this repository](https://github.com/neonephos/outreach/issues/new/choose).
 
-Our current chairperson is [Annika Opitz](https://github.com/kub3anni) who also has an observer seat at the [NeoNephos Governing Board](https://neonephos.org/governing_board).
-All our current members and their voting statuses are kept up-to-date [here](https://neonephos.org/outreach_committee).
-
 ## How to get involved in this Special Interest Group
 
-Formal Membership in the NeoNephos Outreach Committee is not required for this working group. 
-
+There are no formal requirements to join this group. Outreach Committee Members are eligible to join at any time. Just [raise an issue in this repository](https://github.com/neonephos/outreach/issues/new/choose). If you prefer a quick chat beforehand, reach out on the ```neonephos-discussion``` channel [on Zulip](https://linuxfoundation.zulipchat.com/#narrow/channel/525732-neonephos-discussion/topic/.E2.9C.94.20channel.20events/with/558483910). The SIG decides on new members on a case-by-case basis, depending on what is needed.
 
 > [!TIP]
 > Participation in our SIGs is decided by the SIGs themselves. [Check the SIGs](https://github.com/neonephos/outreach/tree/main/topics) to see their membership requirements.
