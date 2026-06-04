@@ -13,7 +13,7 @@ As defined in our [Ambassador Program Overview Document](documentation/ambassado
 
 ## How to become an Ambassador?
 
-Read up on the [Ambassador Program Overview Document](documentation/ambassador_role.md).
+The steps needed to become an Ambassador are listed in the [Ambassador Program Overview Document](documentation/ambassador_role.md).
 
 ## What benefits do I get as an Ambassador?
 
