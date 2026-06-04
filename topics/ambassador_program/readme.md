@@ -11,6 +11,16 @@ As defined in our [Ambassador Program Overview Document](documentation/ambassado
 
 > NeoNephos Ambassadors promote our foundation and its projects through participation in events, hosting workshops, creating tutorials or contributing other content. They are a point of contact and knowledge for people interested in NeoNephos and play a fundamental part in our community outreach strategy.
 
+## Meetings
+
+Biweekly on Thursdays @2PM CET/CEST.
+
+Exceptions may occur for the confirmation of Ambassador Applicants.
+
+All meetings are managed by the Linux Foundation Project Control Center.
+
+- [Meeting Minutes](minutes/)
+
 ## How to become an Ambassador?
 
 The steps needed to become an Ambassador are listed in the [Ambassador Program Overview Document](documentation/ambassador_role.md).
