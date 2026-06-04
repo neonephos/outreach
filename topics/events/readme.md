@@ -7,7 +7,7 @@
 
 ## What do we do?
 
-todo
+This group is concerned with proposing events of interest to the NeoNephos Governing Board.
 
 ## Point of Contact
 
