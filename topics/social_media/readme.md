@@ -5,6 +5,14 @@
 > [!TIP]
 > Formal Membership in the NeoNephos Outreach Committee is not required to be involved in this working group. 
 
+## Meetings
+
+Biweekly on Thursdays @2PM CET/CEST.
+
+All meetings are managed by the Linux Foundation Project Control Center.
+
+- [Meeting Minutes](minutes/)
+
 ## Point of Contact
 
 The best way to get in touch is to [raise an issue in this repository](https://github.com/neonephos/outreach/issues/new/choose).
