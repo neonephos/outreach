@@ -6,10 +6,22 @@ The [Events Board](https://github.com/orgs/neonephos/projects/8/views/1) collect
 
 <img width="1904" height="482" alt="image" src="https://github.com/user-attachments/assets/b7c47c85-d03f-4a47-82cb-82b405ebc4dd" />
 
-## How Events get prioritized
+It is the primary source of information about upcoming and past events pertinent to the NeoNephos Foundation
 
-When prioritizing events, the 
-While creating this list, the Outreach Committee makes reasonable guesses as to the type of engagement required given the funding.
+## Adding Events
+
+Anyone with access to the [Events repository](https://github.com/neonephos/events) and [Events](https://github.com/orgs/neonephos/projects/8/views/1) board can make an event proposal.
+
+<img width="757" height="289" alt="{556EE10E-5E92-406C-B141-2BA61FBF05CD}" src="https://github.com/user-attachments/assets/66fc205b-00c2-4aaa-a4a2-cecbe99152fd" />
+
+> [!IMPORTANT]
+> Make sure to always select the ```neonephos/events``` repository as the underlying repository for the issue.
+
+> [!IMPORTANT]
+> Always use the ```Add event``` issue template to avoid potentially long delays in processing your request.
+
+> [!NOTE]
+> Anyone can add an event, even if the requestor does not intend to attend.
 
 ## How the Outreach Committee proposes events to the Governing Board
 
@@ -46,4 +58,8 @@ The event is now linked:
 Each event must have a label.
 <img width="408" height="148" alt="image" src="https://github.com/user-attachments/assets/6b6f3382-faa8-4a5f-bbb5-cbf6128bf0cb" />
 
+#### How Events get prioritized
 
+While creating this list, the Outreach Committee makes reasonable guesses as to the type of engagement required for an event given the expected availability in resources, such as manpower or funding.
+
+> [!NOTE] When estimating costs for an event, discounts should only be included if they are certain.
