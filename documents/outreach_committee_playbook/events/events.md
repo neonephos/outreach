@@ -37,7 +37,7 @@ The Outreach Committee Event SIG is responsible for proposing events to the Gove
 ### Procedure
 
 1. Outreach Committee Events SIG ensures for each issue:
-    1. All form entries of the ```Add Event``` template are filled out to the satisfaction of the Outreach Committee Events SIG.
+    1. All form entries from the ```Add Event``` template are filled out to the satisfaction of the Outreach Committee Events SIG.
     2. The engagement type label ```booth``` and / or ```talk``` is given.
 2. Outreach Committee Chairperson is responsible for creating the events package for consideration of the board:
     1. Go to the [Governing Board Repository page](https://github.com/neonephos/gb/issues).
