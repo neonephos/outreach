@@ -66,7 +66,8 @@ body:
         - NeoNephos Stickers
         - NeoNephos Flyers
         - NeoNephos Socks
-        - NeoNephos Cap / Beanie
+        - NeoNephos Caps / Beanies
+        - NeoNephos Badges
         - Platform Mesh Stickers
   - type: textarea
     id: requested-items-amount
