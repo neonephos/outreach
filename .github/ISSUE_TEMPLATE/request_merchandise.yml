@@ -13,6 +13,13 @@ body:
         Use this form to request NeoNephos Merchandise.
         All submitted requests will be reviewed by the Outreach Committee.
   - type: textarea
+    id: requestor-merchandise-reasoning
+    attributes:
+      label: Purpose
+      description: Why do you need the merchandise (e.g. for a specific event).
+    validations:
+      required: true
+  - type: textarea
     id: requestor-name
     attributes:
       label: Name
@@ -30,8 +37,8 @@ body:
   - type: textarea
     id: requestor-affiliations
     attributes:
-      label: Project Affiliations
-      description: If you are affiliated with one of our projects, please name it here.
+      label: Affiliation
+      description: Are you involed in one of our projects, committees or the NeoNephos Org on GitHub?
     validations:
       required: false
   - type: dropdown
@@ -66,12 +73,5 @@ body:
     attributes:
       label: How many do you need?
       description: "How many items do you need per category? A rough estimation per item is sufficient."
-    validations:
-      required: true
-  - type: textarea
-    id: requestor-merchandise-reasoning
-    attributes:
-      label: Purpose
-      description: Why do you need the merchandise (e.g. for a specific event).
     validations:
       required: true
