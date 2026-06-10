@@ -18,14 +18,6 @@ If not otherwise stated by the Outreach Committee, following an Ambassador appli
 
 Being a NeoNephos Ambassador requires continuous commitment to advance our outreach efforts. Therefore, the Ambassador position sunsets and must be renewed. There is no limit for existing Ambassadors to reapply for the title. Each program is associated with a Creedly badge.
 
-### Community Ambassador Q2 2026 (duration: 3 months)
-
-During the second quarter of 2026, the requirements to be an Ambassador are relaxed in order to establish the Ambassador program.
-
-#### Requirements
-
--   Approval by the Outreach Committee via vote to be included into the Ambassador program
-    
 ### Community Ambassador Q3 2026 (duration: 1 year)
 
 Starting in Q3 2026, the rules for becoming an Ambassador are strengthened, as now enough time has passed to establish the program. Applicants are evaluated against these criteria and voted on by the NeoNephos Ambassador working group within the Outreach Committee.
