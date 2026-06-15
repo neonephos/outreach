@@ -38,9 +38,9 @@ Regular goal is a basis of 2–3 posts per week. But always depending on how muc
 
 Each goal maps to a distinct content type. Distribute roughly equally across the week:
 
-- **Brand Awareness — Who we are?:** Tech-Talks, conference contributions, blog posts, project milestones.
-- **Building reach & Community — We belong here:** Short takes on relevant developments in the ecosystem. (Sovereignty, IPCEI, new projects, etc.)
-- **Members — Why join?:** Concrete insights into what the foundation delivers (who's a member and why?) + transparency over what's happening in Working Groups.
+- **Brand Awareness – Who we are?:** Tech-Talks, conference contributions, blog posts, project milestones.
+- **Building reach & Community – We belong here:** Short takes on relevant developments in the ecosystem. (Sovereignty, IPCEI, new projects, etc.)
+- **Members – Why join?:** Concrete insights into what the foundation delivers (who's a member and why?) + transparency over what's happening in Working Groups.
 
 ### Core Content Topics
 
