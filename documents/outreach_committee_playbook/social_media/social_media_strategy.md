@@ -71,7 +71,7 @@ Reply to every comment within 24 hours. This is non-negotiable for a community-b
 
 ### Quarterly Review
 
-Every three months: check in with team which posts worked, which content type attracts which audience. Optimize for profile visits, follower growth, and comment quality – not likes.
+Every three months: check in with team which posts worked, which content type attracts which audience. Optimize for profile visits, follower growth, and comment quality, not likes.
 
 **Focus on:**
 - Profile visits
