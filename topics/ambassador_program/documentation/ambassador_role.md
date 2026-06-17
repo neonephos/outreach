@@ -42,7 +42,7 @@ Fulfillment of these criteria does not guarantee Ambassadorship.
 
 ### Credly Badge
 
-The Ambassador receives a NeoNephos Ambassador Credly badge.
+The Ambassador receives a NeoNephos Ambassador [Credly badge](https://www.credly.com/org/the-linux-foundation/badge/neonephos-ambassador.1).
 
 ### Discounts on some events
 
