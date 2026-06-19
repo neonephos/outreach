@@ -163,3 +163,7 @@ Comments are also a feedback mechanism. They help us:
 - Strong discussions → create follow-up posts
 - Repeated questions → turn into content (posts, blogs, events)
 - Controversial takes → refine positioning
+
+### Requesting Access for Social Media Channels
+
+- Access to the Social Media Channels will be voted on Zulip through a simple yes or no vote. 
