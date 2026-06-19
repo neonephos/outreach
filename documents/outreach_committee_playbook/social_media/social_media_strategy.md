@@ -160,6 +160,12 @@ Comments are also a feedback mechanism. They help us:
 
 ### How We Use This
 
+Escalatory Engagament Ladder:
+
+- Like: Superficial engagement,done for: passing comments about NeoNephos or related activity of our members / ambassadors / projects
+- Repost: Done for: Concrete NeoNephos Foundation involvement apparent / main topic
+- Repost & Comment: Done for: Concretization of NeoNephos involvement in posts pertinent to our Foundation
+
 - Strong discussions → create follow-up posts
 - Repeated questions → turn into content (posts, blogs, events)
 - Controversial takes → refine positioning
