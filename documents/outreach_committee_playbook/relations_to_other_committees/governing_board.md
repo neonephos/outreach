@@ -48,3 +48,18 @@ The Outreach Committee Chairperson is invited to Governing Board Strategy Worksh
     1. Opens [an issue in the Governing Board repository](https://github.com/neonephos/gb/issues), asking for agenda proposals for the Outreach Committee part of the Governing Board meeting.
 2. At most 2 days prior to the next Governing meeting, the call for agenda topics is closed and the Outreach Committee Chairperson liaises with the Governing Board Chairperson and LFEU staff to integrate the Outreach Committee contribution to the general meeting agenda.
 
+## Quarterly Reviews
+
+Every quarter the Outreach Committee Chairperson provides a formalized update to the Governing Board about the committee's progress:
+
+* How the Outreach Committee's efforts supported hitting the NeoNephos roadmap targets.
+* Overview about the status of the committee's SIGs
+* Brief overview about future efforts
+
+### Timelines
+
+The frequency of providing Outreach Committee quarterly reviews is to be aligned with the NeoNephos roadmap. This usually means an update for the previous quarter is given until the 28th of the first month of the following quarter.
+
+### Procedure
+
+1. The Outreach Committee Chairperson submits the Submit Quarterly Update (Outreach Committee) [issue template](https://github.com/neonephos/gb/issues) on the dedicated date.
