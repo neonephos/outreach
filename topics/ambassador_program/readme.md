@@ -25,6 +25,9 @@ All meetings are managed by the Linux Foundation Project Control Center.
 
 The steps needed to become an Ambassador are listed in the [Ambassador Program Overview Document](documentation/ambassador_role.md).
 
+> [!WARNING]
+> ⚠️ Our Ambassador applicant queue is long! Processing times will take more than a month. Check back here for updates!
+
 ## What benefits do I get as an Ambassador?
 
 This is currently being fleshed out. But you can expect the usual goodies, such as:
