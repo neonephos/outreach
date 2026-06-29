@@ -62,4 +62,4 @@ The frequency of providing Outreach Committee quarterly reviews is to be aligned
 
 ### Procedure
 
-1. The Outreach Committee Chairperson submits the Submit Quarterly Update (Outreach Committee) [issue template](https://github.com/neonephos/gb/issues) on the dedicated date.
+1. On the dedicated date, the Outreach Committee Chairperson submits the ```Submit Quarterly Update (Outreach Committee)``` [issue template](https://github.com/neonephos/gb/issues).
