@@ -22,9 +22,6 @@ member of the Governing Board.
 
 This document provides a baseline on how this close coordination is faciliated so that the Governing Board receives sufficient information about the activities of the Outreach Committee at all times.
 
-> [!NOTE]
-> The Outreach Committee is free to select more 
-
 ## Governing Board Meetings
 
 ### Scope
