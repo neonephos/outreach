@@ -46,6 +46,8 @@ A Social Media Strategy Document Once accepted, each Social Media Document has a
 
 #### Active
 
+A Social Media Strategy Document is active, once it has been approved by the Outreach Committee *and* its indicated validity timeline starts.
+
 #### Emeritus
 
 A Social Media Strategy Document is in Emeritus once its indicated validity timeline expires, is superseded by another Social Media Strategy Document or by simple vote of the Outreach Committee or its Social Media SIG. Once in Emeritus, the Chairperson of the Social Media SIG (or a representative thereof) fills out the Submit Social Media Strategy Results Issue template [here](https://github.com/neonephos/outreach/issues).
