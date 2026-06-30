@@ -77,6 +77,9 @@ This meeting addresses:
 
 ## List of NeoNephos Social Media Strategy Documents
 
+The following Social Media Strategy Documents currently exist:
+
+* [Social Media Strategy Q3 2026 - Q1 2027]()
 
 ## Working with Third Parties
 
