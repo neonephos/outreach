@@ -1,6 +1,6 @@
 # Social Media Strategy General Conditions & Rules
 
-This document describes the general rules and processes governing the definition, scope and lifecycle of a NeoNephos Social Media Strategy Document.
+This document describes the general rules and processes governing the NeoNephos Social Media Strategy.
 
 > [!NOTE]
 > Each NeoNephos Social Media Strategy plan adheres to the rules and processes set out in this document.
@@ -20,6 +20,14 @@ The responsibility of creation, modification and maintenance of any NeoNephos So
 This document may be changed by simple majority in the [Social Media SIG](https://github.com/neonephos/outreach/tree/main/topics/social_media) or simple majority in the Outreach Committee.
 
 ## Definitions
+
+### NeoNephos Social Media Strategy
+
+The NeoNephos Social Media Strategy minimally consists of:
+
+1. The Social Media Strategy Document (valid for the indicated timeline).
+2. The Social Media Strategy Operations Document.
+3. Related supplemental documents, as indicated here.
 
 ## Social Media Strategy Document
 
