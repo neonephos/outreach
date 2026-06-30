@@ -50,7 +50,7 @@ Social Media Strategy Documents are always in markdown. The source of truth is t
 
 ## Lifecycle
 
-A Social Media Strategy Document, once accepted, has a dedicated lifecycle. The change in lifecycle does not have to be actively voted upon but is implied implicitly by the Social Media Document's time frame of validity.
+A Social Media Strategy Document, once accepted, has a dedicated lifecycle. The change in lifecycle does not have to be actively voted upon but is implied  by the Social Media Document's timeframe of validity.
 
 #### Active
 
