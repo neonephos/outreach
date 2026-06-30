@@ -31,7 +31,10 @@ The NeoNephos Social Media Strategy minimally consists of:
 
 ## Social Media Strategy Document
 
-> The Social Media Strategy Document describes the concrete implementation of the NeoNephos Social Media Strategy for a given timeframe. It is always scoped and time bounded in nature. If the timelines of two Social Media Strategy Documents overlap, the newer document takes precedence. It is developed by the Outreach Committe's Social Media SIG.
+> The Social Media Strategy Document describes the NeoNephos Social Media Strategy for a given timeframe. It lays out how social media is used to optimally and measuarbly support the vision set out by the NeoNephos Governing Board. 
+
+> [!Note]
+> If the timelines of two Social Media Strategy Documents overlap, the newer document takes precedence. It is developed by the Outreach Committe's Social Media SIG.
 
 > [!Warning]
 > A Social Media Strategy Document is never unbounded in duration. Typically its window of validity is aligned with the strategic roadmap of the Governing Board.
