@@ -70,7 +70,7 @@ After conclusion of a Social Media Strategy Document (e.g. due to expiration) a 
 
 This meeting addresses:
 
-* Have the Success Criteria outlines in the Social Media Strategy Document been reached in the indicated period?
+* Have the success criteria outlined in the Social Media Strategy Document been reached in the indicated period?
 * What went well?
 * What went wrong?
 * Estimation of total costs spent in the endeavour of furthering the strategy outlined in the Social Media Strategy Document.
