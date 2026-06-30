@@ -41,8 +41,9 @@ The NeoNephos Social Media Strategy minimally consists of:
 The minimum elements a NeoNephos Social Media Strategy Document should contain is the following:
 
 * **Timeframe of validity**: It MUST be stated for how long the document is valid.
-* **Reference to Vision Documents**: It MUST be mentioned which concrete foundational documents (e.g. NeoNephos Roadmap) have been used to derive the Social Media Strategy.
-* **Success Criteria**: The Socia Media Strategy Document needs to have its own measurable success criteria (e.g. [SMART goals](https://en.wikipedia.org/wiki/SMART_criteria)).
+* **Reference to Vision Documents**: It MUST contain an explanation about which concrete foundational documents (e.g. NeoNephos Roadmap) have been used to derive the Social Media Strategy.
+* **Roadmap**: It MUST contain a roadmap.
+* **Success Criteria**: It MUST have its own measurable success criteria (e.g. [SMART goals](https://en.wikipedia.org/wiki/SMART_criteria)).
 
 ### Format
 
