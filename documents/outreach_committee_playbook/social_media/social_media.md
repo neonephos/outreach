@@ -42,15 +42,30 @@ Social Media Strategy Documents are always in markdown. The source of truth is t
 
 ## Lifecycle
 
-A Social Media Strategy Document Once accepted, each Social Media Document has a dedicated lifecycle. The change in lifecycle does not have to be actively voted upon but is implied implicitly by the Social Media Document's time frame of validity.
+A Social Media Strategy Document, once accepted, has a dedicated lifecycle. The change in lifecycle does not have to be actively voted upon but is implied implicitly by the Social Media Document's time frame of validity.
 
 #### Active
 
-A Social Media Strategy Document is active, once it has been approved by the Outreach Committee *and* its indicated validity timeline starts.
+A Social Media Strategy Document is active once it has been approved by the Outreach Committee *and* its indicated validity timeline starts.
 
 #### Emeritus
 
 A Social Media Strategy Document is in Emeritus once its indicated validity timeline expires, is superseded by another Social Media Strategy Document or by simple vote of the Outreach Committee or its Social Media SIG. Once in Emeritus, the Chairperson of the Social Media SIG (or a representative thereof) fills out the Submit Social Media Strategy Results Issue template [here](https://github.com/neonephos/outreach/issues).
+
+##### Responsibilities
+
+* Chairperson of the Social Media SIG (or a representative thereof) fills out [this form](https://github.com/neonephos/outreach/issues).
+
+### Review Meeting
+
+After conclusion of a Social Media Strategy Document (e.g. due to expiration) a Review Meeting in the Social Media SIG will be held.
+
+This meeting addresses:
+
+* Have the Success Criteria outlines in the Social Media Strategy Document been reached in the indicated period?
+* What went well?
+* What went wrong?
+* Estimation of total costs spent in the endeavour of furthering the strategy outlined in the Social Media Strategy Document.
 
 ## List of NeoNephos Social Media Strategy Documents
 
