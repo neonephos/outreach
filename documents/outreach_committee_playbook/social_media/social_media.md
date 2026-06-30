@@ -27,7 +27,7 @@ The NeoNephos Social Media Strategy minimally consists of:
 
 1. The Social Media Strategy Document (valid for the indicated timeline).
 2. The Social Media Strategy Operations Document.
-3. Related supplemental documents, as indicated here.
+3. Related supplemental information, as indicated in this document.
 
 ## Social Media Strategy Document
 
