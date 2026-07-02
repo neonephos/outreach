@@ -77,7 +77,8 @@ These are additional targets that are not mentioned directly in official documen
 | Reference | Topic |
 |---|---|
 |#T10 | Get additional 2+ non-SAP projects |
-|#T11 | Explain what NeoNephos and its context |
+|#T11 | Explain NeoNephos and its context |
+
 
 
 All Social Media efforts will be directed to support the targets laid out in these documents.
