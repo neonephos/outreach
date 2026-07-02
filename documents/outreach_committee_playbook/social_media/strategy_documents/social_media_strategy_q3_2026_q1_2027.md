@@ -94,3 +94,10 @@ The following sections lists how the Social Media Strategy supports the general 
 
 All Social Media efforts will be directed to support the targets laid out in these documents.
 
+## Review Meetings
+
+In accordance to [Social Media Strategy General Conditions & Rules](../social_media.md#social-media-strategy-document), the required Review Meeting is held monthly as part of the Social Media SIG meeting.
+
+At a minimum, it consists of:
+
+* An overview on the current progress made with respect to the Social Media roadmap.
