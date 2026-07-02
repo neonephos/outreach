@@ -47,6 +47,7 @@ The minimum elements a NeoNephos Social Media Strategy Document should contain i
 * **Reference to Vision Documents**: It MUST contain an explanation about which concrete foundational documents (e.g. NeoNephos Roadmap) have been used to derive the Social Media Strategy.
 * **Roadmap**: It MUST contain a roadmap.
 * **Success Criteria**: It MUST have its own measurable success criteria (e.g. [SMART goals](https://en.wikipedia.org/wiki/SMART_criteria)).
+* **Frequency and format of Review meetings**: It MUST define the format and frequency of review meetings with respect to the defined goals.
 
 ### Format
 
