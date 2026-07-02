@@ -8,7 +8,7 @@ This is the NeoNephos tagline. It's a single line that captures what the foundat
 
 ## What it means
 
-- **Community-driven** _ NeoNephos does not build the ecosystem. It enables the community to build it.
+- **Community-driven** _ NeoNephos does not build the ecosystem. It enables the community to build it. [View Presentation]([https://github.com/org/repo/blob/branch-name/filename.pptx](https://github.com/neonephos/neonephos_website/blob/main/src/docs/public/assets/downloads/neonephos-presentation-template.pptx))
 - **Open** _ all projects hosted under NeoNephos are open source.
 - **Cloud-native stack** _ a modular, interoperable set of building blocks, not a single product.
 - **European sovereignty** _ the foundation exists to reduce dependency on non-European infrastructure and vendor lock-in.
