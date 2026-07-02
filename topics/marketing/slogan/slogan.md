@@ -33,7 +33,7 @@ Both of these nuances matter when representing NeoNephos at events, in conversat
 
 The tagline appears consistently across all NeoNephos touchpoints:
 
-- **Presentations** _ it's available in our foundation template slide deck.
+- **Presentations** _ it's available in our foundation template slide deck. [View Presentation](https://github.com/neonephos/neonephos_website/blob/main/src/docs/public/assets/downloads/neonephos-presentation-template.pptx)
 - **Booth & events** _ on banners, rollups, and booth signage at conferences
 - **Merchandise** _ on stickers, shirts, and other community swag
 - **Social media** _ as a consistent reference point in posts and bios
