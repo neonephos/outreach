@@ -55,6 +55,9 @@ The following documents are used as the primary source for establishing the soci
 
 The following social media targets are the main focus areas the social media strategy supports.
 
+> [!NOTE]
+> The topics listed below only reference the *primary* focus areas. This does not mean this is the sole social media content to be created.
+
 #### Derived Targets
 
 From the documents mentioned in the prior section these are the targets the social media strategy aims to support:
@@ -79,7 +82,15 @@ These are additional targets that are not mentioned directly in official documen
 |#T10 | Get additional 2+ non-SAP projects |
 |#T11 | Explain NeoNephos and its context |
 
+### Detailed Strategy
 
+The following sections lists how the Social Media Strategy supports the general targets laid out earlier.
+
+#### Ambassador Program
+
+| How to support | Duration | How to measure Effort | How to measure Success |
+|---|---|---|---|
+|LinkedIn|```same scope as this document``` |1 post ||
 
 All Social Media efforts will be directed to support the targets laid out in these documents.
 
