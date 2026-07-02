@@ -1,6 +1,6 @@
 # Social Media Strategy Document
 
-*Approved on ____*
+*Approved on _______*
 
 > [!NOTE]
 > The strategy outlined in this document is valid from ```Q3 2026 – Q1 2027```.
