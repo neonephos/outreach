@@ -51,15 +51,34 @@ The following documents are used as the primary source for establishing the soci
 > [!NOTE]
 > The upcoming NeoNephos Vision document was unfinished at the time of this writing and is therefore not considered in the Social Media Strategy for ```Q3 2026 – Q1 2027```.
 
+### Social Media Targets
+
+The following social media targets are the main focus areas the social media strategy supports.
+
 #### Derived Targets
 
 From the documents mentioned in the prior section these are the targets the social media strategy aims to support:
 
-*Note: Priority goes from 0 (no priority) to 5 (high priority)*
-
-| Name | Source | Priority |
+| Reference | Topic | Source |
 |---|---|---|
-|Ambassador | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) | 4 |
+|#T01 | Ambassador Program | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |
+|#T02 | Organize NNF Hackathon | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |
+|#T03 | Establish Physical NNF Testlab | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |
+|#T04 | Get additional 3+ non-SAP Members | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |
+|#T05 | Establish Conformance Program | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |
+|#T06 | Establish Commercialization Program | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |
+|#T07 | Host Kubecon+CloudNativeCon '27 co-located event | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |
+|#T08 | Host Open Source Summit '27 co-located event | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |
+
+#### Additional Targets
+
+These are additional targets that are not mentioned directly in official documentation but have been considered useful from the provided context:
+
+| Reference | Topic |
+|---|---|
+|#T10 | Get additional 2+ non-SAP projects |
+|#T11 | Explain what NeoNephos and its context |
+
 
 All Social Media efforts will be directed to support the targets laid out in these documents.
 
