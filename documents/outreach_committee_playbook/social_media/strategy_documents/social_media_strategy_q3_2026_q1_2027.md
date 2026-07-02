@@ -94,9 +94,11 @@ The following sections lists how the Social Media Strategy supports the general 
 
 All Social Media efforts will be directed to support the targets laid out in these documents.
 
+**TODO: ADD FURTHER SECTIONS**
+
 ## Review Meetings
 
-In accordance to [Social Media Strategy General Conditions & Rules](../social_media.md#social-media-strategy-document), the required Review Meeting is held monthly as part of the Social Media SIG meeting.
+In accordance to [Social Media Strategy General Conditions & Rules](../social_media.md#social-media-strategy-document), the required Review Meeting is held monthly as part of the [Social Media SIG meeting](https://github.com/neonephos/outreach/tree/outreach-committee-playbook/topics/social_media).
 
 At a minimum, it consists of:
 
