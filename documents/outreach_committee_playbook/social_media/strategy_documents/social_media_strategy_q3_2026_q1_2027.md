@@ -14,6 +14,7 @@
        - [Derived Targets]()
   - [Implementation of the social media strategy]()
   - [Roadmap]()
+  - [Conformance Control]()
 - **[Appendix]()**
 
 
@@ -96,10 +97,14 @@ All Social Media efforts will be directed to support the targets laid out in the
 
 **TODO: ADD FURTHER SECTIONS**
 
-## Review Meetings
+## Conformance Control
+
+### Review Meetings
 
 In accordance to [Social Media Strategy General Conditions & Rules](../social_media.md#social-media-strategy-document), the required Review Meeting is held monthly as part of the [Social Media SIG meeting](https://github.com/neonephos/outreach/tree/outreach-committee-playbook/topics/social_media).
 
 At a minimum, it consists of:
 
 * An overview on the current progress made with respect to the Social Media roadmap.
+
+### Review Tooling
