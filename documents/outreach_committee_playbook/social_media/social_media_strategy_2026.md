@@ -87,14 +87,14 @@ Every three months: check in with team which posts worked, which content type at
 
 | Content Type | Hashtags | Total |
 |---|---|---|
-| Events | #NeoNephos #OpenSource #CloudNative #DigitalSovereignty | 4 |
-| Blog Posts | #NeoNephos #OpenSource #CloudInfrastructure #DigitalSovereignty | 4 |
-| New Members | #NeoNephos #OpenSource #Community | 3 |
-| New Projects | #NeoNephos #OpenSource #CloudNative | 3 |
-| Use Cases / Architecture | #NeoNephos #CloudNative #CloudInfrastructure | 3 |
-| News from Members (Reposts) | #NeoNephos #OpenSource #Community | 3 |
-| Uploaded Videos / Talks (own) | #NeoNephos #OpenSource #CloudNative | 3 |
-| Talks in other formats (others) | #NeoNephos #OpenSource #CloudNative | 3 |
+| Events | #NeoNephosFoundation #OpenSource #CloudNative #DigitalSovereignty | 4 |
+| Blog Posts | #NeoNephosFoundation #OpenSource #CloudInfrastructure #DigitalSovereignty | 4 |
+| New Members | #NeoNephosFoundation #OpenSource #Community | 3 |
+| New Projects | #NeoNephosFoundation #OpenSource #CloudNative | 3 |
+| Use Cases / Architecture | #NeoNephosFoundation #CloudNative #CloudInfrastructure | 3 |
+| News from Members (Reposts) | #NeoNephosFoundation #OpenSource #Community | 3 |
+| Uploaded Videos / Talks (own) | #NeoNephosFoundation #OpenSource #CloudNative | 3 |
+| Talks in other formats (others) | #NeoNephosFoundation #OpenSource #CloudNative | 3 |
 
 ### Core Usage Rules
 
