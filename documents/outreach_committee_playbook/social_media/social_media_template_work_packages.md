@@ -14,7 +14,7 @@ The following items are predefined work package templates that are used througho
 
 | | |
 |---|---|
-|Responsible| @neonephos/outreach|
+|Responsible| @neonephos/outreach-social-media|
 |Platform|[LinkedIn](https://www.linkedin.com/company/neonephos-foundation)|
 |Cost | €100/week|
 | Requirements  | Content to post about |
@@ -27,5 +27,7 @@ This package includes:
 * Ideation and creation of new posts
 * Reposting, commenting and liking of related content
 * 
-* 
+
+Posts are made throughout the time period at a level seen as appropriate in the eyes of the Social Media SIG.
+
 ### Linux Foundation E-Mail
