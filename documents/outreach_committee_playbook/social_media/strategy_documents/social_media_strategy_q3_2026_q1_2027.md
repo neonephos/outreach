@@ -63,25 +63,35 @@ The following social media targets are the main focus areas the social media str
 
 From the documents mentioned in the prior section these are the targets the social media strategy aims to support:
 
-| Reference | Topic | Source |
-|---|---|---|
-|#T01 | Ambassador Program | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |
-|#T02 | Organize NNF Hackathon | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |
-|#T03 | Establish Physical NNF Testlab | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |
-|#T04 | Get additional 3+ non-SAP Members | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |
-|#T05 | Establish Conformance Program | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |
-|#T06 | Establish Commercialization Program | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |
-|#T07 | Host Kubecon+CloudNativeCon '27 co-located event | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |
-|#T08 | Host Open Source Summit '27 co-located event | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |
+| Reference | Topic | Source | Priority Weight |
+|---|---|---|---|
+|#T01 | Ambassador Program | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |6|
+|#T02 | Organize NNF Hackathon | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |6|
+|#T03 | Establish Physical NNF Testlab | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |6|
+|#T04 | Get additional 3+ non-SAP Members | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |6|
+|#T05 | Establish Conformance Program | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |2|
+|#T06 | Establish Commercialization Program | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |2|
+|#T07 | Host Kubecon+CloudNativeCon '27 co-located event | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |8|
+|#T08 | Host Open Source Summit '27 co-located event | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |6|
 
 #### Additional Targets
 
 These are additional targets that are not mentioned directly in official documentation but have been considered useful from the provided context:
 
+| Reference | Topic | Priority Weight |
+|---|---|---|
+|#T10 | Get additional 2+ non-SAP projects | 5 |
+|#T11 | Explain NeoNephos and its context | 7 |
+|#T12 | Increase non-SAP contributors in projects | 8 |
+
+#### Ambassador SIG Targets
+
+These are additional targets that are not mentioned directly in official documentation but have been considered useful from the perspective of the Social Media SIG:
+
 | Reference | Topic |
 |---|---|
-|#T10 | Get additional 2+ non-SAP projects |
-|#T11 | Explain NeoNephos and its context |
+|#T10 | Track additional data |
+|#T11 | Collect data to sufficiently estimate *impact* parameters in the resource allocation model |
 
 ### Detailed Strategy
 
