@@ -101,7 +101,7 @@ The following sections lists how the Social Media Strategy supports the general 
 
 | How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
 |---|---|---|---|---|
-|LinkedIn| ```same scope as this document``` |1 Interview Post per Ambassador | Number of Likes and Comments under post| An avg. of 10 likes under each Ambassador focused post|
+|[LinkedIn Campaign](../social_media_template_work_packages.md#linkedin-campaign)| ```same scope as this document``` |1 Interview Post per Ambassador | Number of Likes and Comments under post| An avg. of 10 likes under each Ambassador focused post|
 
 All Social Media efforts will be directed to support the targets laid out in these documents.
 
