@@ -16,7 +16,7 @@ The following items are predefined work package templates that are used througho
 |---|---|
 |Responsible| @neonephos/outreach-social-media|
 |Platform|[LinkedIn](https://www.linkedin.com/company/neonephos-foundation)|
-|Cost | €100/week|
+|Cost | €100/week |
 | Requirements  | Content to post about |
 |Outputs| LinkedIn Posts|
 
@@ -24,10 +24,10 @@ The LinkedIn campaign accompanies posts from the NeoNephos account on [LinkedIn]
 
 This package includes:
 
-* Ideation and creation of new posts
-* Reposting, commenting and liking of related content
-* 
+* Ideation and creation of new posts.
+* Reposting, commenting and liking of related content.
+* Creating banners and associated posting media.
 
-Posts are made throughout the time period at a level seen as appropriate in the eyes of the Social Media SIG.
+Posts frequency is set as appropriate in the eyes of the Social Media SIG.
 
 ### Linux Foundation E-Mail
