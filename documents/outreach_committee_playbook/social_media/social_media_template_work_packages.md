@@ -62,7 +62,7 @@ This package includes:
 - Promoting the results on additional platforms such as LinkedIn
 
 > [!NOTE]
-> Video series take a lot of effort to produce and should therefore be used lightly.
+> Video series take a lot of effort to produce and should therefore be used sparringly.
 
 
 
