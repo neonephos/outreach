@@ -10,7 +10,7 @@ Hi there! ☀️ Welcome to the official NeoNephos Marketing repository!
 This repository collects everything associated with marketing, such as:
 
 * documentation
-* The Marketing Plan
+* the Marketing Plan
 * statistics
 
 ## Point of Contact
