@@ -17,7 +17,7 @@ The topic must be of interest to the NeoNephos Foundation and approved by the Ou
 Unused budgets throughout multiple quarters do not add up.
 
 > [!NOTE]
-> The intend of this funding is to provide the Ambassador autonomy and address areas of interest the NeoNephos Foundation has not considered yet.
+> The intend of this funding is to provide the Ambassador autonomy and explore areas of interest the NeoNephos Foundation has not considered yet.
 
 ## Events
 
