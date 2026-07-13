@@ -3,7 +3,7 @@
 We greatly value the contributions of our Ambassadors to further the goals of the NeoNephos Foundation. Nevertheless, we understand that to fully unlock their potential, the foundation has to provide financial support to enable Ambassadors to participate in activities of common interest.
 
 > [!NOTE]
-> Each NeoNephos Ambassado
+> Every NeoNephos Ambassador is required to always follow the Ambassador Code of Conduct.
 
 ## The NeoNephos Mini-Stipend
 
