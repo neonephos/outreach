@@ -3,7 +3,7 @@
 We greatly value the contributions of our Ambassadors to further the goals of the NeoNephos Foundation. Nevertheless, we understand that to fully unlock their potential, the foundation has to provide financial support to enable Ambassadors to participate in activities of common interest.
 
 > [!NOTE]
-> The NeoNephos Foundation reserves the right to modify these terms at any point in time with no notice given. The benefits listed here are privileges and no rights.
+> The NeoNephos Foundation reserves the right to modify these terms at any point in time with no notice given. The benefits listed here are understood as *potential* privileges conferred upon our Ambassadors.
 
 ## The NeoNephos Mini-Stipend
 
