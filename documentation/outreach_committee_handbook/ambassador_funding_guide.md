@@ -8,7 +8,7 @@ We greatly value the contributions of our Ambassadors to further the goals of th
 ## The NeoNephos Mini-Stipend
 
 For every Ambassador, the NeoNephos Foundation provides a small budget of €400 per quarter to fund small projects, initiatives, software licenses and endeavors. 
-The topic must be of interest to the NeoNephos Foundation and approved by the Outreach Committee. Proposals are submitted to support@neonephos.org, with details such as:
+The topic must align with the interests of the NeoNephos Foundation and approved by the Outreach Committee. Proposals are submitted to support@neonephos.org, with details such as:
 
 - Your name
 - Purpose of the funding
@@ -26,4 +26,7 @@ We recognize events as an important conduit for providing outreach. Therefore, N
 - up to €400 for events within the Ambassador's country of residence
 - up to €1500 for events outside the Ambassador's country of residence
 
-Qualifying for the limited number of Ambassador travel stipends is usually linked to work activities such as booth service. See which events qualify and the number of Ambassador slots these provide at [the events board](https://github.com/neonephos/events).
+Qualifying for the limited number of Ambassador travel stipends is usually linked to work activities such as booth service. See which events qualify and details on the number of Ambassador slots these provide on [the events board](https://github.com/neonephos/events).
+
+> [!NOTE]
+> Ticket prices are only included if a sufficient number of free tickets come along with the selected NeoNephos Event Sponsorship package.
