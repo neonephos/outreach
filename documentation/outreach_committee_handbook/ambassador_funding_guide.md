@@ -34,7 +34,7 @@ The following is covered:
 Qualifying for the limited number of Ambassador travel stipends is usually linked to work activities such as booth service. The Outreach Committee communicates beforehand which events have slots for NeoNephos Ambassadors available. See which events qualify on [the events board](https://github.com/neonephos/events).
 
 > [!NOTE]
-> Ticket prices are only included if a sufficient number of free tickets come along with the selected NeoNephos Event Sponsorship package.
+> Ticket prices are not covered by the travel stipend. However, we often have a sufficient number of free tickets, usually courtesy of the event sponsorship package, available.
 
 [^1]: Transportation amenities must be at most mid-range, comparable to 2nd class of a DB train in Germany.
 [^2]: Hotel must be at most mid-range, comparable to three stars as defined by DEHOGA.
