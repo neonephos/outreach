@@ -21,4 +21,9 @@ Unused budgets throughout multiple quarters do not add up.
 
 ## Events
 
-For many events, such as working at a booth. Apply for a slot.
+We recognize events as an important conduit for providing outreach. Therefore, NeoNephos provides for some of the events it officially attends a limited number of travel stipends for our Ambassadors. This stipend is:
+
+- €400 for events within Germany
+- up to €1500 for events outside Germany
+
+Qualifying for the limited number of Ambassador travel stipends is usually linked to work activities such as booth service. See which events qualify and the number of Ambassador slots these provide at [the events board](https://github.com/neonephos/events).
