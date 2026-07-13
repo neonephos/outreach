@@ -26,7 +26,7 @@ We recognize events as an important conduit for providing outreach. Therefore, N
 - up to €400 for events within the Ambassador's country of residence
 - up to €1500 for events outside the Ambassador's country of residence
 
-Qualifying for the limited number of Ambassador travel stipends is usually linked to work activities such as booth service. See which events qualify and details on the number of Ambassador slots these provide on [the events board](https://github.com/neonephos/events).
+Qualifying for the limited number of Ambassador travel stipends is usually linked to work activities such as booth service. The Outreach Committee communicates beforehand which events have slots for NeoNephos Ambassadors available. See which events qualify on [the events board](https://github.com/neonephos/events).
 
 > [!NOTE]
 > Ticket prices are only included if a sufficient number of free tickets come along with the selected NeoNephos Event Sponsorship package.
