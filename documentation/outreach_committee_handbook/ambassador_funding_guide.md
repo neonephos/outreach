@@ -5,7 +5,7 @@ We greatly value the contributions of our Ambassadors to further the goals of th
 > [!NOTE]
 > Each NeoNephos Ambassado
 
-## Budget
+## The NeoNephos Mini-Stipend
 
 For every Ambassador, the NeoNephos Foundation provides a small budget of €400 per quarter to fund small projects, initiatives and endeavors. 
 The topic must be of interest to the NeoNephos Foundation and approved by the Outreach Committee. Proposals are submitted to support@neonephos.org, with details such as:
