@@ -37,4 +37,4 @@ Qualifying for the limited number of Ambassador travel stipends is usually linke
 > Ticket prices are only included if a sufficient number of free tickets come along with the selected NeoNephos Event Sponsorship package.
 
 [^1]: Transportation amenities must be at most mid-range, comparable to 2nd class of a DB train in Germany.
-[^2]: Hotel must be at most mid-range, comparable to a three stars as defined by DEHOGA.
+[^2]: Hotel must be at most mid-range, comparable to three stars as defined by DEHOGA.
