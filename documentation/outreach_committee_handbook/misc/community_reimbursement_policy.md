@@ -51,22 +51,16 @@ Expenses must:
 
 ### Types of Expenses
 
+#### Personal Reimbursements
 
-decision must be logged in the [committee's minutes](https://github.com/neonephos/outreach/tree/main/topics)
+A community member pays for an approved expense and later requests repayment from the Linux Foundation.
 
+#### Direct Vendor Payments
 
+The Linux Foundation pays a vendor directly for an approved NeoNephos expense.
+Whenever possible, larger expenses should be paid directly by the Linux Foundation instead of through personal reimbursement.
 
- Special case if requestor is NeoNephos ambassador s.t. [this.](../ambassadors/ambassador_funding_guide.md)
-### Approving Parties
-
-Reimbursement is only possible if one of the following parties grants explicit permission:
-
-| Who can approve? | Accepted form of permission | Notes|
-|---|---|---|
-| Outreach Committee itself or SIG thereof | decision must be logged in the [committee's minutes](https://github.com/neonephos/outreach/tree/main/topics) |
-| Outreach Committee Ambassador SIG Chairperson or delegate thereof | permission in text form (e.g. e-mail) | requestor must be NeoNephos ambassador s.t. [this](../ambassadors/ambassador_funding_guide.md) |
-| NeoNephos LF PMO or delegate thereof | permission in text form (e.g. e-mail) |
-| The Governing Board | |
+### 
 
 [^1]: Use the currency unit of the invoice.
 
