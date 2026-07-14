@@ -4,7 +4,7 @@ NeoNephos recognizes [several cases](../ambassadors/ambassador_funding_guide.md)
 
 This document describes how to:
 
-- Request reimbursement for approved NeoNephos expenses, or
+- Request reimbursement for approved NeoNephos expenses
 - Request direct payment to vendors by the Linux Foundation.
 
 > [!WARNING]
@@ -12,6 +12,51 @@ This document describes how to:
 
 ## Expenses Pre-Approval Requirements
 
+All expenses must be approved before any purchase or commitment is made.
+
+The approval request must include:
+
+- Purpose of the expense
+- Estimated cost [^1]
+- Whether it is:
+    - A personal reimbursement
+    - A direct vendor payment
+
+Approval will be given by one of the parties below:
+
+- The NeoNephos Outreach Committee
+- Authorized Linux Foundation Staff
+- The NeoNephos Governing Board if additional budget approval is needed
+
+Self-approval is allowed if the requestor is simultaneously a member of one of the parties mentioned above.
+
+The approval request is to be submitted either via an issue in the [Outreach Committee repository](https://github.com/neonephos/outreach/issues) or a mail to [support@neonephos.org](mailto:support@neonephos.org).
+
+> [!Warning]
+> The two submission forms above are the only accepted ways to submit a funding request.
+
+Please note that, after approval, the required documentation must be provided before a reimbursement or direct payment can be processed. Please refer to the sections below.
+
+### General Principles
+
+Expenses must:
+
+- Adhere in character and amount to the [respective guidelines](../ambassadors/ambassador_funding_guide.md)
+
+> [!Warning]
+> The NeoNephos Foundation reserves the right to decline requests at any time with no reasoning given.
+
+> [!Note]
+> All reimbursement requests, vendor payment requests, and related questions should be sent to [support@neonephos.org](mailto:support@neonephos.org).
+
+### Types of Expenses
+
+
+decision must be logged in the [committee's minutes](https://github.com/neonephos/outreach/tree/main/topics)
+
+
+
+ Special case if requestor is NeoNephos ambassador s.t. [this.](../ambassadors/ambassador_funding_guide.md)
 ### Approving Parties
 
 Reimbursement is only possible if one of the following parties grants explicit permission:
@@ -23,7 +68,8 @@ Reimbursement is only possible if one of the following parties grants explicit p
 | NeoNephos LF PMO or delegate thereof | permission in text form (e.g. e-mail) |
 | The Governing Board | |
 
-Self-approval is allowed if the requestor is simultaneously a member of the Outreach Committee or a SIG thereof.
+[^1]: Use the currency unit of the invoice.
+
 
 > [!Tip]
 > Standard case: Requests made by Ambassadors to the Ambassador SIG.
