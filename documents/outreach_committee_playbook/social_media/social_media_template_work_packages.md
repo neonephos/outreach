@@ -132,11 +132,24 @@ This package includes:
 - Promoting the results on additional platforms such as LinkedIn
 
 > [!NOTE]
-> Video series take a lot of effort to produce and should therefore be used sparringly.
+> Video series take a lot of effort to produce and should therefore be used sparringly. 
 
+### Gathering Insights
 
+| Item | Details |
+|---|---|
+| Responsible | @neonephos/outreach-social-media|
+| Platform |Survey, poll or related social media|
+| Cost | |
+| Requirements  |  |
+| Outputs | Data of Interest |
 
+This package includes:
 
+- Gathering insights on a particular topic, for example through:
+    - A survey
+    - Analyzing existing data
+ - Evaluating gathered data on metrics of interest
 
 
 
