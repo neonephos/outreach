@@ -3,7 +3,7 @@
 The following items are predefined work package templates that are used throughout the Social Media documents. Using reusable components for standard bodies of work eases simplifies development of the Social Media Strategy.
 
 >[!NOTE]
-> 
+> This document also serves as a helpful guide to understand what capabilities the Social Media SIG has at its disposal.
 
 ## List of Work Packages
 
@@ -20,7 +20,7 @@ The following items are predefined work package templates that are used througho
 | Requirements  | Content to post about |
 |Outputs| LinkedIn Posts|
 
-The LinkedIn campaign accompanies posts from the NeoNephos account on [LinkedIn](https://www.linkedin.com/company/neonephos-foundation).
+The LinkedIn Campaign is about targeted posting from the NeoNephos account on [LinkedIn](https://www.linkedin.com/company/neonephos-foundation).
 
 This package includes:
 
@@ -28,9 +28,29 @@ This package includes:
 - Reposting, commenting and liking of related content.
 - Creating banners and associated posting media.
 
-Posts frequency is set as appropriate in the eyes of the Social Media SIG.
+Posting frequency is set as appropriate in the eyes of the Social Media SIG.
 
-### Linux Foundation E-Mail Campaign
+### Zulip Campaign
+
+| Item | Details |
+|---|---|
+| Responsible | @neonephos/outreach-social-media|
+| Platform |[Zulip](https://linuxfoundation.zulipchat.com/#narrow/channel/525732-neonephos-discussion/topic/channel.20events/with/558483910)|
+| Cost | €1/week |
+| Requirements  | Content to post about |
+| Outputs | Zulip Posts |
+
+The Zulip Campaign revolves around creating targeted posts on Zulip for the given period of time.
+
+This package includes:
+
+- Ideation and creation of new posts, channels or topics.
+- Sharing and liking of related content.
+- Creating banners and associated posting media.
+
+Posting frequency is set as appropriate in the eyes of the Social Media SIG.
+
+### Linux Foundation Amplification E-Mail
 
 | Item | Details |
 |---|---|
@@ -40,7 +60,19 @@ Posts frequency is set as appropriate in the eyes of the Social Media SIG.
 | Requirements  | Content to post about |
 | Outputs | E-Mail |
 
-Linux Foundation sends a mail with our preformulated text to the people in our hubspot mailing list.
+Linux Foundation sends a mail with a supplied, preformulated text to the people in our hubspot mailing list.
+
+### Newswire Press Release
+
+| Item | Details |
+|---|---|
+| Responsible | @neonephos/outreach-social-media, Linux Foundation|
+| Platform |[Newswire](https://www.prnewswire.com/news/the-linux-foundation/)|
+| Cost | €2500 |
+| Requirements  | Content to post about |
+| Outputs | Press Release |
+
+The Linux Foundation allows to publish press releases on [Newswire](https://www.prnewswire.com/news/the-linux-foundation/) at cost of $2500. The NeoNephos Foundation has [previously used this service](https://www.prnewswire.com/news-releases/neonephos-foundation-welcomes-bwi-gmbh-suse-llc-and-fraunhofer-isst-as-members-302716731.html) to announce significant news.
 
 ### Video Series
 
@@ -63,6 +95,8 @@ This package includes:
 
 > [!NOTE]
 > Video series take a lot of effort to produce and should therefore be used sparringly.
+
+
 
 
 
