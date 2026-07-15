@@ -84,7 +84,7 @@ These are additional targets that are not mentioned directly in official documen
 |#T11 | Explain NeoNephos and its context | 7 |
 |#T12 | Increase non-SAP contributors in projects | 8 |
 
-#### Ambassador SIG Targets
+#### Social Media SIG Targets
 
 These are additional targets that are not mentioned directly in official documentation but have been considered useful from the perspective of the Social Media SIG:
 
@@ -96,14 +96,32 @@ These are additional targets that are not mentioned directly in official documen
 ### Detailed Strategy
 
 The following sections lists how the Social Media Strategy supports the general targets laid out earlier.
+All Social Media efforts will be directed to support the targets laid out in these documents.
 
 #### Ambassador Program
 
 | How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
 |---|---|---|---|---|
-|[LinkedIn Campaign](../social_media_template_work_packages.md#linkedin-campaign)| ```enduring``` | Updates about the Ambassador Program and what Ambassadors are up to | Number of Likes and Comments under post| An avg. of 5 likes under each Ambassador focused post|
+|[LinkedIn Campaign](../social_media_template_work_packages.md#linkedin-campaign)| ```enduring``` | Running Topics: (1) How to become an Ambassador (2) News what Ambassadors recently did| LinkedIn Analytics Toolset| An avg. of a link click rate (of a post) of 0.2|
 
-All Social Media efforts will be directed to support the targets laid out in these documents.
+##### Goal
+
+The goal of social media activities with regards to the Ambassador Program is to encourage people to apply for the program.
+
+#### [Organize NNF Hackathon](https://neonephos.org/blog/20260507_governing_board_workshop)
+
+| How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
+|---|---|---|---|---|
+|[LinkedIn Campaign](../social_media_template_work_packages.md#linkedin-campaign)| ```enduring``` | Running Topics: (1) Promote upcoming hackatons (2) Talk about what happened during the last hackathon | LinkedIn Analytics Toolset| An avg. of a link click rate (of a post) of 0.2|
+|[Newsletter E-Mail Campaign](../social_media_template_work_packages.md#newsletter-e-mail-campaign)| ```enduring``` | Running Topics: (1) Promote upcoming hackatons (2) Talk about what happened during the last hackathon | Groups.io (or Hubspot) Analytics Toolset| A mail opening rate of 0.5|
+
+##### Goal
+
+The goal of social media activities with regards to the NNF hackathon is to encourage people to:
+
+- Sign up for the project.
+- Let the community know that NeoNephos has physical events.
+
 
 **TODO: ADD FURTHER SECTIONS**
 
