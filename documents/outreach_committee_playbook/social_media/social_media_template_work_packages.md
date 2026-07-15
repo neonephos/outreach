@@ -50,6 +50,24 @@ This package includes:
 
 Posting frequency is set as appropriate in the eyes of the Social Media SIG.
 
+### Newsletter E-Mail Campaign
+
+| Item | Details |
+|---|---|
+| Responsible | @neonephos/outreach-social-media|
+| Platform |[groups.io](https://lists.neonephos.org/g/main/subgroups)|
+| Cost | |
+| Requirements  |  |
+| Outputs | Newsletter |
+
+This package supports an effort with a dedicated newsletter.
+
+This package includes:
+
+- Creation and maintenance of a newsletter.
+
+Posting frequency is set as appropriate in the eyes of the Social Media SIG.
+
 ### Linux Foundation Amplification E-Mail
 
 | Item | Details |
@@ -73,6 +91,26 @@ Linux Foundation sends a mail with a supplied, preformulated text to the people 
 | Outputs | Press Release |
 
 The Linux Foundation allows to publish press releases on [Newswire](https://www.prnewswire.com/news/the-linux-foundation/) at cost of $2500. The NeoNephos Foundation has [previously used this service](https://www.prnewswire.com/news-releases/neonephos-foundation-welcomes-bwi-gmbh-suse-llc-and-fraunhofer-isst-as-members-302716731.html) to announce significant news.
+
+
+### Webinar
+
+| Item | Details |
+|---|---|
+| Responsible | @neonephos/outreach-social-media|
+| Platform |or [YouTube](https://www.youtube.com/@neonephosfoundation)|
+| Cost | |
+| Requirements  |  |
+| Outputs | Webinar Video |
+
+Creation of a one-off webinar for a dedicated topic.
+
+This package includes:
+
+- Ideation and execution of a webinar.
+- Follow-up on any leads generated
+- Uploading a recording of the webinar on YouTube
+- Promoting the results on additional platforms such as LinkedIn
 
 ### Video Series
 
