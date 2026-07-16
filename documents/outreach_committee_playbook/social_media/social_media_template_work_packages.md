@@ -80,6 +80,23 @@ Posting frequency is set as appropriate in the eyes of the Social Media SIG.
 
 Linux Foundation sends a mail with a supplied, preformulated text to the people in our hubspot mailing list.
 
+### Linux Foundation Social Media Amplification
+
+| Item | Details |
+|---|---|
+| Responsible | @neonephos/outreach-social-media, Linux Foundation|
+| Platform |[LF Marketing Request Platform](https://www.linuxfoundation.org/marketing-requests)|
+| Cost | €1/week |
+| Requirements  | Social Media Post |
+| Outputs | Post |
+
+Linux Foundation amplifies preformulated content from a LF social media handle, dispersing it throughout the wider LF community.
+
+This package includes:
+
+- Amplification of a social media post through liking, reposting or similar activities from an LF related handle
+- Sharing of a social media post from an LF related handle
+
 ### Newswire Press Release
 
 | Item | Details |
