@@ -113,7 +113,7 @@ The goal of social media activities with regards to the Ambassador Program is to
 | How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
 |---|---|---|---|---|
 |[LinkedIn Campaign](../social_media_template_work_packages.md#linkedin-campaign)| ```enduring``` | Running Topics: (1) Promote upcoming hackatons (2) Talk about what happened during the last hackathon | LinkedIn Analytics Toolset| An avg. of a link click rate (of a post) of 0.2|
-|[Newsletter E-Mail Campaign](../social_media_template_work_packages.md#newsletter-e-mail-campaign)| ```enduring``` | Running Topics: (1) Promote upcoming hackatons (2) Talk about what happened during the last hackathon | Groups.io (or Hubspot) Analytics Toolset| A mail opening rate of 0.5|
+|[Newsletter E-Mail Campaign](../social_media_template_work_packages.md#newsletter-e-mail-campaign)| ```enduring``` | Running Topics: (1) Promote upcoming hackatons (2) Talk about what happened during the last hackathon | Groups.io (or Hubspot) Analytics Toolset| A mail opening rate of 0.3 one week post sendout|
 
 ##### Goal
 
@@ -121,6 +121,20 @@ The goal of social media activities with regards to the NNF hackathon is to enco
 
 - Sign up for the project.
 - Let the community know that NeoNephos has physical events.
+
+#### [Establish Physical NNF Testlab](https://neonephos.org/blog/20260507_governing_board_workshop)
+
+| How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
+|---|---|---|---|---|
+|[Newsletter E-Mail Campaign](../social_media_template_work_packages.md#newsletter-e-mail-campaign)| ```enduring``` | Running Topics: (1) Keep subscribers up-to-date on current effort with regards to the testlab | Groups.io (or Hubspot) Analytics Toolset| A mail opening rate of 0.3 one week post sendout|
+
+##### Goal
+
+The goal of social media activities with regards to the testlab is to:
+
+- Let the world know NNF has a physical presence in the heart of the renowned city of Frankfurt am Main.
+    - The advantages of the chosen location must be emphasized. Otherwise, a cheaper server location elsewhere would be seen as more appropriate in the eyes of the public.
+- Encourage people to visit the testlab.
 
 #### [Explain NeoNephos and its context](https://neonephos.org/goals)
 
