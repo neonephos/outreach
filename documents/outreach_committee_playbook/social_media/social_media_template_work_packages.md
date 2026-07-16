@@ -149,7 +149,21 @@ This package includes:
 - Promoting the results on additional platforms such as LinkedIn
 
 > [!NOTE]
-> Video series take a lot of effort to produce and should therefore be used sparringly. 
+> Video series take a lot of effort to produce and should therefore be used sparringly.
+
+### NeoNephos Website Page Update
+
+| Item | Details |
+|---|---|
+| Responsible | @neonephos/outreach-social-media|
+| Platform |[NeoNephos Website](https://www.neonephos.org)|
+| Cost | €1 |
+| Requirements  | |
+| Outputs | Dedicated Web Pages |
+
+This package includes:
+
+- Updating or creation of new pages on the [NeoNephos website](https://neonephos.org)
 
 ### Gathering Insights
 
