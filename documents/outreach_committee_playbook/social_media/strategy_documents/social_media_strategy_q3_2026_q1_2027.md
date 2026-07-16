@@ -134,8 +134,13 @@ The goal of social media activities with regards to the NNF hackathon is to enco
 
 The goal of social media activities related to this goal is to:
 
-- Explain NeoNephos and its context.
-- **Reinforce the perception that NeoNephos' goals are closely aligned with some initiatives like the European Tech Sovereignty Package.**
+- Explain NeoNephos and its context:
+    - What is IPCEI-CIS?
+    - Why was LFEU chosen as host for NNF?
+    - What is Apeiro?
+    - How does NNF compare with other initiatives?
+    - How does NNF fit into the political landscape like IPCEI-AI, European Tech Sovereignty Package etc.?
+- **Reinforce the perception that NeoNephos' history and goals are closely aligned with some initiatives like the European Tech Sovereignty Package.**
 
 
 **TODO: ADD FURTHER SECTIONS**
