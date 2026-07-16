@@ -148,6 +148,8 @@ This package includes:
 - Uploading the results on YouTube
 - Promoting the results on additional platforms such as LinkedIn
 
+Video creation frequency is set as appropriate in the eyes of the Social Media SIG.
+
 > [!NOTE]
 > Video series take a lot of effort to produce and should therefore be used sparringly.
 
@@ -180,6 +182,7 @@ This package includes:
 - Ideation and creation of blog entires
 - Promotion of blog entries on platforms like LinkedIn
 
+Posting frequency is set as appropriate in the eyes of the Social Media SIG.
 
 ### Gathering Insights
 
