@@ -71,8 +71,9 @@ From the documents mentioned in the prior section these are the targets the soci
 |#T04 | Get additional 3+ non-SAP Members | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |6|
 |#T05 | Establish Conformance Program | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |2|
 |#T06 | Establish Commercialization Program | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |2|
-|#T07 | Host Kubecon+CloudNativeCon '27 co-located event | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |8|
+|#T07 | Host Kubecon+CloudNativeCon '27 co-located event | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |7|
 |#T08 | Host Open Source Summit '27 co-located event | [NeoNephos Roadmap](https://neonephos.org/blog/20260507_governing_board_workshop) |6|
+|#T09 | Explain NeoNephos and its context | [NeoNephos Goals](https://neonephos.org/goals) |8|
 
 #### Additional Targets
 
@@ -81,8 +82,7 @@ These are additional targets that are not mentioned directly in official documen
 | Reference | Topic | Priority Weight |
 |---|---|---|
 |#T10 | Get additional 2+ non-SAP projects | 5 |
-|#T11 | Explain NeoNephos and its context | 7 |
-|#T12 | Increase non-SAP contributors in projects | 8 |
+|#T11 | Increase non-SAP contributors in projects | 8 |
 
 #### Social Media SIG Targets
 
@@ -121,6 +121,19 @@ The goal of social media activities with regards to the NNF hackathon is to enco
 
 - Sign up for the project.
 - Let the community know that NeoNephos has physical events.
+
+#### [Explain NeoNephos and its context](https://neonephos.org/goals)
+
+| How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
+|---|---|---|---|---|
+|[Video Series](../social_media_template_work_packages.md#video-series)| ```enduring``` | Running Topics: (1) Explain the background (2) Explain IPCEI-CIS (3) Explain NeoNephos | YouTube Analytics Toolset| An avg. of 100 views per video|
+
+##### Goal
+
+The goal of social media activities related to this goal is to:
+
+- Explain NeoNephos and its situational context.
+- Reinforce the perception that NeoNephos' goals are closely aligned with some initiatives like the European Tech Sovereignty Package.
 
 
 **TODO: ADD FURTHER SECTIONS**
