@@ -165,6 +165,22 @@ This package includes:
 
 - Updating or creation of new pages on the [NeoNephos website](https://neonephos.org)
 
+### NeoNephos Blog Campaign
+
+| Item | Details |
+|---|---|
+| Responsible | @neonephos/outreach-social-media|
+| Platform |[NeoNephos Website](https://www.neonephos.org/blog)|
+| Cost | €1 |
+| Requirements  | |
+| Outputs | [Blog Entries](https://neonephos.org/blog) |
+
+This package includes:
+
+- Ideation and creation of blog entires
+- Promotion of blog entries on platforms like LinkedIn
+
+
 ### Gathering Insights
 
 | Item | Details |
