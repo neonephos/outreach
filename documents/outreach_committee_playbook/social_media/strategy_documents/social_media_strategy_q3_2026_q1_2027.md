@@ -102,7 +102,7 @@ All Social Media efforts will be directed to support the targets laid out in the
 
 | How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
 |---|---|---|---|---|
-|[LinkedIn Campaign](../social_media_template_work_packages.md#linkedin-campaign)| ```enduring``` | Running Topics: (1) How to become an Ambassador (2) News what Ambassadors recently did| LinkedIn Analytics Toolset| An avg. of a link click rate (of a post) of 0.2|
+|[LinkedIn Campaign](../social_media_template_work_packages.md#linkedin-campaign)| ```>= Q3 2026``` | Running Topics: (1) How to become an Ambassador (2) News what Ambassadors recently did| LinkedIn Analytics Toolset| An avg. of a link click rate (of a post) of 0.2|
 
 ##### Goal
 
@@ -112,8 +112,8 @@ The goal of social media activities with regards to the Ambassador Program is to
 
 | How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
 |---|---|---|---|---|
-|[LinkedIn Campaign](../social_media_template_work_packages.md#linkedin-campaign)| ```enduring``` | Running Topics: (1) Promote upcoming hackatons (2) Talk about what happened during the last hackathon | LinkedIn Analytics Toolset| An avg. of a link click rate (of a post) of 0.2|
-|[Newsletter E-Mail Campaign](../social_media_template_work_packages.md#newsletter-e-mail-campaign)| ```enduring``` | Running Topics: (1) Promote upcoming hackatons (2) Talk about what happened during the last hackathon | Groups.io (or Hubspot) Analytics Toolset| A mail opening rate of 0.3 one week post sendout|
+|[LinkedIn Campaign](../social_media_template_work_packages.md#linkedin-campaign)| ```>= Q3 2026``` | Running Topics: (1) Promote upcoming hackatons (2) Talk about what happened during the last hackathon | LinkedIn Analytics Toolset| An avg. of a link click rate (of a post) of 0.2|
+|[Newsletter E-Mail Campaign](../social_media_template_work_packages.md#newsletter-e-mail-campaign)| ```>= Q3 2026``` | Running Topics: (1) Promote upcoming hackatons (2) Talk about what happened during the last hackathon | Groups.io (or Hubspot) Analytics Toolset| A mail opening rate of 0.3 one week post sendout|
 
 ##### Goal
 
@@ -126,7 +126,7 @@ The goal of social media activities with regards to the NNF hackathon is to enco
 
 | How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
 |---|---|---|---|---|
-|[Newsletter E-Mail Campaign](../social_media_template_work_packages.md#newsletter-e-mail-campaign)| ```enduring``` | Running Topics: (1) Keep subscribers up-to-date on current effort with regards to the testlab | Groups.io (or Hubspot) Analytics Toolset| A mail opening rate of 0.3 one week post sendout|
+|[Newsletter E-Mail Campaign](../social_media_template_work_packages.md#newsletter-e-mail-campaign)| ```>= Q3 2026``` | Running Topics: (1) Keep subscribers up-to-date on current effort with regards to the testlab | Groups.io (or Hubspot) Analytics Toolset| A mail opening rate of 0.3 one week post sendout|
 
 ##### Goal
 
@@ -140,12 +140,12 @@ The goal of social media activities with regards to the testlab is to:
 
 | How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
 |---|---|---|---|---|
-|[NeoNephos Website Update](../social_media_template_work_packages.md#neonephos-website-page-update)| ```enduring``` | Explain the advantages of becoming a member| Existence of page| Existence of pages|
-|[Blog Campaign](../social_media_template_work_packages.md#neonephos-blog-campaign)| ```enduring``` | Create new blog entries  highlighting testimonials from members | Number of blog case studies | At least 4 case studies |
+|[NeoNephos Website Update](../social_media_template_work_packages.md#neonephos-website-page-update)| ```>= Q3 2026``` | Explain the advantages of becoming a member| Existence of page| Existence of pages|
+|[Blog Campaign](../social_media_template_work_packages.md#neonephos-blog-campaign)| ```>= Q3 2026``` | Create new blog entries  highlighting testimonials from members | Number of blog case studies | At least 4 case studies |
 
 ##### Goal
 
-The goal of social media activities supporting the effort of getting at least three new members is:
+The goal of social media activities supporting the effort of getting at least three new members is to:
 
 - Inform the public about the advantages of of joining NeoNephos.
 - Highlight testimonials from members.
@@ -154,13 +154,13 @@ The goal of social media activities supporting the effort of getting at least th
 
 | How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
 |---|---|---|---|---|
-|[NeoNephos Website Update](../social_media_template_work_packages.md#neonephos-website-page-update)| ```enduring``` | Explain the conformance program| Existence of page| Existence of page|
-|[Blog Campaign](../social_media_template_work_packages.md#neonephos-blog-campaign)| ```enduring``` | Create a blog entry explaining the conformance program | Number of blog entries | One blog entry |
-|[LinkedIn Campaign](../social_media_template_work_packages.md#linkedin-campaign)| ```enduring``` | Running Topics: (1) What is the conformance program?| LinkedIn Analytics Toolset| An avg. of a link click rate (of a post) of 0.2|
+|[NeoNephos Website Update](../social_media_template_work_packages.md#neonephos-website-page-update)| ```>= Q4 2026``` | Explain the conformance program| Existence of page| Existence of page|
+|[Blog Campaign](../social_media_template_work_packages.md#neonephos-blog-campaign)| ```>= Q4 2026``` | Create a blog entry explaining the conformance program | Number of blog entries | One blog entry |
+|[LinkedIn Campaign](../social_media_template_work_packages.md#linkedin-campaign)| ```>= Q4 2026``` | Running Topics: (1) What is the conformance program?| LinkedIn Analytics Toolset| An avg. of a link click rate (of a post) of 0.2|
 
 ##### Goal
 
-The goal of social media activities supporting the effort of promoting the conformance program is:
+The goal of social media activities related to this goal is to:
 
 - Inform the public about the existence of the conformance program.
 - Inform the public about what the conformance program is.
@@ -169,13 +169,67 @@ The goal of social media activities supporting the effort of promoting the confo
 
 It is to be expected that in 2026 the conformance program will not be ready, so any announcements are probably related to its development.
 
+#### [Establish Commercialization Program](https://neonephos.org/blog/20260507_governing_board_workshop)
+
+| How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
+|---|---|---|---|---|
+|[NeoNephos Website Update](../social_media_template_work_packages.md#neonephos-website-page-update)| ```>= Q4 2026``` | Explain the conformance program| Existence of page| Existence of page|
+|[Blog Campaign](../social_media_template_work_packages.md#neonephos-blog-campaign)| ```>= Q4 2026``` | Create a blog entry explaining the conformance program | Number of blog entries | One blog entry |
+|[LinkedIn Campaign](../social_media_template_work_packages.md#linkedin-campaign)| ```>= Q4 2026``` | Running Topics: (1) What is the conformance program?| LinkedIn Analytics Toolset| An avg. of a link click rate (of a post) of 0.2|
+
+##### Goal
+
+The goal of social media activities related to this goal is to:
+
+- Inform the public about the existence of the commercialization working group in order to drive participation.
+
+##### Additional Information
+
+In 2026, it is expected that the commercialization working group is getting started at most. There probably won't be any concrete decisions to talk about.
+
+#### [Host Kubecon+CloudNativeCon '27 co-located event](https://neonephos.org/blog/20260507_governing_board_workshop)
+
+| How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
+|---|---|---|---|---|
+|[Blog Campaign](../social_media_template_work_packages.md#neonephos-blog-campaign)| ```Q4 2026 - Q1 2027``` | Create a blog entry around the event | Number of blog entries | At least two blog entries |
+|[LinkedIn Campaign](../social_media_template_work_packages.md#linkedin-campaign)| ```Q4 2026 - Q1 2027``` | Running Topics: (1) Our preparations and registration information for our co-located event (2) Promote KubeCon+CloudNativeCon '27 in general| LinkedIn Analytics Toolset| An avg. of a link click rate (of a post) of 0.3|
+|[Newsletter E-Mail Campaign](../social_media_template_work_packages.md#newsletter-e-mail-campaign)| ```Q4 2026 - Q1 2027``` | Running Topics: (1) Keep subscribers up-to-date on current NNF KubeCon+CloudNativeCon efforts | Groups.io (or Hubspot) Analytics Toolset| A mail opening rate of 0.3 one week post sendout|
+|[Newswire Press Release](../social_media_template_work_packages.md#newswire-press-release)| ```Q1 2027``` | Running Topics: (1) Press release about the NNF co-located event and related news | Linux Foundation Toolset| One press release with more than 500 page views|
+
+##### Goal
+
+The goal of social media activities related to this goal is to:
+
+- Inform the public about:
+    - The existence of the NNF co-located event.
+    - General NNF participation at the KubeCon+CloudNativeCon EU 27
+- Drive registration rates for the NNF co-located event.
+
+#### [Host Open Source Summit '27 co-located event](https://neonephos.org/blog/20260507_governing_board_workshop)
+
+| How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
+|---|---|---|---|---|
+|[Blog Campaign](../social_media_template_work_packages.md#neonephos-blog-campaign)| ```>= Q1 2027``` | Create a blog entry around the event | Number of blog entries | At least one blog entry |
+|[LinkedIn Campaign](../social_media_template_work_packages.md#linkedin-campaign)| ```>= Q1 2027``` | Running Topics: (1) Our preparations and registration information for our co-located event (2) Promote OSSEU26 in general| LinkedIn Analytics Toolset| An avg. of a link click rate (of a post) of 0.2|
+|[Newsletter E-Mail Campaign](../social_media_template_work_packages.md#newsletter-e-mail-campaign)| ```>= Q1 2027``` | Running Topics: (1) Keep subscribers up-to-date on current NNF OSSEU26 efforts | Groups.io (or Hubspot) Analytics Toolset| A mail opening rate of 0.3 one week post sendout|
+|[Newswire Press Release](../social_media_template_work_packages.md#newswire-press-release)| ```>= Q1 2027``` | Running Topics: (1) Press release about the NNF co-located event and related news | Linux Foundation Toolset| One press release with more than 500 page views|
+
+##### Goal
+
+The goal of social media activities related to this goal is to:
+
+- Inform the public about:
+    - The existence of the NNF co-located event.
+    - General NNF participation at the Open Source Summit EU 27
+- Drive registration rates for the NNF co-located event.
+
 #### [Explain NeoNephos and its context](https://neonephos.org/goals)
 
 | How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
 |---|---|---|---|---|
-|[Video Series](../social_media_template_work_packages.md#video-series)| ```enduring``` | Running Topics: (1) Explain the background (2) Explain IPCEI-CIS (3) Explain NeoNephos | YouTube Analytics Toolset| An avg. of 100 views per video|
-|[NeoNephos Website Update](../social_media_template_work_packages.md#neonephos-website-page-update)| ```enduring``` | Create new pages | Existence of page| Existence of pages|
-|[Blog Campaign](../social_media_template_work_packages.md#neonephos-blog-campaign)| ```enduring``` | Create new blog entries explaining NeoNephos and its background | Existence of page | Existence of pages |
+|[Video Series](../social_media_template_work_packages.md#video-series)| ```>= Q3 2026``` | Running Topics: (1) Explain the background (2) Explain IPCEI-CIS (3) Explain NeoNephos | YouTube Analytics Toolset| An avg. of 100 views per video|
+|[NeoNephos Website Update](../social_media_template_work_packages.md#neonephos-website-page-update)| ```>= Q3 2026``` | Create new pages | Existence of page| Existence of pages|
+|[Blog Campaign](../social_media_template_work_packages.md#neonephos-blog-campaign)| ```>= Q3 2026``` | Create new blog entries explaining NeoNephos and its background | Existence of page | Existence of pages |
 
 ##### Goal
 
@@ -188,7 +242,6 @@ The goal of social media activities related to this goal is to:
     - How does NNF compare with other initiatives?
     - How does NNF fit into the political landscape like IPCEI-AI, European Tech Sovereignty Package etc.?
 - **Reinforce the perception that NeoNephos' history and goals are closely aligned with some initiatives like the European Tech Sovereignty Package.**
-
 
 **TODO: ADD FURTHER SECTIONS**
 
