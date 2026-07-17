@@ -136,6 +136,39 @@ The goal of social media activities with regards to the testlab is to:
     - The advantages of the chosen location must be emphasized. Otherwise, a cheaper server location elsewhere would be seen as more appropriate in the eyes of the public.
 - Encourage people to visit the testlab.
 
+#### [Get 3+ additional Non-SAP members](https://neonephos.org/blog/20260507_governing_board_workshop)
+
+| How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
+|---|---|---|---|---|
+|[NeoNephos Website Update](../social_media_template_work_packages.md#neonephos-website-page-update)| ```enduring``` | Explain the advantages of becoming a member| Existence of page| Existence of pages|
+|[Blog Campaign](../social_media_template_work_packages.md#neonephos-blog-campaign)| ```enduring``` | Create new blog entries  highlighting testimonials from members | Number of blog case studies | At least 4 case studies |
+
+##### Goal
+
+The goal of social media activities supporting the effort of getting at least three new members is:
+
+- Inform the public about the advantages of of joining NeoNephos.
+- Highlight testimonials from members.
+
+#### [Establish Conformance Program](https://neonephos.org/blog/20260507_governing_board_workshop)
+
+| How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
+|---|---|---|---|---|
+|[NeoNephos Website Update](../social_media_template_work_packages.md#neonephos-website-page-update)| ```enduring``` | Explain the conformance program| Existence of page| Existence of page|
+|[Blog Campaign](../social_media_template_work_packages.md#neonephos-blog-campaign)| ```enduring``` | Create a blog entry explaining the conformance program | Number of blog entries | One blog entry |
+|[LinkedIn Campaign](../social_media_template_work_packages.md#linkedin-campaign)| ```enduring``` | Running Topics: (1) What is the conformance program?| LinkedIn Analytics Toolset| An avg. of a link click rate (of a post) of 0.2|
+
+##### Goal
+
+The goal of social media activities supporting the effort of promoting the conformance program is:
+
+- Inform the public about the existence of the conformance program.
+- Inform the public about what the conformance program is.
+- Inform the public about the content of the conformance program itself.
+- Inform the public how to participate in the development of the program.
+
+It is to be expected that in 2026 the conformance program will not be ready, so any announcements are probably related to its development.
+
 #### [Explain NeoNephos and its context](https://neonephos.org/goals)
 
 | How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
