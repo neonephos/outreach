@@ -52,6 +52,158 @@ The following documents are used as the primary source for establishing the soci
 > [!NOTE]
 > The upcoming NeoNephos Vision document was unfinished at the time of this writing and is therefore not considered in the Social Media Strategy for ```Q3 2026 – Q1 2027```.
 
+### Viusal Overview
+
+The following is a visual overview of the granular target description below.
+
+```mermaid
+gantt
+    title NeoNephos Social Media Strategy Roadmap (Q3 2026 - Q1 2027)
+    dateFormat YYYY-MM-DD
+    axisFormat %b %Y
+
+    section Ambassador Program
+    LinkedIn Campaign :2026-07-01, 273d
+
+    section NNF Hackathon
+    LinkedIn Campaign :2026-07-01, 273d
+    Newsletter Campaign :2026-07-01, 273d
+
+    section Physical Testlab
+    Newsletter Campaign :2026-07-01, 273d
+
+    section New Members
+    Website Updates :2026-07-01, 273d
+    Blog Campaign :2026-07-01, 273d
+
+    section Conformance Program
+    Website Updates :2026-10-01, 182d
+    Blog Campaign :2026-10-01, 182d
+    LinkedIn Campaign :2026-10-01, 182d
+
+    section Commercialization Program
+    Website Updates :2026-10-01, 182d
+    Blog Campaign :2026-10-01, 182d
+    LinkedIn Campaign :2026-10-01, 182d
+
+    section KubeCon + CloudNativeCon '27
+    Blog Campaign :2026-10-01, 182d
+    LinkedIn Campaign :2026-10-01, 182d
+    Newsletter Campaign :2026-10-01, 182d
+    Press Release :2027-01-01, 90d
+
+    section Open Source Summit '27
+    Blog Campaign :2027-01-01, 90d
+    LinkedIn Campaign :2027-01-01, 90d
+    Newsletter Campaign :2027-01-01, 90d
+    Press Release :2027-01-01, 90d
+
+    section Explain NeoNephos
+    Video Series :2026-07-01, 273d
+    Website Updates :2026-07-01, 273d
+    Blog Campaign :2026-07-01, 273d
+```
+
+```mermaid
+gantt
+    title NeoNephos Social Media Support Roadmap
+    dateFormat YYYY-MM-DD
+    axisFormat %b %Y
+
+    section Strategic Priorities
+    Ambassador Program :2026-07-01, 273d
+    NNF Hackathon :2026-07-01, 273d
+    Physical Testlab :2026-07-01, 273d
+    New Members :2026-07-01, 273d
+
+    section Emerging Initiatives
+    Conformance Program :2026-10-01, 182d
+    Commercialization Program :2026-10-01, 182d
+
+    section Events
+    KubeCon + CloudNativeCon '27 :2026-10-01, 182d
+    Open Source Summit '27 :2027-01-01, 90d
+
+    section Foundation Messaging
+    Explain NeoNephos :2026-07-01, 273d
+```
+
+```mermaid
+gantt
+    title NeoNephos Social Media Strategy Roadmap (Q3 2026 - Q1 2027)
+    dateFormat YYYY-MM-DD
+    axisFormat %b %Y
+
+    section Ambassador Program
+    LinkedIn Campaign :2026-07-01, 273d
+
+    section NNF Hackathon
+    LinkedIn Campaign :2026-07-01, 273d
+    Newsletter Campaign :2026-07-01, 273d
+
+    section Physical Testlab
+    Newsletter Campaign :2026-07-01, 273d
+
+    section New Members
+    Website Updates :2026-07-01, 273d
+    Blog Campaign :2026-07-01, 273d
+
+    section Conformance Program
+    Website Updates :2026-10-01, 182d
+    Blog Campaign :2026-10-01, 182d
+    LinkedIn Campaign :2026-10-01, 182d
+
+    section Commercialization Program
+    Website Updates :2026-10-01, 182d
+    Blog Campaign :2026-10-01, 182d
+    LinkedIn Campaign :2026-10-01, 182d
+
+    section KubeCon + CloudNativeCon '27
+    Blog Campaign :2026-10-01, 182d
+    LinkedIn Campaign :2026-10-01, 182d
+    Newsletter Campaign :2026-10-01, 182d
+    Press Release :2027-01-01, 90d
+
+    section Open Source Summit '27
+    Blog Campaign :2027-01-01, 90d
+    LinkedIn Campaign :2027-01-01, 90d
+    Newsletter Campaign :2027-01-01, 90d
+    Press Release :2027-01-01, 90d
+
+    section Explain NeoNephos
+    Video Series :2026-07-01, 273d
+    Website Updates :2026-07-01, 273d
+    Blog Campaign :2026-07-01, 273d
+```
+
+
+
+
+
+```mermaid
+gantt
+    title NeoNephos Social Media Support Roadmap
+    dateFormat YYYY-MM-DD
+    axisFormat %b %Y
+
+    section Strategic Priorities
+    Ambassador Program :2026-07-01, 273d
+    NNF Hackathon :2026-07-01, 273d
+    Physical Testlab :2026-07-01, 273d
+    New Members :2026-07-01, 273d
+
+    section Emerging Initiatives
+    Conformance Program :2026-10-01, 182d
+    Commercialization Program :2026-10-01, 182d
+
+    section Events
+    KubeCon + CloudNativeCon '27 :2026-10-01, 182d
+    Open Source Summit '27 :2027-01-01, 90d
+
+    section Foundation Messaging
+    Explain NeoNephos :2026-07-01, 273d
+```
+
 ### Social Media Targets
 
 The following social media targets are the main focus areas the social media strategy supports.
