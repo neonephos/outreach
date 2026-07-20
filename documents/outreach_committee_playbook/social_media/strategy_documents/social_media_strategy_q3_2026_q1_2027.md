@@ -243,6 +243,29 @@ The goal of social media activities related to this goal is to:
     - How does NNF fit into the political landscape like IPCEI-AI, European Tech Sovereignty Package etc.?
 - **Reinforce the perception that NeoNephos' history and goals are closely aligned with some initiatives like the European Tech Sovereignty Package.**
 
+#### Get additional 2+ non-SAP projects
+
+| How to support | Duration of Social Media Supporting Efforts | Description of Effort | How to measure Success | Success Criteria |
+|---|---|---|---|---|
+|[Blog Campaign](../social_media_template_work_packages.md#neonephos-blog-campaign)| ```>= Q3 2026``` | Create a blog entry around the event | Number of blog entries | At least one blog entry |
+|[LinkedIn Campaign](../social_media_template_work_packages.md#linkedin-campaign)| ```>= Q3 2026``` | Running Topics: (1) Project news (2) Case studies and successes in our existing projects (3) Reiterating our message and call for new projects| LinkedIn Analytics Toolset| An avg. of a link click rate (of a post) of 0.2|
+|[Newsletter E-Mail Campaign](../social_media_template_work_packages.md#newsletter-e-mail-campaign)| ```>= Q4 2026``` | Running Topics: (1) Project News and successes | Groups.io (or Hubspot) Analytics Toolset| A mail opening rate of 0.3 one week post sendout|
+|[NeoNephos Website Update](../social_media_template_work_packages.md#neonephos-website-page-update)| ```>= Q3 2026``` | Explain the benefits new projects receive better| Existence of page| Existence of pages|
+
+##### Goal
+
+To reach the aspirational targets set in the [goals document](https://neonephos.org/blog/20260507_governing_board_workshop), the Social Media SIG has decided that an increase in projects with non-SAP drivers is needed.
+
+The goal of social media activities related to this goal is to:
+
+- Inform the public about:
+    - Our projects and their use cases.
+    - Case studies and successes.
+- Increase participation in the form of:
+    - More non-SAP contributors in NNF's legacy projects
+    - New non-SAP projects
+
+
 **TODO: ADD FURTHER SECTIONS**
 
 ## Conformance Control
