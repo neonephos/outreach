@@ -28,7 +28,10 @@ This document provides a baseline on how this close coordination is faciliated s
 
 #### Normal Governing Board Meeting
 
-The Outreach Committee Chairperson is invited to standard Governing Board meetings.
+The Outreach Committee Chairperson is invited to normal Governing Board meetings.
+
+>[!Note]
+> A normal Governing Board meeting are the meetings *required* by the NeoNephos Foundation Charter to occur within this committee.
 
 #### Strategy Workshops
 
@@ -45,9 +48,8 @@ The Outreach Committee Chairperson is invited to Governing Board Strategy Worksh
 ### Procedure
 
 1. At least one week prior to the next Governing Board meeting, the Outreach Committee chair:
-    1. Opens [an issue in the Governing Board repository](https://github.com/neonephos/gb/issues), or
-    2. Sends a mail via the Governing board mailing list
-    asking for agenda proposals for the Outreach Committee part of the Governing Board meeting.
+    1. Opens [an issue in the Governing Board repository](https://github.com/neonephos/gb/issues) asking for agenda proposals for the Outreach Committee part of the Governing Board meeting, or
+    2. Sends a mail via the Governing board mailing list asking for agenda proposals for the Outreach Committee part of the Governing Board meeting.
 2. At most 2 days prior to the next Governing meeting, the call for agenda topics is closed and the Outreach Committee Chairperson liaises with the Governing Board Chairperson and LFEU staff to integrate the Outreach Committee contribution to the general meeting agenda.
 
 ## Quarterly Reviews
