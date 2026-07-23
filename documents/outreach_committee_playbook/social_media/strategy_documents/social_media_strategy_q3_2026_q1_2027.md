@@ -162,7 +162,7 @@ gantt
 
 ### Social Media Targets
 
-The following social media targets are the main focus areas the social media strategy supports.
+The following social media targets are the main focus areas the social media strategy supports. The priority weight goes from 1 (lowest) to 10 (highest).
 
 > [!NOTE]
 > The topics listed below only reference the *primary* focus areas. This does not mean this is the sole social media content to be created.
