@@ -6,7 +6,7 @@ We greatly value the contributions of our Ambassadors to further the goals of th
 > The NeoNephos Foundation reserves the right to modify these terms at any point in time with no notice given. The benefits listed here are understood as *potential* privileges conferred upon our Ambassadors.
 
 > [!NOTE]
-> If an ambassador is affiliated with a General or Premier Sponsor, neither the mini-stipend nor the events cost funding will  be provided. 
+> If an ambassador is affiliated with a General or Premier Sponsor, neither the mini-stipend nor the events cost funding will  be provided. [^3]
 
 ## The NeoNephos Mini-Stipend
 
