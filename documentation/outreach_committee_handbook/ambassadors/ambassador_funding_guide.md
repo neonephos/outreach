@@ -41,3 +41,4 @@ Qualifying for the limited number of Ambassador travel stipends is usually linke
 
 [^1]: Transportation amenities must be at most mid-range, comparable to 2nd class of a DB train in Germany.
 [^2]: Hotel must be at most mid-range, comparable to three stars as defined by DEHOGA.
+[^3]: Affiliation means being an employee or third party supplier of said companies or organizations or receiving significant (in the eyes of the Outreach Committee) monetary support from such a company in any shape or form.
