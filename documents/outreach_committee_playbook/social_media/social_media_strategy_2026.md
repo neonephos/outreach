@@ -59,9 +59,19 @@ Posts from real people outperform foundation page posts on LinkedIn (algorithmic
 - People outperform company pages
 - Contributors should post & engage actively
 
-### Engage With Comments
+### Engagement
+Reply to every comment ASAP and check LinkedIn at least twice a day. This is non-negotiable for a community-building account.
 
-Reply to every comment within 24 hours. This is non-negotiable for a community-building account.
+### Response Rules 
+### Comments
+- Respond to comments that contain a relevant question, constructive feedback, or meaningful input related to the post. Address the specific point clearly and professionally.
+- Pure reactions, emojis, or generic comments do not always require a response.
+### Mentionings
+- If I’m mentioned by a company, respond with a comment;
+- if my personal profile is mentioned, react with a like
+### Messages
+- reply to or forward personal messages as appropriate.
+  
 
 **List of who to follow and where to comment:**
 - Alaska
