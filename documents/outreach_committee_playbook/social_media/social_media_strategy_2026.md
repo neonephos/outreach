@@ -74,10 +74,11 @@ Reply to every comment ASAP and check LinkedIn at least twice a day. This is non
   
 
 **List of who to follow and where to comment:**
-- Alaska
-- All members
-- Please add!
-- …
+- NeoNephos Foundation Members
+- NeoNephos Foundation Projects
+- Related Projects
+- Cloud Communities
+- Policy Communities 
 
 ### Quarterly Review
 
