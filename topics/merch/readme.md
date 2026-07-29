@@ -21,4 +21,5 @@ Just fill out the ```Request Merchandise``` issue template and follow the steps.
 
 ## Point of Contact
 
-The best way to get in touch is to [raise an issue in this repository](https://github.com/neonephos/outreach/issues/new/choose) or reach out on the ```neonephos-discussion``` channel [on Zulip](https://linuxfoundation.zulipchat.com/#narrow/channel/525732-neonephos-discussion/topic/.E2.9C.94.20channel.20events/with/558483910).
+If you have any questions with regards to merchandise, get in touch with @bannanadreams.
+The second best way is to [raise an issue in this repository](https://github.com/neonephos/outreach/issues/new/choose) or reach out on the ```neonephos-discussion``` channel [on Zulip](https://linuxfoundation.zulipchat.com/#narrow/channel/525732-neonephos-discussion/topic/.E2.9C.94.20channel.20events/with/558483910).
