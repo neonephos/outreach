@@ -71,6 +71,16 @@ Reply to every comment ASAP and check LinkedIn at least twice a day. This is non
 - if NeoNephos Foundation is mentioned by a personal profile, react with a like
 ### Messages
 - reply to or forward personal messages as appropriate.
+### Repostings
+- Repost content that mentions NeoNephos directly, and is directly relevant to the NeoNephos Foundation’s mission, working groups, community, or ecosystem such as
+     conference talks, workshops, webinars, or industry events;
+     major project developments or milestones;
+     project collaborations, use cases, or success stories;
+     topics such as interoperability, digital sovereignty, or open-source collaboration.
+- Add a short comment when reposting to provide context, explain relevance, or highlight a key takeaway. Avoid reposting without commentary where possible.
+- When appropriate, tag relevant organizations or individuals to acknowledge their contribution and increase visibility.
+- Do **not repost** content that is promotional, politically or commercially biased, or if the original post contains outdated, inaccurate, or potentially misleading information
+
   
 
 **List of who to follow and where to comment:**
