@@ -1,12 +1,12 @@
 # NeoNephos Ambassador Code of Conduct
 
 > [!WARNING]
-> The NeoNephos Ambassador Code of Conduct complements the NeoNephos Code of Conduct (if existent) and the Linux Foundation Europe Code of Conduct. In case of conflict with the NeoNephos Ambassador Code of Conduct, these documents take precedence.
+> The NeoNephos Ambassador Code of Conduct complements the NeoNephos Code of Conduct (if existent) and the [Linux Foundation Code of Conduct](https://linuxfoundation.eu/policies/code-of-conduct?_gl=1*1li8qfy*_up*MQ..*_ga*MTIyMzA2MTk2MC4xNzg1NDk0MTU2*_ga_YTFV6G9YL7*czE3ODU0OTQxNTYkbzEkZzAkdDE3ODU0OTQxNTYkajYwJGwwJGgw). In case of conflict with the NeoNephos Ambassador Code of Conduct, these documents take precedence.
 
 
 ## Preamble
 
-The NeoNephos Ambassador Code of Conduct extends the [Linux Foundation Code of Conduct](https://linuxfoundation.eu/policies/code-of-conduct?_gl=1*1li8qfy*_up*MQ..*_ga*MTIyMzA2MTk2MC4xNzg1NDk0MTU2*_ga_YTFV6G9YL7*czE3ODU0OTQxNTYkbzEkZzAkdDE3ODU0OTQxNTYkajYwJGwwJGgw) for Ambassadors. In case of inconsistencies, the LFEU Code of Conduct takes precedence.
+The NeoNephos Ambassador Code of Conduct extends our general rules for conduct to NeoNephos Ambassadors.
 
 ### Do not sell merch
 
