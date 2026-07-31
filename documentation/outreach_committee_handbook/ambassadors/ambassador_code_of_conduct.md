@@ -16,7 +16,7 @@ It is a violation of the NNF Ambassador Code of Conduct, for a NeoNephos Ambassa
 
 It is a violation of the NNF Ambassador Code of Conduct, for NeoNephos Ambassadors to give custom Ambassador merch away without explicit permission from the Outreach Committee.
 
-### Every NeoNephos Ambassador has a blank slate
+### Every NeoNephos Ambassador represents the Foundation
 
 It is a violation of the NNF Ambassador Code of Conduct, for a NeoNephos Ambassador that is in active duty (e.g. booth service) to:
 
