@@ -10,15 +10,15 @@ The NeoNephos Ambassador Code of Conduct extends our general rules for conduct t
 
 ### Do not sell merch
 
-It is a violation of the NNF Ambassador Code of Conduct, for a NeoNephos Ambassador to sell NeoNephos merchandise.
+It is a violation of the NNF Ambassador Code of Conduct for a NeoNephos Ambassador to sell NeoNephos merchandise.
 
 ### Do not give custom Ambassador Merch away
 
-It is a violation of the NNF Ambassador Code of Conduct, for NeoNephos Ambassadors to give custom Ambassador merch away without explicit permission from the Outreach Committee.
+It is a violation of the NNF Ambassador Code of Conduct for NeoNephos Ambassadors to give custom Ambassador merch away without explicit permission from the Outreach Committee.
 
 ### Every NeoNephos Ambassador represents the Foundation
 
-It is a violation of the NNF Ambassador Code of Conduct, for a NeoNephos Ambassador that is in active duty (e.g. booth service) to:
+It is a violation of the NNF Ambassador Code of Conduct for a NeoNephos Ambassador that is in active duty (e.g. booth service) to:
 
 - Engage in promotion of anything that is not in the interests of the NeoNephos Foundation
 - Wear clothing of companies or topics that are not in the interests of the NeoNephos Foundation
