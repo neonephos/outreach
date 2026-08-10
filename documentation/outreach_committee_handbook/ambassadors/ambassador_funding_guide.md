@@ -6,7 +6,7 @@ We greatly value the contributions of our Ambassadors to further the goals of th
 > The NeoNephos Foundation reserves the right to modify these terms at any point in time with no notice given. The benefits listed here are understood as *potential* privileges conferred upon our Ambassadors.
 
 > [!NOTE]
-> If an ambassador is affiliated with a General or Premier Sponsor, neither the mini-stipend nor the events cost funding will  be provided. [^3]
+> If an ambassador is affiliated with a General or Premier Sponsor, the mini-stipend funding will not be provided. [^3]
 
 ## The NeoNephos Mini-Stipend
 
@@ -21,3 +21,5 @@ Unused budgets throughout multiple quarters do not add up.
 
 > [!NOTE]
 > The intend of this funding is to provide the Ambassador autonomy and explore areas of interest the NeoNephos Foundation has not considered yet.
+
+[^3]: Affiliation means being an employee or third party supplier of said companies or organizations or receiving significant (in the eyes of the Outreach Committee) monetary support from such a company in any shape or form.
