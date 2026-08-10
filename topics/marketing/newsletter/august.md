@@ -1,6 +1,6 @@
 # NeoNephos Foundation Newsletter
 
-Welcome to our newest issue of the NNF Newsletter 📰! As we are in the closing months of an eventful summer, we are taking a look back on what happened in the month of **August**.
+Welcome to our newest issue of the NNF Newsletter 📰! As we are in the closing months of an eventful summer, let's take a look back on what happened in the month of **August**.
 
 ## KPI SIG Formed
 
