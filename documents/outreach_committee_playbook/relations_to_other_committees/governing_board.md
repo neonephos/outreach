@@ -43,7 +43,7 @@ The Outreach Committee Chairperson is invited to Governing Board Strategy Worksh
 ### Responsibility
 
 1. The Governing Board Chairperson and LFEU staff are responsible for facilitating Governing Board meetings.
-  2. They are also guaranteeing that the Outreach Committee Chairperson always receives reserved space for at least one slide in a Governing Board meeting presentation to provide updates about the committee.
+  2. They are also guaranteeing that the Outreach Committee Chairperson always receives reserved space for at least one slide in a Governing Board meeting presentation to provide updates about the progress of the Outreach Committee.
 
 ### Procedure
 
