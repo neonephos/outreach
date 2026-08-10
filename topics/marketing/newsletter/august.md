@@ -4,4 +4,4 @@ Welcome to our newest issue of the NNF Newsletter 📰! As we are in the closing
 
 ## KPI SIG Formed
 
-Thoughtful decisions are often based on data. The [KPI SIG](https://github.com/neonephos/outreach/tree/main/topics/kpi) ensures that the various data sources emerging from the works of the Outreach Committee SIGs are harvested, stored and the potential properly exploited. For more details on how you can be part of this SIG too see [here](https://github.com/neonephos/outreach/tree/main/topics/kpi).
+Thoughtful decisions are often based on data. The [KPI SIG](https://github.com/neonephos/outreach/tree/main/topics/kpi) ensures that the various data sources emerging from the works of the Outreach Committee SIGs are harvested, stored and their potential exploited. For more details on how you can be part of this SIG too see [here](https://github.com/neonephos/outreach/tree/main/topics/kpi).
