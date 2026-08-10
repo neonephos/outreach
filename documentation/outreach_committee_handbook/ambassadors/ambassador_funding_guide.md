@@ -21,24 +21,3 @@ Unused budgets throughout multiple quarters do not add up.
 
 > [!NOTE]
 > The intend of this funding is to provide the Ambassador autonomy and explore areas of interest the NeoNephos Foundation has not considered yet.
-
-## Events
-
-We recognize events as an important conduit for providing outreach. Therefore, NeoNephos provides for some of the events it attends a limited number of at-cost travel stipends for our Ambassadors. This stipend is:
-
-- Up to €400 for events within the Ambassador's country of residence
-- Up to €1500 for events outside the Ambassador's country of residence
-
-The following is covered:
-
-- Transportation costs [^1]
-- Hotel costs [^2]
-
-Qualifying for the limited number of Ambassador travel stipends is usually linked to work activities such as booth service. The Outreach Committee communicates beforehand which events have slots for NeoNephos Ambassadors available. See which events qualify on [the events board](https://github.com/neonephos/events).
-
-> [!NOTE]
-> Ticket prices are not covered by the travel stipend. However, we often have a sufficient number of free tickets, usually courtesy of the event sponsorship package, available.
-
-[^1]: Transportation amenities must be at most mid-range, comparable to 2nd class of a DB train in Germany.
-[^2]: Hotel must be at most mid-range, comparable to three stars as defined by DEHOGA.
-[^3]: Affiliation means being an employee or third party supplier of said companies or organizations or receiving significant (in the eyes of the Outreach Committee) monetary support from such a company in any shape or form.
