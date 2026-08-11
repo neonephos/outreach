@@ -14,3 +14,6 @@ We have the following inventory classes available:
 |Patches|
 |Swagbag|
 |USB Tool|
+
+> [!NOTE]
+> Browse through our currently available stock [here](stock_of_nonallocated_merchandise.csv).
