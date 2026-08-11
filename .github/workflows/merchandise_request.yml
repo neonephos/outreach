@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: "merch-request-${{ github.event.issue.number }}"
           commit-message: "Add merchandise request from Issue #${{ github.event.issue.number }}"
-          title: "Merchandise Request from #${{ github.event.issue.number }}"
+          title: "${{ github.event.issue.title }}"
           body: "This PR has been created from the merchandise request from issue #${{ github.event.issue.number }}. Requestor: An Outreach Committee team member will get in touch with you."
           base: main
           assignees: banannadreams
