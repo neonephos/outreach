@@ -36,6 +36,10 @@ This is currently being fleshed out. But you can expect the usual goodies, such 
 - Financial support for promotional activities such as attending events 
 - Credly Badge
 
+## More Documentation
+
+Check the [Ambassador section](https://github.com/neonephos/outreach/tree/main/documentation/outreach_committee_handbook/ambassadors) of the Outreach Committee Handbook!
+
 ## Point of Contact
 
 The best way to get in touch is to [raise an issue in this repository](https://github.com/neonephos/outreach/issues/new/choose).
