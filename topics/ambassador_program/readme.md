@@ -38,7 +38,7 @@ This is currently being fleshed out. But you can expect the usual goodies, such 
 
 ## More Documentation
 
-Check the [Ambassador section](https://github.com/neonephos/outreach/tree/main/documentation/outreach_committee_handbook/ambassadors) of the Outreach Committee Handbook!
+Check the [Ambassador section](https://github.com/neonephos/outreach/tree/main/documents/outreach_committee_playbook/ambassadors) of the Outreach Committee Handbook!
 
 ## Point of Contact
 
