@@ -1,7 +1,7 @@
 # NeoNephos Foundation
-## Social Media Strategy
+## Social Media Operational Strategy
 
-Reference document for the social media team
+Reference document for the social media team day-to-day acitivities.
 
 ---
 
