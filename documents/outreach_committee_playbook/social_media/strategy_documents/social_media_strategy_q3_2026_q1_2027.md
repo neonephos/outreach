@@ -1,6 +1,6 @@
 # Social Media Strategy Document
 
-*Approved on _______* by the Outreach Committee Social Media SIG.
+*Approved on 2026-08-11* by the Outreach Committee Social Media SIG.
 
 > [!NOTE]
 > The strategy outlined in this document is valid from ```Q3 2026 – Q1 2027```.
