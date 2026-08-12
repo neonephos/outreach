@@ -1,0 +1,196 @@
+# NeoNephos Foundation
+## Social Media Strategy
+
+Reference document for the social media team
+
+---
+
+## 1. Strategy Overview
+
+The Social Media Strategy has three equally important goals: building awareness, growing the community, and attracting new members.
+
+**Principle: Consistency over volume.**
+
+### Posting Rhythm & Content Formats
+
+Regular goal is a basis of 2–3 posts per week. But always depending on how much is going on, if more posts are needed (ongoing Event, etc.) or if nothing is going on and the post would have no real content than rather no post.
+
+**Summary:**
+- Base: 2–4 posts per week
+- More if needed (events, releases)
+- No content → no post
+
+**Content Formats:**
+- Probably 1 longer expert article per month
+- Live updates during conferences or community events
+- Short insight-driven posts
+- Carousel posts with 3-5 slides
+- Short video clips or event snippets
+- Graphics, quotes, and statistics
+- Community and behind-the-scenes posts (such as events)
+- LinkedIn articles for deeper topics (e. g. project deep dives)
+
+### KPIs
+
+1st: Reach, impressions, follower growth (2nd: engagement rate, shares, and interactions/likes)
+
+### The Three Goals
+
+Each goal maps to a distinct content type. Distribute roughly equally across the week:
+
+- **Brand Awareness – Who we are?:** Tech-Talks, conference contributions, blog posts, project milestones.
+- **Building reach & Community – We belong here:** Short takes on relevant developments in the ecosystem. (Sovereignty, IPCEI, new projects, etc.)
+- **Members – Why join?:** Concrete insights into what the foundation delivers (who's a member and why?) + transparency over what's happening in Working Groups.
+
+### Core Content Topics
+
+- Open-source projects and technical developments
+- European digital sovereignty and cloud topics
+- Community highlights, partners, and contributors*
+- Event announcements, recaps, and industry news
+- Educational content (explainers, trends, short insights)
+- Success stories and practical use cases
+
+### Personal Profiles Are the Biggest Lever
+
+Posts from real people outperform foundation page posts on LinkedIn (algorithmically and in terms of credibility) → Team members and visible contributors should post regularly and engage with foundation content.
+
+**Summary:**
+- People outperform company pages
+- Contributors should post & engage actively
+
+### Engagement
+Reply to every comment ASAP and check LinkedIn at least twice a day. This is non-negotiable for a community-building account.
+
+### Response Rules 
+### Comments
+- Respond to comments that contain a relevant question, constructive feedback, or meaningful input related to the post. Address the specific point clearly and professionally.
+- Pure reactions, emojis, or generic comments do not always require a response.
+### Mentionings
+- If NeoNephos Foundation is mentioned by a company, respond with a comment;
+- if NeoNephos Foundation is mentioned by a personal profile, react with a like
+### Messages
+- reply to or forward personal messages as appropriate.
+### Repostings
+- Repost content that mentions NeoNephos directly, and is directly relevant to the NeoNephos Foundation’s mission, working groups, community, or ecosystem such as
+     conference talks, workshops, webinars, or industry events;
+     major project developments or milestones;
+     project collaborations, use cases, or success stories;
+     topics such as interoperability, digital sovereignty, or open-source collaboration.
+- Add a short comment when reposting to provide context, explain relevance, or highlight a key takeaway. Avoid reposting without commentary where possible.
+- When appropriate, tag relevant organizations or individuals to acknowledge their contribution and increase visibility.
+- Do **not repost** content that is promotional, politically or commercially biased, or if the original post contains outdated, inaccurate, or potentially misleading information
+
+  
+
+**List of who to follow and where to comment:**
+- NeoNephos Foundation Members
+- NeoNephos Foundation Projects
+- Related Projects
+- Cloud Communities
+- Policy Communities 
+
+### Quarterly Review
+
+Every three months: check in with team which posts worked, which content type attracts which audience. Optimize for profile visits, follower growth, and comment quality, not likes.
+
+**Focus on:**
+- Profile visits
+- Follower growth
+- Comment quality
+- Not likes.
+
+---
+
+## 2. Hashtag Sets
+
+\#NeoNephos appears on every post. The second and third tags shift based on whether the content is community-facing, technically-facing, or infrastructure-focused. Events and blog posts get an additional #DigitalSovereignty.
+
+| Content Type | Hashtags | Total |
+|---|---|---|
+| Events | #NeoNephosFoundation #OpenSource #CloudNative #DigitalSovereignty | 4 |
+| Blog Posts | #NeoNephosFoundation #OpenSource #CloudInfrastructure #DigitalSovereignty | 4 |
+| New Members | #NeoNephosFoundation #OpenSource #Community | 3 |
+| New Projects | #NeoNephosFoundation #OpenSource #CloudNative | 3 |
+| Use Cases / Architecture | #NeoNephosFoundation #CloudNative #CloudInfrastructure | 3 |
+| News from Members (Reposts) | #NeoNephosFoundation #OpenSource #Community | 3 |
+| Uploaded Videos / Talks (own) | #NeoNephosFoundation #OpenSource #CloudNative | 3 |
+| Talks in other formats (others) | #NeoNephosFoundation #OpenSource #CloudNative | 3 |
+
+### Core Usage Rules
+
+- \#NeoNephos → always
+- Max. 3–5 hashtags per post
+- Focus on one audience per post
+
+---
+
+## 3. Tone & Style Principles
+
+These apply to all content – bot-generated or written by the team.
+
+- Professional, open, European-focused, technically accessible, and community-oriented.
+- Emphasis on thought leadership rather than marketing language.
+- Write like a knowledgeable colleague, not a marketing department
+- The first sentence is everything – it determines whether anyone reads the rest
+- Short is better: If a sentence doesn't add something, cut it
+- Avoid buzzwords and empty phrases ('We are excited to announce', 'thrilled to share', 'game-changing').
+
+---
+
+## 4. Content Quality Check
+
+**Before posting:**
+- Strong first sentence?
+- One clear idea?
+- Right audience?
+- Human and approachable language?
+- Adds value?
+
+If not → don't post
+
+---
+
+## 5. Success Metrics
+
+**Focus on:**
+- Conversations
+- Profile visits
+- Member interest
+
+### Explanation
+
+A post with fewer likes but meaningful comments is more valuable than one with high reach but no engagement. → Success is not measured by visibility alone, but by interaction and relevance.
+
+**Conversations indicate real interest.**
+If people ask questions, challenge ideas, or start discussions, the content is reaching the right audience.
+
+**Profile visits show intent.**
+They signal that people want to understand more about NeoNephos beyond a single post.
+
+### Core Principle
+
+If content creates dialogue and attracts the right people, it is successful.
+
+### Outcome: Learning & Content Evolution
+
+Comments are also a feedback mechanism. They help us:
+- understand what resonates
+- identify unclear messaging
+- detect relevant topics and pain points in the ecosystem
+
+### How We Use This
+
+Escalatory Engagament Ladder:
+
+- Like: Superficial engagement,done for: passing comments about NeoNephos or related activity of our members / ambassadors / projects
+- Repost: Done for: Concrete NeoNephos Foundation involvement apparent / main topic
+- Repost & Comment: Done for: Concretization of NeoNephos involvement in posts pertinent to our Foundation
+
+- Strong discussions → create follow-up posts
+- Repeated questions → turn into content (posts, blogs, events)
+- Controversial takes → refine positioning
+
+### Requesting Access for Social Media Channels
+
+- Access to the Social Media Channels will be voted on Zulip through a simple yes or no vote. 
