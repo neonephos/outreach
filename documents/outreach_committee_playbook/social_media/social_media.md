@@ -84,7 +84,7 @@ This meeting addresses:
 
 The following Social Media Strategy Documents currently exist:
 
-* [Social Media Strategy Q3 2026 - Q1 2027]()
+* [Social Media Strategy Q3 2026 - Q1 2027](strategy_documents/social_media_strategy_q3_2026_q1_2027.md)
 
 ## Working with Third Parties
 
