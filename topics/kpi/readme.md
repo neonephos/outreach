@@ -1,6 +1,6 @@
 # Welcome to the KPI SIG
 
-👋 ```$ python3 hello.py```! Everything data is our mission, so if you are looking for the official NeoNephos kpi repository then look for further!
+👋 ```$ python3 hello.py```! Everything data is our mission, so if you are looking for the official NeoNephos kpi repository then look no further!
 
 > [!TIP]
 > Formal Membership in the NeoNephos Outreach Committee is not required to be involved in this working group. 
