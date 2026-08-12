@@ -7,7 +7,7 @@
 
 ## Meetings
 
-Will be announced. 
+Every second Thursday @ 15:00 CE(S)T.
 
 All meetings are managed by the Linux Foundation Project Control Center.
 
