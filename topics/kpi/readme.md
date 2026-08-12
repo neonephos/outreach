@@ -2,7 +2,7 @@
 
 Everything data is our mission, so if you are looking for the official NeoNephos kpi repository then look no further!
 
-You can review the current plans of the SIG in [kpi_sig_plan.md](docmentation/kpi_sig_plan.md)
+You can review the current plans of the SIG in [kpi_sig_plan.md](../../documents/outreach_committee_playbook/kpi/kpi_sig_plan.md)
 
 > [!TIP]
 > Formal Membership in the NeoNephos Outreach Committee is not required to be involved in this working group. 
