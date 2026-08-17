@@ -63,31 +63,31 @@ gantt
     dateFormat YYYY-MM-DD
     axisFormat %b %Y
 
-    section Priority 8
+    section Priority Weight 8
     Explain NeoNephos & Context :crit, 2026-07-01, 273d
     Additional Non-SAP Contributors :crit, 2026-07-01, 273d
 
-    section Priority 7
+    section Priority Weight 7
     KubeCon + CloudNativeCon EU '27 :crit, 2026-10-01, 182d
 
-    section Priority 6
+    section Priority Weight 6
     Ambassador Program :2026-07-01, 273d
     NNF Hackathon :2026-07-01, 273d
     Physical Testlab :2026-07-01, 273d
     Additional Members :2026-07-01, 273d
     Open Source Summit EU '27 :2027-01-01, 90d
 
-    section Priority 5
+    section Priority Weight 5
     Additional Non-SAP Projects :2026-07-01, 273d
 
-    section Priority 3
+    section Priority Weight 3
     Track Additional Data :2026-07-01, 273d
 
-    section Priority 2
+    section Priority Weight 2
     Conformance Program :2026-10-01, 182d
     Commercialization Program :2026-10-01, 182d
 
-    section Priority 1
+    section Priority Weight 1
     Resource Allocation Data Collection :2026-07-01, 273d
 ```
 
