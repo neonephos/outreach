@@ -63,4 +63,5 @@ Each event must have a label.
 
 While creating this list, the Outreach Committee makes reasonable guesses as to the type of engagement required for an event given the expected availability in resources, such as manpower or funding.
 
-> [!NOTE] When estimating costs for an event, discounts should only be included if they are certain.
+> [!NOTE]
+> When estimating costs for an event, discounts should only be included if they are certain.
