@@ -14,4 +14,5 @@ This document represents the authorative list of plans, procedures and activitie
 - **[Relations to other Committees]()**
   - [Governing Board](./relations_to_other_committees/governing_board.md)
 - **[Ambassador](./ambassador/ambassador.md)**
+- **[KPI](./kpi/kpi.md)**
 
