@@ -39,6 +39,13 @@ A buddy must fulfil the following characteristics:
 
 Buddies are expected to be supportive, available and obey confidentiality, if so requested by the initial ambassador.
 
+#### Heartbeat
+
+An ambassador is considered inactive if no communication with the Ambassador SIG or any other NNF SIG was established within a window of 30 days.
+
+> [!NOTE]
+> Ambassadors are volunteers so NNF is thankful for each contribution. It is up to the Ambassador SIG to weigh past accomplishments of an ambassador against the current level of inactivity to decide on whether that is a problem or not. 
+
 ### From the POV of the NNF Ambassador SIG
 
 ### Who decides on Submissions?
@@ -76,8 +83,8 @@ Every quarter an ambassador is invited by the Ambassador SIG for a brief retrope
 
 An ambassador can voluntarily leave the NNF Ambassador Program by:
 
-- Notifying the Ambassador SIG
-- Not renewing ambassadorship at the end of the term
+- Notifying the Ambassador SIG.
+- Not renewing ambassadorship at the end of the term.
 
 Furthermore:
 
@@ -100,10 +107,10 @@ In the rare circumstances, such as a severe code of conduct violation in the eye
 
 This entails:
 
-- Removing the ambassador from the NeoNephos website and related materials
+- Removing the ambassador from the NeoNephos website and related materials.
   - This does not necessarily cover:
-  - Removing works created by the ambassador (e.g. blog posts)
-  - Removing the Ambassador from promotional material related to past events
-- Removing the Credly badge issued to the ambassador
-- Proper offboarding
+  - Removing works created by the ambassador (e.g. blog posts).
+  - Removing the Ambassador from promotional material related to past events.
+- Removing the Credly badge issued to the ambassador.
+- Proper offboarding.
 
