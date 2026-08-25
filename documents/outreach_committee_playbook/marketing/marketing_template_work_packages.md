@@ -99,11 +99,38 @@ This may include include support in:
 
 - Setting up marketing strategies.
 - Ideation, planning, creation and post-event analysis of NNF events.
-- 
+- Amplification of our message through targeted postings and more
 
-Posting frequency is set as appropriate in the eyes of the Social Media SIG.
+### Comic
 
-> [!Warning]
-> NNF hosted events carry a financial and reputational risk if not enough participants can be gathered. Proper pre-planning and promotion is therefore paramount.
+| Item | Details |
+|---|---|
+|Responsible| @neonephos/social-media |
+|Cost | €5000 |
+|Outputs| Varies|
+
+[Similar to the Gardener project](https://gardener.cloud/docs/getting-started/podrick-and-the-infinite-garden/), a comic can be created explaining various aspect about NNF and its projects on a high-level.
+
+This package includes:
+
+- Ideation, planning, creation and hosting (on e.g. website) of the comic material.
+
+### Mascot
+
+| Item | Details |
+|---|---|
+|Responsible| @neonephos/social-media |
+|Cost | €10000 |
+|Outputs| Varies|
+
+[Similar to CNCF's Phippy & Friends](https://www.cncf.io/phippy/), mascots may promote the NNF message symbolically in an easy to recognize format. The community may be invited to join designing the mascot.
+
+This package includes:
+
+- Ideation, planning and creation of said mascot.
+
+This package does not include:
+
+- Production of said mascot apart from samples.
 
 [^1]: Based on a sample of n=1 from the requested NNF budget for a Gardener Hackathon
