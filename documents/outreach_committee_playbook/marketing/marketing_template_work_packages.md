@@ -140,7 +140,7 @@ This package includes:
 | Requirements  | Participants |
 |Outputs| Ebook|
 
-[EBooks offered by the foundation](https://www.cncf.io/free-ebook-ci-cd-with-kubernetes/) offer technical users the ability to deep dive into NNF or its projects.. Even today, not all learning is done through AI, Videos and technical documentation.
+[Ebooks offered by the foundation](https://www.cncf.io/free-ebook-ci-cd-with-kubernetes/) offer technical users the ability to deep dive into NNF or its projects.. Even today, not all learning is done through AI, Videos and technical documentation.
 
 This package includes:
 
