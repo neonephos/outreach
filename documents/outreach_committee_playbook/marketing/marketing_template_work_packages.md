@@ -2,10 +2,10 @@
 
 The following items are predefined work package templates that are used throughout the Marketing documents. Using reusable components for standard bodies of work eases simplifies development of the Marketing Strategy.
 
->[!NOTE]
+> [!NOTE]
 > This document also serves as a helpful guide to understand what capabilities the Social Media SIG has at its disposal.
 
->[!NOTE
+> [!NOTE]
 > For an overview of work packages related to social media check [here](social_media/social_media_template_work_packages.md).
 
 ## List of Work Packages
@@ -17,10 +17,10 @@ The following items are predefined work package templates that are used througho
 
 | Item | Details |
 |---|---|
-|Responsible| @neonephos/outreach-social-media|
-|Cost | €8000 (based on one sample Gardener Hackathon) |
+|Responsible| @neonephos/tac and @neonephos/social-media (for promotion)|
+|Cost | €8000 [^1] (without staff travel costs)|
 | Requirements  | Location, Staff, Thematic Program, Participants |
-|Outputs| Extended network through Participants|
+|Outputs| Exposure, Potential Technical Ideas|
 
 A NNF hackathon is a collaborative event centered around a technical topic. Participants can number from a few to a couple hundred.
 
@@ -30,6 +30,7 @@ This package includes:
 
 - Ideation, planning, creation and post-event analysis of a NNF hackathon.
 - Promotion of the event.
+- Supply of merchandise.
 
 Posting frequency is set as appropriate in the eyes of the Social Media SIG.
 
@@ -40,10 +41,10 @@ Posting frequency is set as appropriate in the eyes of the Social Media SIG.
 
 | Item | Details |
 |---|---|
-|Responsible| @neonephos/outreach-social-media|
-|Cost | €8000 (based on one sample Gardener Hackathon) |
+|Responsible| @neonephos/tac and @neonephos/social-media (for promotion)|
+|Cost | €8000 [^1] (without staff travel costs) |
 | Requirements  | Location, Staff, Thematic Program, Participants |
-|Outputs| Extended network through Participants|
+|Outputs| Exposure, Potential Technical Ideas|
 
 A NNF hackathon is a collaborative event centered around a technical topic. Participants can number from a few to a couple hundred.
 
@@ -53,20 +54,21 @@ This package includes:
 
 - Ideation, planning, creation and post-event analysis of a NNF hackathon.
 - Promotion of the event.
+- Supply of merchandise.
 
 Posting frequency is set as appropriate in the eyes of the Social Media SIG.
 
 > [!Warning]
 > Hackathons carry a financial and reputational risk if not enough participants can be gathered. Proper pre-planning and promotion is therefore paramount.
 
-### NNF Event
+### NNF Single-Day Event
 
 | Item | Details |
 |---|---|
-|Responsible| @neonephos/outreach-social-media|
-|Cost | €20000 (based on one sample Gardener Hackathon) |
+|Responsible| @neonephos/tac and @neonephos/social-media (for promotion)|
+|Cost | >€10000 (without staff travel costs)|
 | Requirements  | Location, Staff, Thematic Program, Participants |
-|Outputs| Extended network through Participants|
+|Outputs| Exposure|
 
 A NNF event is a collaborative event centered around a technical topic. Participants can number from a few to a couple hundred.
 
@@ -76,8 +78,32 @@ This package includes:
 
 - Ideation, planning, creation and post-event analysis of a NNF hackathon.
 - Promotion of the event.
+- Supply of merchandise.
 
 Posting frequency is set as appropriate in the eyes of the Social Media SIG.
 
 > [!Warning]
-> Hackathons carry a financial and reputational risk if not enough participants can be gathered. Proper pre-planning and promotion is therefore paramount.
+> NNF hosted events carry a financial and reputational risk if not enough participants can be gathered. Proper pre-planning and promotion is therefore paramount.
+
+### Linux Foundation Marketing Package
+
+| Item | Details |
+|---|---|
+|Responsible| @neonephos/social-media |
+|Cost | >€75000 (without staff travel costs)|
+|Outputs| Varies|
+
+The Linux Foundation offers various marketing support packages.
+
+This may include include support in:
+
+- Setting up marketing strategies.
+- Ideation, planning, creation and post-event analysis of NNF events.
+- 
+
+Posting frequency is set as appropriate in the eyes of the Social Media SIG.
+
+> [!Warning]
+> NNF hosted events carry a financial and reputational risk if not enough participants can be gathered. Proper pre-planning and promotion is therefore paramount.
+
+[^1]: Based on a sample of n=1 from the requested NNF budget for a Gardener Hackathon
