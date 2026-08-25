@@ -107,7 +107,7 @@ This may include include support in:
 |---|---|
 |Responsible| @neonephos/social-media |
 |Cost | €5000 |
-|Outputs| Varies|
+|Outputs| Comic|
 
 [Similar to the Gardener project](https://gardener.cloud/docs/getting-started/podrick-and-the-infinite-garden/), a comic can be created explaining various aspect about NNF and its projects on a high-level.
 
@@ -115,22 +115,40 @@ This package includes:
 
 - Ideation, planning, creation and hosting (on e.g. website) of the comic material.
 
-### Mascot
+### Podcast
 
 | Item | Details |
 |---|---|
 |Responsible| @neonephos/social-media |
-|Cost | €10000 |
-|Outputs| Varies|
+|Cost | €5000 |
+| Requirements  | Participants |
+|Outputs| Soundfile|
 
-[Similar to CNCF's Phippy & Friends](https://www.cncf.io/phippy/), mascots may promote the NNF message symbolically in an easy to recognize format. The community may be invited to join designing the mascot.
+[Podcasts offer a great way](https://www.cncf.io/news/2023/11/16/packet-pushers-podcast-d2c219-kubeconversations-part-1-platform-engineering/) to learn about NNF or its projects through voice.
 
 This package includes:
 
-- Ideation, planning and creation of said mascot.
+- Ideation, planning and creation of a podcast.
+- Promotion of the podcast.
+
+### Ebook
+
+| Item | Details |
+|---|---|
+|Responsible| @neonephos/tac and @neonephos/social-media |
+|Cost | €20000 |
+| Requirements  | Participants |
+|Outputs| Ebook|
+
+[EBooks offered by the foundation](https://www.cncf.io/free-ebook-ci-cd-with-kubernetes/) offer technical users the ability to deep dive into NNF or its projects.. Even today, not all learning is done through AI, Videos and technical documentation.
+
+This package includes:
+
+- Ideation, planning and creation of an ebook.
+- Distribution of the ebook.
 
 This package does not include:
 
-- Production of said mascot apart from samples.
+- Production of the ebook in physical form.
 
 [^1]: Based on a sample of n=1 from the requested NNF budget for a Gardener Hackathon
