@@ -15,7 +15,7 @@
 *Header and Footer*
 
 *The header and footer will be provided as separate files. Please integrate them into the newsletter design where technically possible.*
-*Please add an interactive LinkedIn Icon to the Icon List in the bottom*
+*Please add an interactive LinkedIn Icon to the Icon List in the bottom.*
 
 *Ensure that:*
 
