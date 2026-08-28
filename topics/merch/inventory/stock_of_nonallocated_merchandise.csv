@@ -1,4 +1,4 @@
-Identifier,Name,Variant,Available Quantity
+Identifier,Name,Variant,Available Quantity,Location
 XKDPRM,T-Shirt,S,0
 QNVTLA,T-Shirt,M,0
 BJWFRE,T-Shirt,L,0
@@ -14,10 +14,12 @@ WRTJKN,Sweater,M,0
 PKDYXB,Sweater,L,0
 AZMHQT,Sweater,XL,0
 YFNWGL,Sweater,XXL,0
-BXRVKP,Socks,,0
-DQYWMT,Caps / Beanies,,0
-JTKNRP,Flyer,NNF General,0
-KZQMSI,Sticker,NNF General,0
+BXRVKP,Socks,one size,0
+DQYWMT,Caps,one size,0
+JTKNRP,Flyer,NNF General/Community,50
+JTPHBN,Flyer,NNF Stakeholder,400
+KZQMSI,Sticker,NNF General,2450
+KHFZVB,Sticker,NNF Holographic,2450
 MZCXVH,Patches,NNF Foundation,0
 SLQWDF,Patches,Ambassador,0
 TRPYKN,Swagbag,,0
