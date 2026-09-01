@@ -23,7 +23,7 @@ body:
     id: authorization
     attributes:
       label: Merch Relation
-      description: "Has the Outreach Committee already budgeted the merch for this event? Hi If event participation has been considered by the Outreach Committee already, then the answer is usually in the affirmative." 
+      description: "Has the Outreach Committee already budgeted the merch for this event? Hint: If event participation has been considered by the Outreach Committee already, then the answer is usually in the affirmative." 
       options:
         - Yes.
         - No.
