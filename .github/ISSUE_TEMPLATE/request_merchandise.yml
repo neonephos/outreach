@@ -19,6 +19,15 @@ body:
       description: Why do you need the merchandise (e.g. for a specific event).
     validations:
       required: true
+  - type: dropdown
+    id: authorization
+    attributes:
+      label: Merch Relation
+      description: Has the Outreach Committee already budgeted the merch for this event? Hint: If event participation has been considered by the Outreach Committee already, then the answer is usually in the affirmative. 
+      options:
+        - Yes.
+        - No.
+        - Unsure.
   - type: textarea
     id: requestor-name
     attributes:
