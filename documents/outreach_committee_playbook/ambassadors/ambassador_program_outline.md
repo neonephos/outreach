@@ -54,6 +54,7 @@ The Ambassador Evaluation Committee votes on applications.
 
 - The members of the Evaluation Committee voted in by the Ambassador SIG.
   - The term of an Evaluation Committee member starts January 1st and ends January 1st the following year.
+  - Members of the Evaluation Committee may leave the committee any time by notifying the Ambassador SIG.
 - Members of the Evaluation Committee must be members of the Ambassador SIG
 
 ### Process
