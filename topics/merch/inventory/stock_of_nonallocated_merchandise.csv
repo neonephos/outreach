@@ -1,24 +1,26 @@
-Identifier,Name,Variant,Available Quantity
-XKDPRM,T-Shirt,S,0
-QNVTLA,T-Shirt,M,0
-BJWFRE,T-Shirt,L,0
-HZCKTP,T-Shirt,XL,0
-MYDGQS,T-Shirt,XXL,0
-RPLXWN,Longsleeve,S,0
-FVKTQJ,Longsleeve,M,0
-NDSYHC,Longsleeve,L,0
-TJWMRB,Longsleeve,XL,0
-GQPXDV,Longsleeve,XXL,0
-LCVZMF,Sweater,S,0
-WRTJKN,Sweater,M,0
-PKDYXB,Sweater,L,0
-AZMHQT,Sweater,XL,0
-YFNWGL,Sweater,XXL,0
-BXRVKP,Socks,,25
-DQYWMT,Caps,,30
-JTKNRP,Flyer,NNF General,200
-KZQMSI,Sticker,NNF General,500
-MZCXVH,Patches,NNF Foundation,0
-SLQWDF,Patches,Ambassador,25
-TRPYKN,Swagbag,,40
-KVXJMH,USB Tool,,5
+Identifier,Name,Variant,Available Quantity,Location
+XKDPRM,T-Shirt,S,0,-
+QNVTLA,T-Shirt,M,0,-
+BJWFRE,T-Shirt,L,0,-
+HZCKTP,T-Shirt,XL,0,-
+MYDGQS,T-Shirt,XXL,0,-
+RPLXWN,Longsleeve,S,0,-
+FVKTQJ,Longsleeve,M,0,-
+NDSYHC,Longsleeve,L,0,-
+TJWMRB,Longsleeve,XL,0,-
+GQPXDV,Longsleeve,XXL,0,-
+LCVZMF,Sweater,S,0,-
+WRTJKN,Sweater,M,0,-
+PKDYXB,Sweater,L,0,-
+AZMHQT,Sweater,XL,0,-
+YFNWGL,Sweater,XXL,0,-
+BXRVKP,Socks,One Size,0,-
+DQYWMT,Caps,One Size,0,-
+JTPHBN,Flyer,NNF General/Community,75,Walldorf
+OTPHBQ,Flyer,NNF Stakeholder,375,Walldorf
+KZQMSI,Sticker,NNF General,2425,Walldorf
+KHFZVB,Sticker,NNF Holographic,2425,Walldorf
+MZCXVH,Patches,NNF Foundation,0,-
+SLQWDF,Patches,Ambassador,0,-
+TRPYKN,Swagbag,One Size,0,-
+KVXJMH,USB Tool,One Size,0,-
