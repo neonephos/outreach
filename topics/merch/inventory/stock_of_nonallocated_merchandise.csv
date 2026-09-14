@@ -1,26 +1,27 @@
 Identifier,Name,Variant,Available Quantity,Location
-XKDPRM,T-Shirt,S,0,-
-QNVTLA,T-Shirt,M,0,-
-BJWFRE,T-Shirt,L,0,-
-HZCKTP,T-Shirt,XL,0,-
-MYDGQS,T-Shirt,XXL,0,-
-RPLXWN,Longsleeve,S,0,-
-FVKTQJ,Longsleeve,M,0,-
-NDSYHC,Longsleeve,L,0,-
-TJWMRB,Longsleeve,XL,0,-
-GQPXDV,Longsleeve,XXL,0,-
-LCVZMF,Sweater,S,0,-
-WRTJKN,Sweater,M,0,-
-PKDYXB,Sweater,L,0,-
-AZMHQT,Sweater,XL,0,-
-YFNWGL,Sweater,XXL,0,-
-BXRVKP,Socks,One Size,0,-
-DQYWMT,Caps,One Size,0,-
+XKDPRM,T-Shirt Unisex,S,26,Walldorf
+QNVTLA,T-Shirt Unisex,M,78,Walldorf
+BJWFRE,T-Shirt Unisex,L,91,Walldorf
+HZCKTP,T-Shirt Unisex,XL,65,Walldorf
+XKDPRM,T-Shirt Female,S,7,Walldorf
+QNVTLA,T-Shirt Female,M,11,Walldorf
+BJWFRE,T-Shirt Female,L,4,Walldorf
+HZCKTP,T-Shirt Female,XL,0,-
+RPLXWN,Longsleeve,S,5,Walldorf
+FVKTQJ,Longsleeve,M,15,Walldorf
+NDSYHC,Longsleeve,L,18,Walldorf
+TJWMRB,Longsleeve,XL,12,Walldorf
+LCVZMF,Sweater,S,5,Walldorf
+WRTJKN,Sweater,M,12,Walldorf
+PKDYXB,Sweater,L,15,Walldorf
+AZMHQT,Sweater,XL,10,Walldorf
+BXRVKP,Socks,One Size,80,Walldorf
+DQYWMT,Caps,One Size,50,Walldorf
 JTPHBN,Flyer,NNF General/Community,75,-
 OTPHBQ,Flyer,NNF Stakeholder,375,Walldorf
 KZQMSI,Sticker,NNF General,2425,Walldorf
 KHFZVB,Sticker,NNF Holographic,2425,Walldorf
 MZCXVH,Patches,NNF Foundation,0,-
 SLQWDF,Patches,Ambassador,0,-
-TRPYKN,Swagbag,One Size,0,-
-KVXJMH,USB Tool,One Size,0,-
+TRPYKN,Swagbag,One Size,80,Walldorf
+
