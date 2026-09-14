@@ -4,4 +4,4 @@ Here you find images of our [stock](https://github.com/neonephos/outreach/blob/m
 
 ## Naming Convention
 
-<id>_<name>.<file_ending>
+\<id\>_\<name\>.<file_ending>
