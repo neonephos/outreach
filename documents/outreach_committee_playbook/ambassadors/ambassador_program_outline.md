@@ -50,12 +50,17 @@ An ambassador is considered inactive if no communication with the Ambassador SIG
 
 ### Who decides on Submissions?
 
-The Ambassador Evaluation Committee votes on applications.
+The Ambassador Evaluation Committee votes on ambassador applications.
 
-- The members of the Evaluation Committee voted in by the Ambassador SIG.
+### Evaluation Committee
+
+The Evaluation Committee manages ambassador intake, including communicating with prospects, voting on applications, assigning buddies to new ambassadors and creating the individual 90-day plan together with the new ambassadors.
+
+- Members of the Evaluation Committee must be members of the Ambassador SIG
+- Entrance and Exit:
   - The term of an Evaluation Committee member starts January 1st and ends January 1st the following year.
   - Members of the Evaluation Committee may leave the committee any time by notifying the Ambassador SIG.
-- Members of the Evaluation Committee must be members of the Ambassador SIG
+- In case of one or an even number of Evaluation Committee members, in case of decision deadlock, the Ambassador SIG may vote on the matter to break the tie.
 
 ### Process
 
@@ -88,7 +93,6 @@ An ambassador can voluntarily leave the NNF Ambassador Program by:
 - Not renewing ambassadorship at the end of the term.
 
 Furthermore:
-
 
 - The Ambassador SIG conducts an exit interview with the ambassador.
 - The Social Media SIG may liaise with the ambassador to create a good-bye blog post, reflecting on the ambassador's achievement and announcing the departure.
