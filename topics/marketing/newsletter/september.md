@@ -30,7 +30,7 @@ The Project Lifecycle document formalizes the roles, responsibilities and resour
 - [View the complete document here]()
 - [View an oveview here](https://neonephos.org/project_lifecycle)
 
-It is hard to overstate what a massive, cross company effort the development of the NNF Project Lifecycle has been and the foundation owes a deep depth of gratitude to everyone for their contributions and patience. This also frees up capacity to process our current project proposals, such as Open Crypto Broker, [Thalamus](https://github.com/neonephos/projects/issues/3) and [ES³](https://github.com/neonephos/projects/issues/6) and, who knows, potentially even *yours*. 
+It is hard to overstate what a massive, cross company effort the development of the NNF Project Lifecycle has been and the foundation owes a deep depth of gratitude to everyone for their contributions and patience. This also frees up capacity to process our current project proposals, such as Open Crypto Broker, [Thalamus](https://github.com/neonephos/projects/issues/3). [ES³](https://github.com/neonephos/projects/issues/6) and, who knows, potentially even *yours*. 
 
 
 
