@@ -23,7 +23,18 @@
 2. *The footer is positioned consistently at the bottom.*
 3. *The original proportions and visual appearance*
 
-# Insert Topic here
+## Project Lifecycle finalized
+
+The Project Lifecycle document formalizes the roles, responsibilities and resource allocations of NNF projects and is therefore of fundamental importance to the proper functioning of the foundation. The releasee of the initial version of the NNF Project Lifecycle document at the start of the year did not address core questions, such as the exact specification of the so called lifecycle stages. This has now been rectified, by the first release of a complete document. Even if you are familiar with lifecycle documents from other foundations, it is worth to take a look into what makes ours different. For that, we have assembled multiple informational sources:
+
+- [View the complete document here]()
+- [View an oveview here](https://neonephos.org/project_lifecycle)
+
+It is hard to overstate what a massive, cross company effort the development of the NNF Project Lifecycle has been and the foundation owes a deep depth of gratitude to everyone for their contributions and patience. This also frees up capacity to process our current project proposals, such as Open Crypto Broker, [Thalamus](https://github.com/neonephos/projects/issues/3) and [ES³](https://github.com/neonephos/projects/issues/6) and, who knows, potentially even *yours*. 
+
+
+
+## Insert Topic here
 
 
 That's it for September! Don't forget to follow us on [LinkedIn](https://www.linkedin.com/company/neonephos-foundation), converse with us on [Zulip](https://linuxfoundation.zulipchat.com/#narrow/channel/525732-neonephos-discussion/topic/channel.20events/with/558483910) or meet us in person at one of the many [events](https://neonephos.org/events) we attend!
