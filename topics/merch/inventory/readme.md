@@ -15,7 +15,7 @@ We have the following inventory classes available:
 |Swagbag|
 
 > [!NOTE]
-> Browse through our currently available stock [here](stock_of_nonallocated_merchandise.csv), as well as in [this table]([https://example.com](https://docs.google.com/spreadsheets/d/1dZIVu6sWe-mb2AIK2MCkyhXzjX95CCZBxAb-YtnlECM/edit?gid=0#gid=0))
+> Browse through our currently available stock [here](stock_of_nonallocated_merchandise.csv), as well as in [this table]([https://example.com](https://docs.google.com/spreadsheets/d/1dZIVu6sWe-mb2AIK2MCkyhXzjX95CCZBxAb-YtnlECM/edit?gid=0#gid=0)
 
 ## Boxes
 
