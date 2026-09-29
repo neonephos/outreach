@@ -1,27 +1,27 @@
 Identifier,Name,Variant,Available Quantity,Location
-XKDPRM,T-Shirt Unisex,S,26,Walldorf
-QNVTLA,T-Shirt Unisex,M,77,Walldorf
-BJWFRE,T-Shirt Unisex,L,89,Walldorf
+XKDPRM,T-Shirt Unisex,S,24,Walldorf
+QNVTLA,T-Shirt Unisex,M,75,Walldorf
+BJWFRE,T-Shirt Unisex,L,87,Walldorf
 HZCKTP,T-Shirt Unisex,XL,63,Walldorf
-XKDPRM,T-Shirt Female,S,7,Walldorf
-QNVTLA,T-Shirt Female,M,10,Walldorf
-BJWFRE,T-Shirt Female,L,4,Walldorf
+XKDPRM,T-Shirt Female,S,6,Walldorf
+QNVTLA,T-Shirt Female,M,8,Walldorf
+BJWFRE,T-Shirt Female,L,3,Walldorf
 HZCKTP,T-Shirt Female,XL,0,-
 RPLXWN,Longsleeve,S,5,Walldorf
 FVKTQJ,Longsleeve,M,15,Walldorf
 NDSYHC,Longsleeve,L,18,Walldorf
 TJWMRB,Longsleeve,XL,12,Walldorf
-LCVZMF,Sweater,S,5,Walldorf
+LCVZMF,Sweater,S,4,Walldorf
 WRTJKN,Sweater,M,12,Walldorf
 PKDYXB,Sweater,L,14,Walldorf
 AZMHQT,Sweater,XL,9,Walldorf
-BXRVKP,Socks,One Size,80,Walldorf
-DQYWMT,Caps,One Size,49,Walldorf
+BXRVKP,Socks,One Size,70,Walldorf
+DQYWMT,Caps,One Size,44,Walldorf
 JTPHBN,Flyer,NNF General/Community,75,Walldorf
 OTPHBQ,Flyer,NNF Stakeholder,375,Walldorf
-KZQMSI,Sticker,NNF General,2375,Walldorf
-KHFZVB,Sticker,NNF Holographic,2375,Walldorf
-MZCXVH,Patches,NNF Foundation,94, Frankfurt
-SLQWDF,Patches,Ambassador,25,Frankfurt
-TRPYKN,Swagbag,One Size,76,Walldorf
+KZQMSI,Sticker,NNF General,2275,Walldorf
+KHFZVB,Sticker,NNF Holographic,2275,Walldorf
+MZCXVH,Patches,NNF Foundation,89, Frankfurt
+SLQWDF,Patches,Ambassador,20,Frankfurt
+TRPYKN,Swagbag,One Size,66,Walldorf
 <<< IF REQUEST #70 APPROVED, INSERT UPDATED MERCH FIGURES HERE (ONLY IF GENERAL MERCH IS AFFECTED. OTHERWISE DO NOT MERGE) >>>
