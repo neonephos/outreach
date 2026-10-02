@@ -23,6 +23,12 @@
 2. *The footer is positioned consistently at the bottom.*
 3. *The original proportions and visual appearance*
 
+## NeoNephos Foundation at KCD Sofia
+
+[KCD Sofia was a blast!](https://neonephos.org/events/2026_09_17_KCD_Sofia) And we were there. *Thank you* to the organizers, who successfully managed to set up this packed event and to everybody who visited our booth and had a chat, it was awesome! See you until next year?!
+
+<img width="800" height="845" alt="image" src="https://github.com/user-attachments/assets/4806194b-7165-44c9-a8c6-08318ac63319" />
+
 ## Recordings of Meetings of the Technical Advisory Council now available
 
 To increase transparency about what is happening within our committees, recordings of our monthly Technical Advisory Meetings are [now publicly available](https://www.youtube.com/channel/UCqTJlPfPRAynwpcNI0O7xkw). These one hours sessions between representatives of our members and projects are important to shape the technical vision of NNF. By making recordings of these meetings public, you now get an even more deeper insight about what is actually happening in our foundation.
@@ -30,16 +36,6 @@ To increase transparency about what is happening within our committees, recordin
 ## Recording of "Butter bei die Fische Meeting" now available
 
 Born out of an idea from the Container Days in Hamburg, the recording of the first iteration of the [Butter bei die Fische Meeting](https://neonephos.org/events/2026_09_23_Butter_bei_die_Fische_Meeting) series [is available now](https://www.youtube.com/channel/UCqTJlPfPRAynwpcNI0O7xkw). This open-to-anybody-event features important discussions between NNF representatives and the community. See more details [here](https://neonephos.org/events/2026_09_23_Butter_bei_die_Fische_Meeting).
-
-## Project Lifecycle finalized
-
-The Project Lifecycle document formalizes the roles, responsibilities and resource allocations of NNF projects and is therefore of fundamental importance to the proper functioning of the foundation. The releasee of the initial version of the NNF Project Lifecycle document at the start of the year did not address core questions, such as the exact specification of the so called lifecycle stages. This has now been rectified, by the first release of a complete document. Even if you are familiar with lifecycle documents from other foundations, it is worth to take a look into what makes ours different. For that, we have assembled multiple informational sources:
-
-- [View the complete document here]()
-- [View an oveview here](https://neonephos.org/project_lifecycle)
-
-It is hard to overstate what a massive, cross company effort the development of the NNF Project Lifecycle has been and the foundation owes a deep depth of gratitude to everyone for their contributions and patience. This also frees up capacity to process our current project proposals, such as Open Crypto Broker, [Thalamus](https://github.com/neonephos/projects/issues/3). [ES³](https://github.com/neonephos/projects/issues/6) and, who knows, potentially even *yours*. 
-
 
 
 ## Insert Topic here
