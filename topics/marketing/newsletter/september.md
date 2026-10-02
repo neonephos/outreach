@@ -23,6 +23,14 @@
 2. *The footer is positioned consistently at the bottom.*
 3. *The original proportions and visual appearance*
 
+## Recordings of Meetings of the Technical Advisory Council now available
+
+To increase transparency about what is happening within our committees, recordings of our monthly Technical Advisory Meetings are [now publicly available](https://www.youtube.com/channel/UCqTJlPfPRAynwpcNI0O7xkw). These one hours sessions between representatives of our members and projects are important to shape the technical vision of NNF. By making recordings of these meetings public, you now get an even more deeper insight about what is actually happening in our foundation.
+
+## Recording of "Butter bei die Fische Meeting" now available
+
+Born out of an idea from the Container Days in Hamburg, the recording of the first iteration of the [Butter bei die Fische Meeting](https://neonephos.org/events/2026_09_23_Butter_bei_die_Fische_Meeting) series [is available now](https://www.youtube.com/channel/UCqTJlPfPRAynwpcNI0O7xkw). This open-to-anybody-event features important discussions between NNF representatives and the community. See more details [here](https://neonephos.org/events/2026_09_23_Butter_bei_die_Fische_Meeting).
+
 ## Project Lifecycle finalized
 
 The Project Lifecycle document formalizes the roles, responsibilities and resource allocations of NNF projects and is therefore of fundamental importance to the proper functioning of the foundation. The releasee of the initial version of the NNF Project Lifecycle document at the start of the year did not address core questions, such as the exact specification of the so called lifecycle stages. This has now been rectified, by the first release of a complete document. Even if you are familiar with lifecycle documents from other foundations, it is worth to take a look into what makes ours different. For that, we have assembled multiple informational sources:
