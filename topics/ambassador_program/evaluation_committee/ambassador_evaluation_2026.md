@@ -15,7 +15,7 @@ The submission for NNF Ambassador applications in 2026 is closed. The goal is to
 
 ## Desired Attributes
 
-This lists the attributes an ideal ambassador should have according to the respective SIGs.
+The NNF SIGs always welcome help. This section lists the attributes an ideal ambassador should have according to the respective SIGs.
 
 ### Marketing & Social Media SIG
 
