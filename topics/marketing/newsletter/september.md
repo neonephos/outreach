@@ -25,7 +25,7 @@
 
 ## NeoNephos Foundation at KCD Sofia
 
-[KCD Sofia was a blast!](https://neonephos.org/events/2026_09_17_KCD_Sofia) And we were there. *Thank you* to the organizers, who successfully managed to set up this packed event and to everybody who visited our booth and had a chat, it was awesome! We hope to have introduced the relevance of cloud native sovereignty to an even wider audience. See you until next year?!
+[KCD Sofia was a blast!](https://neonephos.org/events/2026_09_17_KCD_Sofia) And we were there. *Thank you* to the organizers, who successfully managed to set up this packed event and to everybody who visited our booth and had a chat, it was awesome! It always feel great to have introduced the relevance of cloud native sovereignty to an eager audience. See you until next year?!
 
 <img width="800" height="845" alt="image" src="https://github.com/user-attachments/assets/4806194b-7165-44c9-a8c6-08318ac63319" />
 
