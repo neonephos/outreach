@@ -50,5 +50,10 @@ How clearly has Europe acknowledged the imperative of digital sovereignty? As it
 
 Born out of an idea from the Container Days in Hamburg, the recording of the first iteration of the [Butter bei die Fische Meeting](https://neonephos.org/events/2026_09_23_Butter_bei_die_Fische_Meeting) series [is available now](https://www.youtube.com/channel/UCqTJlPfPRAynwpcNI0O7xkw). This open-to-anybody-event features important discussions between NNF representatives and the community. See more details [here](https://neonephos.org/events/2026_09_23_Butter_bei_die_Fische_Meeting).
 
+## Grab Merch
+
+Need some NeoNephos merchandise for your event? Like T-Shirts or caps? Feel free to a [proposal](https://github.com/neonephos/outreach/issues)! See images of some of our merchandise [here](https://github.com/neonephos/outreach/tree/main/topics/merch/images). Go grab some merch before it's too late!
+
+<img width="4032" height="1816" alt="image" src="https://github.com/user-attachments/assets/0bc31c82-6903-4160-99bb-f8eee46c6ea0" />
 
 That's it for September and the first half of October! Don't forget to follow us on [LinkedIn](https://www.linkedin.com/company/neonephos-foundation), converse with us on [Zulip](https://linuxfoundation.zulipchat.com/#narrow/channel/525732-neonephos-discussion/topic/channel.20events/with/558483910) or meet us in person at one of the many [events](https://neonephos.org/events) we attend!
