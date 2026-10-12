@@ -49,5 +49,5 @@ The [KPI SIG](https://github.com/neonephos/outreach/tree/main/topics/kpi) would 
 As the person currently responsible for managing merchandise wants to vacate that role, there is the **urgent requirement** for an ambassador with at least one of the following attributes:
 
 - Ability to design merch like T-Shirts
-- Handling of the ordering and shipping of the merch to the events
+- Ordering and managing shipping of the merch to the events
 - Management of the merch in storage at Walldorf
