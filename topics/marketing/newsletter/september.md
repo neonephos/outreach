@@ -31,12 +31,13 @@ Welcome back! This time our newsletter is jam-packed with news, so without furth
 
 [KCD Sofia was a blast!](https://neonephos.org/events/2026_09_17_KCD_Sofia) And we were there. *Thank you* to the organizers, who successfully managed to set up this packed event and to everybody who visited our booth and had a chat, it was awesome! It always feels great to introduce the relevance of cloud native sovereignty to an eager audience. See you until next year?!
 
-<img width="800" height="845" alt="image" src="https://github.com/user-attachments/assets/4806194b-7165-44c9-a8c6-08318ac63319" />
-
+<img width="901" height="676" alt="image" src="https://github.com/user-attachments/assets/191bfeff-302c-4202-93cb-7373bcb1c2e8" />
 
 ## NeoNephos at the Open Source Summit in Prague
 
 The NeoNephos Foundation was present at the [Open Source Summit in Prague](https://neonephos.org/events/2026_10_07_Open_Source_Summit_Europe). Connecting with our peers always gets our spirits up and this time was no different! The enthusiasm was especially apparent at our NeoNephos booth, where we met many new and old familiar faces. Thank you, Prague!
+
+<img width="993" height="644" alt="image" src="https://github.com/user-attachments/assets/721bb841-3604-4d5c-b9a7-7e95e970ec4b" />
 
 ## Recordings of Meetings of the Technical Advisory Council now available
 
@@ -52,7 +53,7 @@ Born out of an idea from the Container Days in Hamburg, the recording of the fir
 
 ## Grab Merch
 
-Need some NeoNephos merchandise for your event? Like T-Shirts or caps? Feel free to a [proposal](https://github.com/neonephos/outreach/issues)! See images of some of our merchandise [here](https://github.com/neonephos/outreach/tree/main/topics/merch/images). Go grab some merch before it's too late!
+Need some NeoNephos merchandise for your event? Like T-Shirts or caps? Feel free to do a [proposal](https://github.com/neonephos/outreach/issues)! See images of some of our merchandise [here](https://github.com/neonephos/outreach/tree/main/topics/merch/images). Go grab some merch before it's too late!
 
 <img width="4032" height="1816" alt="image" src="https://github.com/user-attachments/assets/0bc31c82-6903-4160-99bb-f8eee46c6ea0" />
 
