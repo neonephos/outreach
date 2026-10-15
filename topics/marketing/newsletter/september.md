@@ -60,6 +60,6 @@ Need some NeoNephos merchandise for your event? Like T-Shirts or caps? Feel free
 ## Before it's too late: Your Ideas for a NeoNephos Mascot
 
 The NeoNephos Foundation is looking for a mascot and we'd love your input! Shall it be cute, cuddly and wholesome? Or stark, weathered and abrasive? We are counting on your input! Fill out the questionnaire [here](https://docs.google.com/forms/d/e/1FAIpQLSc73ZwkAIjgOTY1pGtOqdfW_Qfn-0RRbUph9KOKiaMAq_JMRQ/viewform)!
-Pro Tip: The entire mascot selection process is descriped [here](https://github.com/neonephos/outreach/issues/80).
+Pro Tip: The entire mascot selection process is described [here](https://github.com/neonephos/outreach/issues/80).
 
 That's it for September and the first half of October! Don't forget to follow us on [LinkedIn](https://www.linkedin.com/company/neonephos-foundation), converse with us on [Zulip](https://linuxfoundation.zulipchat.com/#narrow/channel/525732-neonephos-discussion/topic/channel.20events/with/558483910) or meet us in person at one of the many [events](https://neonephos.org/events) we attend!
