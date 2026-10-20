@@ -53,7 +53,7 @@ As decided in [#50](https://github.com/orgs/neonephos/projects/20/views/1?pane=i
   - The SIG may introduce additional rules to change this.
 - The chairperson may call for new elections anytime.
 
-> ![NOTE]
+> [!NOTE]
 > The last rule allows for increased flexibility in terms of SIG membership.
 
 ## Visibility
