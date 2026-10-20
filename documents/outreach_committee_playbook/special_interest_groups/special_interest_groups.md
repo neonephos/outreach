@@ -13,19 +13,28 @@ The current SIGs of the Outreach Committee are:
 ## Creation of a SIG
 
 - SIGs are created in the Outreach Committee through simple majority vote.
+- Every SIG needs a scope which [must be publicly listed](https://github.com/neonephos/outreach/tree/main/topics/ambassador_program#what-do-we-do) in the main ```README.md```
 
 ## Membership
 
 As decided in [#50](https://github.com/orgs/neonephos/projects/20/views/1?pane=issue&itemId=232545784&issue=neonephos%7Coutreach%7C50):
 
+### Scope
 - Membership to SIGs is open to any member of the Outreach Committee.
 - Membership to SIGs is open to any invitee of the SIG.
 - The members of a SIG are the ones [listed in GitHub teams](https://github.com/orgs/neonephos/teams/outreach-events).
+
+### Joining and Exit
+- Membership is obtained through:
+  - For existing SIGs:
+    - Majority vote in the SIG.
+  - For newly created SIGs:
+    - The group that advocated for the creation of the SIG in the Outreach Committee.
 - Membership is lost through:
   - Two-thirds vote in the SIG or,
   - Two-thirds vote in the Outreach Committee.
 
-The SIGs are free to govern themselves with respect to setting the scope of whom-to-invite. Any such requirements [must be listed](https://github.com/neonephos/outreach/tree/main/topics/ambassador_program#how-to-get-involved-in-this-special-interest-group) in the main ```README.md```.
+The SIGs are free to govern themselves with respect to setting the scope of whom-to-invite and the respective voting threshold. Any such additional requirements [must be listed](https://github.com/neonephos/outreach/tree/main/topics/ambassador_program#how-to-get-involved-in-this-special-interest-group) in the main ```README.md```.
 
 ## Voting
 
@@ -44,7 +53,7 @@ As decided in [#50](https://github.com/orgs/neonephos/projects/20/views/1?pane=i
   - The SIG may introduce additional rules to change this.
 - The chairperson may call for new elections anytime.
 
-> ![NOTE]
+> [!NOTE]
 > The last rule allows for increased flexibility in terms of SIG membership.
 
 ## Visibility
