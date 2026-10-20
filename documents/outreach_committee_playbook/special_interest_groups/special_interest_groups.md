@@ -25,7 +25,7 @@ As decided in [#50](https://github.com/orgs/neonephos/projects/20/views/1?pane=i
   - Two-thirds vote in the SIG or,
   - Two-thirds vote in the Outreach Committee.
 
-The SIGs are free to govern themselves with respect to setting the scope of whom-to-invite. Any such requirements [must be listed](https://github.com/neonephos/outreach/tree/main/topics/ambassador_program#how-to-get-involved-in-this-special-interest-group) in the main ```README.md```.
+The SIGs are free to govern themselves with respect to setting the scope of whom-to-invite. Any such additional requirements [must be listed](https://github.com/neonephos/outreach/tree/main/topics/ambassador_program#how-to-get-involved-in-this-special-interest-group) in the main ```README.md```.
 
 ## Voting
 
