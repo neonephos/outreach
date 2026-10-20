@@ -13,6 +13,7 @@ The current SIGs of the Outreach Committee are:
 ## Creation of a SIG
 
 - SIGs are created in the Outreach Committee through simple majority vote.
+- Every SIG needs a scope which [must be publicly listed](https://github.com/neonephos/outreach/tree/main/topics/ambassador_program#what-do-we-do) in the main ```README.md```
 
 ## Membership
 
