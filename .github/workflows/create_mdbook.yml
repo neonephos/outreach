@@ -5,15 +5,13 @@ on:
     branches:
       - main
     paths:
-      - 'outreach/documents/outreach_committee_playbook/**'
+      - 'documents/outreach_committee_playbook/**'
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping intermediate runs
 concurrency:
   group: "pages"
   cancel-in-progress: true
@@ -32,13 +30,13 @@ jobs:
 
       - name: Build mdBook
         run: |
-          cd outreach/documents/outreach_committee_playbook
+          cd documents/outreach_committee_playbook
           mdbook build
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: outreach/documents/outreach_committee_playbook/book
+          path: documents/outreach_committee_playbook/book
 
   deploy:
     environment:
