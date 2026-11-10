@@ -9,3 +9,5 @@ technical communities to maximize the outreach and visibility of the Technical
 Project throughout the ecosystem.
 
 In practical terms, the
+
+Projects are still responsible for their own Outreach efforts. But they may to the committee for foundation-wide visibility.
