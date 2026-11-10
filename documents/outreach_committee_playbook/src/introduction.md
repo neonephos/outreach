@@ -4,7 +4,7 @@
 
 This includes but is not limited to:
 
-- What this committee intends to do.
+- What this committee intends to do
 - Standard Operating Procedures (SOPs)
 - How our SIGs work
 - Tips and tricks
