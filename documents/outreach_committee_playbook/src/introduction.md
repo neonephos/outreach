@@ -8,7 +8,7 @@ This includes but is not limited to:
 - Standard Operating Procedures (SOPs)
 - How our SIGs work
 - Tips and tricks
-- Link index which shows simplifies to find stuff
+- Index of relevant links for further reading
 
 You do not have to read this book back-to-back. Treat it like a documentation to a code project. 
 
@@ -16,6 +16,10 @@ You do not have to read this book back-to-back. Treat it like a documentation to
 > You can input this book to an LLM as data source if you'd like to query for specific questions.
 
 > [!Note]
-> Great take is taken to make sure this book is kept up to date continuously. To simplify this, it serves as an authorative source for many topics.
+> Great care is taken to make sure this book is kept up to date continuously. To simplify this, it serves as an authorative source for many topics.
 
-A great thanks goes out to all contributors of this book. Together, we make the NeoNephos Foundation stronger.
+> [!Warning]
+> This book is not an overview of the NeoNephos Foundation itself. All topics are with strict relation to the Outreach Committee.
+
+
+A great *thank you* goes out to all contributors of this book. Together, we make the NeoNephos Foundation stronger.
