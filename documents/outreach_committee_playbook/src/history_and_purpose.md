@@ -1,3 +1,11 @@
 # History and Purpose
 
-The Outreach Committee was founded in April 2026.
+The Outreach Committee was established in April 2026, almost on the day of the one year anniversary of the NeoNephos Foundation. It is defined in [4a.ii of the NeoNephos Charter](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.11739e1f4ca03192f4e918409f725053.1748961872693.1755169332458.1755604645613.29&__hssc=81619592.2.1755604645613&__hsfp=1879682750), which conveniently defines its scope as:
+
+> The Outreach Committee will be responsible for the design, development, and 
+execution of community outreach efforts on behalf of the Governing Board. The 
+Outreach Committee is expected to coordinate closely with the Governing Board and 
+technical communities to maximize the outreach and visibility of the Technical 
+Project throughout the ecosystem.
+
+In practical terms, the
