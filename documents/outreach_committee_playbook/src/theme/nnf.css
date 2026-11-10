@@ -1,0 +1,59 @@
+.light {
+    --sidebar-bg: #E4EEFF;
+    --bg: #F8FAFE;
+}
+
+blockquote {
+    background-color: #D3DFFC;
+    border-left: 4px solid #3b82f6; /* Optional: adds a matching accent border on the left */
+    padding: 12px 20px;
+    margin: 20px 0;
+    border-radius: 0 4px 4px 0; /* Softly rounds the right corners */
+}
+
+/* Ensure text inside quotes inherits proper contrast and spacing */
+blockquote p {
+    margin: 0;
+}
+
+/* Table header background */
+table th {
+    background-color: #D3DFFC !important;
+}
+
+/* Alternating table row bands */
+table tr:nth-child(odd) {
+    background-color: rgb(163, 168, 179)F;
+}
+
+table tr:nth-child(even) {
+    background-color: #F8FAFE;
+}
+
+/* Style for the header logo wrapper */
+.header-logo-link {
+    display: inline-flex;
+    align-items: center;
+    margin-left: 12px;
+    height: 100%;
+    text-decoration: none;
+}
+
+/* Adjust size and responsiveness */
+.header-logo {
+    height: 28px;
+    width: auto;
+    object-fit: contain;
+    transition: opacity 0.2s ease;
+}
+
+.header-logo:hover {
+    opacity: 0.8;
+}
+
+/* Optional: Adjust logo height for smaller screens */
+@media (max-width: 600px) {
+    .header-logo {
+        height: 22px;
+    }
+}

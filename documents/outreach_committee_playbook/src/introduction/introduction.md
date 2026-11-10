@@ -10,7 +10,7 @@ This includes but is not limited to:
 - Tips and tricks
 - Index of relevant links for further reading
 
-You do not have to read this book back-to-back. Treat it like a documentation to a code project. 
+You do not have to read this book back-to-back. Treat it like the documentation of a code project. 
 
 > [!Tip]
 > You can input this book to an LLM as data source if you'd like to query for specific questions.

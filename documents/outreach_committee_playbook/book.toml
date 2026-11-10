@@ -1,2 +1,6 @@
 [book]
 title = "The Outreach Committee Playbook"
+
+[output.html]
+additional-css = ["src/theme/nnf.css"]
+additional-js = ["src/theme/logo.js"]
