@@ -55,7 +55,7 @@ body:
     attributes:
       label: Shipping Location
       description: Where should the merchandise be sent to? The location for self
-        pickup is in Walldorf, Germany.
+        pickup is in Walldorf, Germany. If shipped outside of Europe the value of the order must exceed €200 excl. shipping.
       options:
         - Within the European Union or United Kingdom.
         - North America.
