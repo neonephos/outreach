@@ -56,5 +56,5 @@ Please include information on when the term of the new representative should sta
 
 Rule of thumb: You are formally an Outreach Committee member when your name is mentioned [in this LF API call](https://api-gw.platform.linuxfoundation.org/project-service/v2/public/projects/lfGnr1MCq2lbKUf6f7/committees/457217c1-2421-4685-958d-a1ca8cbe691e/members). If you see your name inside this returned API Call: Congratulations, you are officially a member of the NNF Outreach Committee!
 
-> [!Hint]
+> [!Note]
 > After your Outreach Committee Representative is [stored internally](https://api-gw.platform.linuxfoundation.org/project-service/v2/public/projects/lfGnr1MCq2lbKUf6f7/committees/457217c1-2421-4685-958d-a1ca8cbe691e/members), the representative will also be displayed [on the NeoNephos website](https://neonephos.org/outreach_committee). This process happens automatically. If your representative is still not shown on the NeoNephos website after a few days, open a pull request [here](https://github.com/neonephos/neonephos_website/blob/main/src/docs/outreach_committee.md).
