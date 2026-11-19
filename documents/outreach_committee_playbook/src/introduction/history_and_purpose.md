@@ -18,6 +18,6 @@ In practical terms, the Outreach Committee is responsible for:
 
 It is important to note that **Projects are still responsible for their own marketing and outreach efforts**. But they may coordinate with the Outreach Committee to amplify their message through foundation-wide outlet channels.
 
-> [!Hint]
+> [!Tip]
 > Please consult the [NeoNephos Charter](https://cdn.platform.linuxfoundation.org/agreements/neonephos-foundation.pdf?__hstc=81619592.11739e1f4ca03192f4e918409f725053.1748961872693.1755169332458.1755604645613.29&__hssc=81619592.2.1755604645613&__hsfp=1879682750) for the full and most up-to-date description of the scope, membership and purpose of the Outreach Committee.
 
