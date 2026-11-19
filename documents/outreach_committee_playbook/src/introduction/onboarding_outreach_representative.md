@@ -15,7 +15,7 @@ Outreach Committee representatives are given the opportunity to:
 - Access to summary information on what happens in the NeoNephos Governing Board and other Commitees
 - Ability to the strategy of NeoNephos Outreach activities through participation in the SIGs and exclusive working groups
 
-> [!Hint]
+> [!Note]
 > Attendance of any Outreach Committee meetings is voluntary.
 
 ## Eligibility for Outreach Committee Representatives
@@ -40,7 +40,7 @@ In order to formally appoint a member of a qualifying member organization to the
 - Name of the representative
 - The profile on [https://app.lfx.dev/](https://app.lfx.dev/)
 
-> [!Hint]
+> [!Note]
 > Add a profile picture to the representatives account on [https://app.lfx.dev/](https://app.lfx.dev/) in order to have that image displayed [on the NeoNephos website](https://neonephos.org/outreach_committee).
 
 ## How to change the Outreach Committee Representative
