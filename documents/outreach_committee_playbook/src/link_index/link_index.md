@@ -17,6 +17,7 @@ This page is a reference with links for further reading. The links are thematica
 |---|---|
 |[Outreach Channel on Zulip](https://linuxfoundation.zulipchat.com/#narrow/channel/581518-neonephos-wg-outreach-committee/topic/Community.20Calls/with/638768756)| Primary Communication channel (private visibility - contact Outreach Committee for access)|
 |[Current Members](https://neonephos.org/outreach_committee)| Members are auto-added if their LFID is linked to the Outreach Committee group in LFX Project Control Center|
+|[Overview of SIGs](https://github.com/neonephos/metadata)| Lists all NNF SIGs including those of the Outreach Committee. May have private visibility|
 
 ## Social Media
 

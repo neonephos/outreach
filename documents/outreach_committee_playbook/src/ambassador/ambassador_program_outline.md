@@ -1,4 +1,17 @@
-# Ambassador Program Outline
+# NeoNephos Ambassador Program Outline
+
+NeoNephos Ambassadors promote our foundation and its projects through participation in events, hosting workshops, creating tutorials or contributing other content. They are a point of contact and knowledge for people interested in NeoNephos and play a fundamental part in our community outreach strategy.
+
+## Quick FAQ
+
+### Who runs the NeoNephos Ambassador Program?
+
+The NeoNephos Ambassador program is overseen by the NeoNephos Outreach Committee.
+
+### Who can be an Ambassador?
+
+Every Ambassador must be at least 18 years old. If the Ambassador wants to receive NeoNephos merchandise, then being within the European Union or United Kingdom is required. The specific requirements differ over time, so check for published information during an active application period.
+
 
 ## Application Phase
 
