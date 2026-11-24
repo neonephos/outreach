@@ -43,7 +43,7 @@ Virtual events are the primary type of events hosted by the NeoNephos Foundation
 - If the event is not already approved by NNF, a formal request must be made here [here](https://github.com/neonephos/events/issues).
 
 > [!Tip]
-> Only group managers have the privileges to schedule events through [app.lfx.dev](https://app.lfx.dev/). If you need an event scheduled but do not possess these rights, contact [support@neonephos.org](mailto: support@neonephos.org).
+> Only group managers have the privileges to schedule events through [app.lfx.dev](https://app.lfx.dev/). Usually, they are the chairperson or leads of the respective group. If you need an event scheduled but do not possess these rights, contact [support@neonephos.org](mailto: support@neonephos.org).
 
 > [!Warning]
 > Do not host events through Microsoft Teams, Google hangouts or similar non LFX tools.
