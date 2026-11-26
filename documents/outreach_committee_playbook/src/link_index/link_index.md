@@ -16,15 +16,16 @@ This page is a reference with links for further reading. The links are thematica
 |Description|Note|
 |---|---|
 |[Outreach Channel on Zulip](https://linuxfoundation.zulipchat.com/#narrow/channel/581518-neonephos-wg-outreach-committee/topic/Community.20Calls/with/638768756)| Primary Communication channel (private visibility - contact Outreach Committee for access)|
-|[Current Members](https://neonephos.org/outreach_committee)| Members are auto-added if their LFID is linked to the Outreach Committee group in LFX Project Control Center|
-|[Overview of SIGs](https://github.com/neonephos/metadata)| Lists all NNF SIGs including those of the Outreach Committee. May have private visibility|
+|[Current Members](https://neonephos.org/outreach_committee)| Members are auto-added if their LFID is linked to the Outreach Committee group in LFX Project Control Center.|
+|[Overview of SIGs](https://github.com/neonephos/metadata)| Lists all NNF SIGs including those of the Outreach Committee. May have private visibility.|
+| [Election Policy](https://neonephos.org/election_policy)|Lists term limits of NNF Chairpersons.|
 
 ## Social Media
 
 |Description|Note|
 |---|---|
-|[NeoNephos Foundation LinkedIn page](https://www.linkedin.com/company/neonephos-foundation)|
-|[NeoNephos Foundation YouTube channel](https://www.youtube.com/@neonephosfoundation)|
+|[NeoNephos Foundation LinkedIn page](https://www.linkedin.com/company/neonephos-foundation)||
+|[NeoNephos Foundation YouTube channel](https://www.youtube.com/@neonephosfoundation)||
 |[Last Week in Cloud Native](https://lwcn.dev/)|NNF News is periodically listed there. Managed from outside NNF.|
 
 ## Events
