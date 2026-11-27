@@ -31,14 +31,20 @@ This document provides a baseline on how this close coordination is faciliated s
 The Outreach Committee Chairperson is invited to normal Governing Board meetings.
 
 >[!Note]
-> A normal Governing Board meeting are the meetings *required* by the NeoNephos Foundation Charter to occur within this committee.
+> Normal Governing Board meeting are meetings *required* by the NeoNephos Foundation Charter to occur within this committee.
 
 #### Strategy Workshops
 
-The Outreach Committee Chairperson is invited to Governing Board Strategy Workshops. These are special meetings of the Governing Board, aimed to provide ample time to work through the foundation's issues. They may happen virtually or on site.
+The Outreach Committee Chairperson is invited to Governing Board Strategy Workshops, virtual and on-site. These are special meetings of the Governing Board, aimed to provide ample time to work through the foundation's issues. They may happen virtually or on site.
 
 > [!NOTE]
 > Strategy Workshops are defined as either having the words *Strategy* or *Workshop* in their title.
+
+#### Examples of Outreach Committee Attendence in GB Strategy Workshop
+
+|Example|
+|---|
+|GB on-site Strategy Workshop in Frankfurt (December 2026) (expected)|
 
 ### Responsibility
 
@@ -54,7 +60,7 @@ The Outreach Committee Chairperson is invited to Governing Board Strategy Worksh
     1. Open [an issue in the Outreach Committee repository](https://github.com/neonephos/outreach/issues) asking for agenda proposals for the Outreach Committee part of the Governing Board meeting, or
     2. Send a mail via the Outreach Committee mailing list asking for agenda proposals for the Outreach Committee part of the Governing Board meeting, or
     3. Send a message in the [Outreach Committee channel on Zulip](https://linuxfoundation.zulipchat.com/#narrow/channel/581518-neonephos-wg-outreach-committee/topic/Events.202026/with/615209731) asking for agenda proposals for the Outreach Committee part of the Governing Board meeting.
-4. At most 2 days prior to the next Governing meeting, the call for agenda topics is closed and the Outreach Committee Chairperson liaises with the Governing Board Chairperson and LFEU staff to integrate the Outreach Committee contribution to the general meeting agenda.
+4. At most 1 day prior to the next Governing meeting the call for agenda topics is closed and the Outreach Committee Chairperson liaises with the Governing Board Chairperson and LFEU staff to integrate the Outreach Committee contribution to the general meeting agenda.
 
 ## Quarterly Reviews
 
