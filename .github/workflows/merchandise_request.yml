@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
 
-      - name: Update merchandise inventory file or set up empty commit
+      - name: Update merchandise inventory file or set up commit message
         uses: actions/github-script@f28e40c7f34bde8b3046d885e986cb6290c5673b # v7.1.0
         id: process-request
         with:
@@ -24,23 +24,14 @@ jobs:
             const fs = require('fs');
 
             const issueBody = context.payload.issue.body || '';
-            
-            // Extract the selection under the "Merch Relation" section of the issue body
             const merchRelationMatch = issueBody.match(/### Merch Relation\s*\n\s*([^\n\r]+)/);
             const authorization = merchRelationMatch ? merchRelationMatch[1].trim() : '';
 
             let commitMessage = `Add merchandise request from Issue #${context.issue.number}`;
 
             if (authorization === 'Yes.') {
-              // If authorized, create an empty commit without altering the inventory file
-              const { execSync } = require('child_process');
               commitMessage = `Merchandise Request approved for #${context.issue.number}`;
-              
-              execSync('git config user.name "github-actions[bot]"');
-              execSync('git config user.email "github-actions[bot]@users.noreply.github.com"');
-              execSync(`git commit --allow-empty -m "${commitMessage}"`);
             } else {
-              // Default behavior for "No." or "Unsure."
               const inventoryFile = 'topics/merch/inventory/stock_of_nonallocated_merchandise.csv';
 
               fs.appendFileSync(
@@ -49,7 +40,6 @@ jobs:
               );
             }
 
-            // Export commit message for use in the PR step
             core.setOutput('commit_message', commitMessage);
 
       - name: Create Pull Request
@@ -57,6 +47,7 @@ jobs:
         uses: peter-evans/create-pull-request@c5a7806660adbe173f04e3e038b0ccdcd758773c # v6.1.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          sign-commits: true
           branch: "merch-request-${{ github.event.issue.number }}"
           commit-message: ${{ steps.process-request.outputs.commit_message }}
           title: "${{ github.event.issue.title }}"
