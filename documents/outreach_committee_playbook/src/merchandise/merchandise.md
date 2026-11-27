@@ -1,6 +1,9 @@
 # Merchandise
 
-NeoNephos offers branded merchandise.
+NeoNephos offers branded merchandise for itself and its projects.
+
+> [!Hint]
+> NeoNephos projects might also autonomously procure project branded merchandise on their own initiative. This section only concerns itself with merchandise organized by the foundation.
 
 ## How to request merchandise?
 
@@ -33,4 +36,8 @@ The current stock of available merchandise types can be seen [here](https://gith
 The current stock of available merchandise can be seen [here](https://github.com/neonephos/outreach/blob/main/topics/merch/inventory/stock_of_nonallocated_merchandise.csv).
 
 > [!Note]
-> The [stock_of_nonallocated_merchandise table](https://github.com/neonephos/outreach/blob/main/topics/merch/inventory/stock_of_nonallocated_merchandise.csv) does not count merchandise stock that has already been allocated for events. Only available merch is listed. 
+> The [stock_of_nonallocated_merchandise table](https://github.com/neonephos/outreach/blob/main/topics/merch/inventory/stock_of_nonallocated_merchandise.csv) does not count merchandise stock that has already been allocated for events. Only available merch is listed.
+
+## When is merchandise procured?
+
+The budget for merchandise is usually set once a year as part of the [yearly NeoNephos budget](./../relations_to_other_committees/governing_board_budget_requests_yearly_outreach_committee_budget.md).
